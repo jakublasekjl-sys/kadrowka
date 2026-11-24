@@ -1,0 +1,46 @@
+{
+  "gromada": {
+    "items": [
+      "zbiórka gromady",
+      "zbiórka szóstki",
+      "trop",
+      "sprawność",
+      "gwiazdka zuchowa",
+      "krąg rady",
+      "kolonia"
+    ]
+  },
+  "druzyna": {
+    "items": [
+      "zbiórka drużyny",
+      "zbiórka zastępu / patrolu",
+      "trop",
+      "wyzwanie",
+      "próba na stopień",
+      "rada drużyny",
+      "obóz"
+    ]
+  },
+  "zespol_kadry": {
+    "items": [
+      "praktyka zespołu",
+      "spotkanie",
+      "przegląd celów",
+      "informacja zwrotna",
+      "docenianie"
+    ]
+  },
+  "haliz": {
+    "items": [
+      "kolonia",
+      "obóz",
+      "zimowisko",
+      "ramowy plan dnia",
+      "zajęcia programowe",
+      "odprawa kadry",
+      "służba",
+      "regulamin",
+      "ewaluacja dnia"
+    ]
+  }
+}

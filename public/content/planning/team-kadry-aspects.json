@@ -1,0 +1,134 @@
+[
+  {
+    "id": "a01",
+    "title": "Misja i wartości",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a02",
+    "title": "Wyznaczanie celów zespołu",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a03",
+    "title": "Rozwój osobisty i kompetencje",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a04",
+    "title": "Organizacja spotkań",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a05",
+    "title": "Komunikacja w zespole",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a06",
+    "title": "Transparentność i przepływ informacji",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a07",
+    "title": "Dzielenie się odpowiedzialnością",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a08",
+    "title": "Podejmowanie decyzji",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a09",
+    "title": "Praca z konfliktem",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a10",
+    "title": "Wspieranie w działaniu",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a11",
+    "title": "Wdzięczność i docenianie",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  },
+  {
+    "id": "a12",
+    "title": "Informacja zwrotna i podsumowanie pracy",
+    "fields": [
+      "currentState",
+      "desiredState",
+      "priority",
+      "practiceIdeas",
+      "comment"
+    ]
+  }
+]

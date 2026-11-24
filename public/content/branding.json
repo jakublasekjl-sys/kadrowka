@@ -1,0 +1,30 @@
+{
+  "name": "Kadrówka",
+  "fontFamily": "Roboto",
+  "logoAsset": "assets/branding/kadrowka_logo.png",
+  "colors": {
+    "primary": "#755390",
+    "accent": "#F0B33B",
+    "secondary": "#243364",
+    "background": "#F8F6FA",
+    "surface": "#FFFFFF",
+    "text": "#000000",
+    "textSecondary": "#4D4D4D",
+    "border": "#E7E1EC",
+    "primarySoft": "#F1ECF5",
+    "accentSoft": "#FFF4DC",
+    "secondarySoft": "#EEF1FA"
+  },
+  "moduleColors": {
+    "model-przywodztwa": "#755390",
+    "proces-pracy-z-kadra": "#243364",
+    "praca-z-kadra-w-zespole": "#755390",
+    "ewaluacja": "#F0B33B",
+    "wdrazanie-spzk": "#243364",
+    "funkcje-w-zhp": "#755390",
+    "system-ksztalcenia-w-zhp": "#243364",
+    "system-stopni-instruktorskich-w-zhp": "#755390",
+    "artykuly-z-czuwaj": "#F0B33B",
+    "pozostale-materialy": "#4D4D4D"
+  }
+}

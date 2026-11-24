@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "analysis:4x_jak",
+    "title": "4 × JAK",
+    "description": "Prowadzi od opisu obecnej sytuacji do obrazu zmiany.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "4x_jak",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:4x_jak",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:5x_dlaczego",
+    "title": "5 × Dlaczego",
+    "description": "Pomaga dotrzeć do źródła powtarzającego się problemu.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "5x_dlaczego",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:5x_dlaczego",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:analiza_organizacyjna",
+    "title": "Analiza organizacyjna",
+    "description": "Pomaga opisać uwarunkowania organizacyjne pracy.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "analiza_organizacyjna",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:analiza_organizacyjna",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:analiza_potrzeb",
+    "title": "Analiza potrzeb wychowawczych",
+    "description": "Pomaga przełożyć potrzeby wychowawcze grupy na cele, program i mierzalne zmiany.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "analiza_potrzeb",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:analiza_potrzeb",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:ryzyka_haliz",
+    "title": "Analiza ryzyk HALiZ",
+    "description": "Porządkuje ryzyka programu, bezpieczeństwa, kadry, bazy i pogody oraz przypisuje działania zapobiegawcze.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "ryzyka_haliz",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:ryzyka_haliz",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:analiza_zasobow",
+    "title": "Analiza zasobów",
+    "description": "Pomaga zobaczyć ludzi, kompetencje, czas, materiały i wsparcie.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "analiza_zasobow",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:analiza_zasobow",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:luka",
+    "title": "LUKA",
+    "description": "Pomaga przejść od stanu obecnego do stanu pożądanego.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "luka",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:luka",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:macierz_priorytetow",
+    "title": "Macierz priorytetów",
+    "description": "Pomaga wybrać działania o największym wpływie i rozsądnym nakładzie pracy.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "macierz_priorytetow",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:macierz_priorytetow",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:mapa_interesariuszy",
+    "title": "Mapa interesariuszy",
+    "description": "Porządkuje osoby, grupy i partnerów, którzy wpływają na powodzenie planu.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "mapa_interesariuszy",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:mapa_interesariuszy",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:metaplan",
+    "title": "METAPLAN",
+    "description": "Porównuje stan faktyczny i pożądany oraz szuka przyczyn.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "metaplan",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:metaplan",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:start_stop_continue",
+    "title": "Start / Stop / Continue",
+    "description": "Szybka metoda podsumowania: co zaczynamy, co kończymy i co kontynuujemy.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "start_stop_continue",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:start_stop_continue",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "analysis:swot",
+    "title": "SWOT",
+    "description": "Porządkuje mocne strony, słabe strony, szanse i zagrożenia.",
+    "category": "Analizy planistyczne",
+    "audiences": [
+      "Kadra planująca"
+    ],
+    "usageModes": [
+      "Planowanie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "planning",
+    "targetId": "swot",
+    "type": "analysis",
+    "kind": "analysis",
+    "favoriteId": "id:analysis:swot",
+    "audience": "Kadra planująca",
+    "mode": "Planowanie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00644",
+    "title": "Arkusz diagnozy hufca narzędzie",
+    "fileName": "Arkusz-diagnozy-hufca---narzędzie.xlsx",
+    "type": "spreadsheet",
+    "path": "files/pozostale-materialy/Arkusz-diagnozy-hufca---narzędzie.xlsx",
+    "modified": "2026-03-11T12:58:29Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 46,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Diagnoza i ewaluacja",
+    "audiences": [
+      "Komendy",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Arkusz pracy",
+      "Zespołowo"
+    ],
+    "levels": [
+      "Hufiec"
+    ],
+    "kind": "file",
+    "audience": "Komendy, Osoby kierujące zespołami",
+    "mode": "Arkusz pracy, Zespołowo",
+    "level": "Hufiec"
+  },
+  {
+    "id": "catalog:diagnoza-hufca",
+    "title": "Diagnoza hufca",
+    "category": "Diagnoza i ewaluacja",
+    "audiences": [
+      "Komendy",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie",
+      "Zespołowo"
+    ],
+    "levels": [
+      "Hufiec"
+    ],
+    "targetKind": "page",
+    "targetId": "arkusz-diagnozy-hufca",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:diagnoza-hufca",
+    "audience": "Komendy, Osoby kierujące zespołami",
+    "mode": "Indywidualnie, Zespołowo",
+    "level": "Hufiec"
+  },
+  {
+    "id": "file:file-00653",
+    "title": "Diagnoza hufca instrukcja do druku",
+    "fileName": "Diagnoza-hufca---instrukcja-do-druku.pdf",
+    "type": "pdf",
+    "path": "files/pozostale-materialy/Diagnoza-hufca---instrukcja-do-druku.pdf",
+    "modified": "2026-03-12T11:43:58Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 34,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Diagnoza i ewaluacja",
+    "audiences": [
+      "Komendy",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Arkusz pracy",
+      "Zespołowo"
+    ],
+    "levels": [
+      "Hufiec"
+    ],
+    "kind": "file",
+    "audience": "Komendy, Osoby kierujące zespołami",
+    "mode": "Arkusz pracy, Zespołowo",
+    "level": "Hufiec"
+  },
+  {
+    "id": "file:file-00643",
+    "title": "Diagnoza hufca zestawy pytań",
+    "fileName": "Diagnoza-hufca---zestawy-pytań.docx",
+    "type": "word",
+    "path": "files/pozostale-materialy/Diagnoza-hufca---zestawy-pytań.docx",
+    "modified": "2026-03-11T12:57:39Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 34,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Diagnoza i ewaluacja",
+    "audiences": [
+      "Komendy",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Arkusz pracy",
+      "Zespołowo"
+    ],
+    "levels": [
+      "Hufiec"
+    ],
+    "kind": "file",
+    "audience": "Komendy, Osoby kierujące zespołami",
+    "mode": "Arkusz pracy, Zespołowo",
+    "level": "Hufiec"
+  },
+  {
+    "id": "catalog:okk",
+    "title": "OKK",
+    "category": "Kształcenie",
+    "audiences": [
+      "Kadra wychowawcza"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep"
+    ],
+    "targetKind": "page",
+    "targetId": "system-ksztalcenia-w-zhp",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:okk",
+    "audience": "Kadra wychowawcza",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep"
+  },
+  {
+    "id": "file:file-00031",
+    "title": "Narzędziownik dla kadry ZHP online",
+    "fileName": "Narzędziownik dla kadry ZHP_online.pdf",
+    "type": "pdf",
+    "path": "files/pozostale-materialy/Narzędziownik dla kadry ZHP_online.pdf",
+    "modified": "2025-09-08T13:56:35Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 34,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Pozostałe narzędzia",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00360",
+    "title": "A1 kontrakt kultura organizacyjna",
+    "fileName": "A1_kontrakt_kultura_organizacyjna.pdf",
+    "type": "pdf",
+    "path": "files/praca-z-kadra-w-zespole/A1_kontrakt_kultura_organizacyjna.pdf",
+    "modified": "2025-08-27T17:29:22Z",
+    "category": "Praca zespołu",
+    "audiences": [
+      "Zespoły kadry",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Zespołowo"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "praca-z-kadra-w-zespole",
+    "sourceModuleTitle": "Praca z kadrą w zespole",
+    "kind": "file",
+    "audience": "Zespoły kadry, Osoby kierujące zespołami",
+    "mode": "Zespołowo",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:checklista-aspektow-pracy-z-kadra",
+    "title": "Checklista aspektów pracy z kadrą w zespole",
+    "category": "Praca zespołu",
+    "audiences": [
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep"
+    ],
+    "targetKind": "page",
+    "targetId": "praca-z-kadra-w-zespole",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:checklista-aspektow-pracy-z-kadra",
+    "audience": "Osoby kierujące zespołami",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep"
+  },
+  {
+    "id": "file:file-00516",
+    "title": "Checklista aspektów PzK do druku",
+    "fileName": "Chceck-list-aspekty PzK.pdf",
+    "type": "pdf",
+    "path": "files/praca-z-kadra-w-zespole/Chceck-list-aspektyPzK.pdf",
+    "modified": "2025-10-26T09:16:44Z",
+    "category": "Praca zespołu",
+    "audiences": [
+      "Zespoły kadry",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "praca-z-kadra-w-zespole",
+    "sourceModuleTitle": "Praca z kadrą w zespole",
+    "kind": "file",
+    "audience": "Zespoły kadry, Osoby kierujące zespołami",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00539",
+    "title": "DRUK DOMOWY karty i instrukcja 1",
+    "fileName": "DRUK-DOMOWY_karty-i-instrukcja-1.pdf",
+    "type": "pdf",
+    "path": "files/pozostale-materialy/DRUK-DOMOWY_karty-i-instrukcja-1.pdf",
+    "modified": "2025-11-05T15:24:52Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 46,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Praca zespołu",
+    "audiences": [
+      "Zespoły kadry",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "kind": "file",
+    "audience": "Zespoły kadry, Osoby kierujące zespołami",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:kontrakt-jak-pracujemy",
+    "title": "Kontrakt „Jak pracujemy?”",
+    "category": "Praca zespołu",
+    "audiences": [
+      "Zespoły kadry",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Zespołowo"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "page",
+    "targetId": "praca-z-kadra-w-zespole",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:kontrakt-jak-pracujemy",
+    "audience": "Zespoły kadry, Osoby kierujące zespołami",
+    "mode": "Zespołowo",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:magnolia-kultury",
+    "title": "Magnolia Kultury - Rozkwit Organizacji",
+    "category": "Praca zespołu",
+    "audiences": [
+      "Zespoły kadry",
+      "Komendy"
+    ],
+    "usageModes": [
+      "Zespołowo"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep"
+    ],
+    "targetKind": "page",
+    "targetId": "magnolia-kultury",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:magnolia-kultury",
+    "audience": "Zespoły kadry, Komendy",
+    "mode": "Zespołowo",
+    "level": "GK, Chorągiew, Hufiec, Szczep"
+  },
+  {
+    "id": "file:file-00495",
+    "title": "Formatka opisu funkcji",
+    "fileName": "Formatka-opisu-funkcji.docx",
+    "type": "word",
+    "path": "files/proces-pracy-z-kadra/Formatka-opisu-funkcji.docx",
+    "modified": "2025-09-13T11:16:13Z",
+    "category": "Proces pracy z kadrą",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Arkusz pracy"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca, Osoby kierujące zespołami",
+    "mode": "Arkusz pracy",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00485",
+    "title": "Formatka opisu funkcji 2",
+    "fileName": "Formatka-opisu-funkcji-2.pdf",
+    "type": "pdf",
+    "path": "files/proces-pracy-z-kadra/Formatka-opisu-funkcji-2.pdf",
+    "modified": "2025-09-09T08:42:31Z",
+    "category": "Proces pracy z kadrą",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Arkusz pracy"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca, Osoby kierujące zespołami",
+    "mode": "Arkusz pracy",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:karty-doceniam",
+    "title": "Karty „Doceniam”",
+    "category": "Proces pracy z kadrą",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca",
+      "Zespoły kadry"
+    ],
+    "usageModes": [
+      "Indywidualnie",
+      "Zespołowo"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "page",
+    "targetId": "proces-pracy-z-kadra-3-podsumowanie-pracy",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:karty-doceniam",
+    "audience": "Kadra wychowawcza, Kadra wspierająca, Zespoły kadry",
+    "mode": "Indywidualnie, Zespołowo",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00293",
+    "title": "Karty doceniam drukA4 kopia",
+    "fileName": "Karty_doceniam_drukA4-kopia.pdf",
+    "type": "pdf",
+    "path": "files/proces-pracy-z-kadra/Karty_doceniam_drukA4-kopia.pdf",
+    "modified": "2025-08-26T05:40:13Z",
+    "category": "Proces pracy z kadrą",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca, Osoby kierujące zespołami",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:narzedziownik-informacja-zwrotna",
+    "title": "Narzędziownik „Jak skutecznie udzielać informacji zwrotnej?”",
+    "category": "Proces pracy z kadrą",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca",
+      "Osoby kierujące zespołami",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Indywidualnie",
+      "Zespołowo"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "page",
+    "targetId": "proces-pracy-z-kadra-3-podsumowanie-pracy-rozmowa-inf-zwrotna",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:narzedziownik-informacja-zwrotna",
+    "audience": "Kadra wychowawcza, Kadra wspierająca, Osoby kierujące zespołami, Mentorzy",
+    "mode": "Indywidualnie, Zespołowo",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "title": "Przejdź do kursu e-learningowego",
+    "url": "https://edu.zhp.pl/enrol/index.php?id=82",
+    "id": "page-link:proces-pracy-z-kadra-1-pozyskiwanie-z-zewnatrz:przejdzdokursuelearningowegohttpseduzhpplenrolindexphpid82",
+    "category": "Proces pracy z kadrą",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Kurs / szkolenie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą 1 Pozyskiwanie Z Zewnatrz",
+    "type": "course",
+    "kind": "page-link",
+    "favoriteId": "id:page-link:proces-pracy-z-kadra-1-pozyskiwanie-z-zewnatrz:przejdzdokursuelearningowegohttpseduzhpplenrolindexphpid82",
+    "audience": "Kadra wychowawcza, Kadra wspierająca, Osoby kierujące zespołami",
+    "mode": "Kurs / szkolenie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00350",
+    "title": "Wniosek o przywrócenie członkostwa w ZHP",
+    "fileName": "Wniosek-o-przywrócenie-członkostwa-w-ZHP.docx",
+    "type": "word",
+    "path": "files/proces-pracy-z-kadra/Wniosek-o-przywrócenie-członkostwa-w-ZHP.docx",
+    "modified": "2025-08-27T05:28:45Z",
+    "category": "Proces pracy z kadrą",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Arkusz pracy"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca, Osoby kierujące zespołami",
+    "mode": "Arkusz pracy",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:dziennik-nawykow",
+    "title": "Dziennik nawyków",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "page",
+    "targetId": "model-przywodztwa-dziennik-nawykow",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:dziennik-nawykow",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00314",
+    "title": "Dziennik nawyków habit tracker",
+    "fileName": "Dziennik-nawyków---habit-tracker.pdf",
+    "type": "pdf",
+    "path": "files/model-przywodztwa/Dziennik-nawyków---habit-tracker.pdf",
+    "modified": "2025-08-26T10:55:28Z",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Materiał do użycia"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "model-przywodztwa",
+    "sourceModuleTitle": "Model przywództwa",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Materiał do użycia",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:dziennik-refleksji",
+    "title": "Dziennik refleksji",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "page",
+    "targetId": "model-przywodztwa-dziennik-refleksji",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:dziennik-refleksji",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00645",
+    "title": "Dziennik Refleksji pojedyncze strony",
+    "fileName": "Dziennik-Refleksji-pojedyncze-strony.pdf",
+    "type": "pdf",
+    "path": "files/model-przywodztwa/Dziennik-Refleksji-pojedyncze-strony.pdf",
+    "modified": "2026-01-26T09:25:51Z",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Materiał do użycia"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "model-przywodztwa",
+    "sourceModuleTitle": "Model przywództwa",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Materiał do użycia",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00348",
+    "title": "Dziennik Refleksji ZHP druk",
+    "fileName": "Dziennik-Refleksji-ZHP-druk.pdf",
+    "type": "pdf",
+    "path": "files/model-przywodztwa/Dziennik-Refleksji-ZHP-druk.pdf",
+    "modified": "2025-08-26T16:34:57Z",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Materiał do użycia"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "model-przywodztwa",
+    "sourceModuleTitle": "Model przywództwa",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Materiał do użycia",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00347",
+    "title": "Dziennik Refleksji ZHP internet 1",
+    "fileName": "Dziennik-Refleksji-ZHP-internet-1.pdf",
+    "type": "pdf",
+    "path": "files/model-przywodztwa/Dziennik-Refleksji-ZHP-internet-1.pdf",
+    "modified": "2025-08-26T16:34:14Z",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Materiał do użycia"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "model-przywodztwa",
+    "sourceModuleTitle": "Model przywództwa",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Materiał do użycia",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:indywidualna-sciezka-rozwoju",
+    "title": "Indywidualna Ścieżka Rozwoju",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "url": "https://gkzhp.sharepoint.com/:w:/r/sites/dokumentyzhp/_layouts/15/Doc.aspx?sourcedoc=%7BF15F479F-D9FD-4745-A984-95251B5FEBFE%7D&file=u_gk_121_2020_za%C5%82%C4%85cznik_I%C5%9AR.docx&action=default&mobileredirect=true",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:indywidualna-sciezka-rozwoju",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:mapowanie-postaw-pajeczynka",
+    "title": "Mapowanie postaw - pajęczynka",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca",
+      "Zespoły kadry"
+    ],
+    "usageModes": [
+      "Indywidualnie",
+      "Zespołowo"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "page",
+    "targetId": "model-przywodztwa-pajeczynka",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:mapowanie-postaw-pajeczynka",
+    "audience": "Kadra wychowawcza, Kadra wspierająca, Zespoły kadry",
+    "mode": "Indywidualnie, Zespołowo",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00478",
+    "title": "Mapowanie Postaw pajęczynka",
+    "fileName": "Mapowanie-Postaw---pajęczynka.pdf",
+    "type": "pdf",
+    "path": "files/model-przywodztwa/Mapowanie-Postaw---pajęczynka.pdf",
+    "modified": "2025-09-03T07:49:46Z",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Materiał do użycia"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "model-przywodztwa",
+    "sourceModuleTitle": "Model przywództwa",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Materiał do użycia",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:miana-kadry-wspierajacej",
+    "title": "Miana kadry wspierającej",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "page",
+    "targetId": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-mianakadry",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:miana-kadry-wspierajacej",
+    "audience": "Kadra wspierająca",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:poznajmy-sie-przez-postawy",
+    "title": "Poznajmy się przez postawy - karty",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Zespoły kadry"
+    ],
+    "usageModes": [
+      "Zespołowo"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "page",
+    "targetId": "model-przywodztwa-poznajmy-sie-przez-postawy",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:poznajmy-sie-przez-postawy",
+    "audience": "Zespoły kadry",
+    "mode": "Zespołowo",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00487",
+    "title": "Poznajmy się przez postawy do druku domowego",
+    "fileName": "Poznajmy-się-przez-postawy---do-druku-domowego.pdf",
+    "type": "pdf",
+    "path": "files/model-przywodztwa/Poznajmy-się-przez-postawy---do-druku-domowego.pdf",
+    "modified": "2025-09-09T11:01:25Z",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Zespołowo"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "model-przywodztwa",
+    "sourceModuleTitle": "Model przywództwa",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Zespołowo",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00315",
+    "title": "Poznajmy się... online",
+    "fileName": "Poznajmy-się...---online.pdf",
+    "type": "pdf",
+    "path": "files/model-przywodztwa/Poznajmy-się...---online.pdf",
+    "modified": "2025-08-26T10:58:14Z",
+    "category": "Przywództwo i rozwój",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Zespołowo"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "model-przywodztwa",
+    "sourceModuleTitle": "Model przywództwa",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Zespołowo",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00028",
+    "title": "Program próby harcerza harcerki dla dorosłych",
+    "fileName": "Program próby harcerza-harcerki dla dorosłych.docx",
+    "type": "word",
+    "path": "files/pozostale-materialy/Program próby harcerza-harcerki dla dorosłych.docx",
+    "modified": "2025-08-27T05:21:03Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 46,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Stopnie i próby",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:stopnie-harcerskie-wedrownicze",
+    "title": "Stopnie harcerskie (wędrownicze)",
+    "category": "Stopnie i próby",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "url": "https://gkzhp.sharepoint.com/:w:/r/sites/dokumentyzhp/_layouts/15/Doc.aspx?sourcedoc=%7B352E2A39-D500-4FF8-9760-0CDFEAA90E98%7D&file=zalcznik_20070612_12323_u.zal_rn_40_2003.doc&action=default&mobileredirect=true",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:stopnie-harcerskie-wedrownicze",
+    "audience": "Kadra wychowawcza, Kadra wspierająca",
+    "mode": "Indywidualnie",
+    "level": "Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:stopnie-instruktorskie",
+    "title": "Stopnie instruktorskie i praca z opiekunem próby",
+    "category": "Stopnie i próby",
+    "audiences": [
+      "Kadra wychowawcza"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "module",
+    "targetId": "system-stopni-instruktorskich-w-zhp",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:stopnie-instruktorskie",
+    "audience": "Kadra wychowawcza",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00351",
+    "title": "Wniosek o potwierdzenie stopnia instruktorskiego",
+    "fileName": "Wniosek-o-potwierdzenie-stopnia-instruktorskiego.docx",
+    "type": "word",
+    "path": "files/proces-pracy-z-kadra/Wniosek-o-potwierdzenie-stopnia-instruktorskiego.docx",
+    "modified": "2025-08-27T05:30:37Z",
+    "category": "Stopnie i próby",
+    "audiences": [
+      "Kadra wychowawcza",
+      "Kadra wspierająca",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Arkusz pracy"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Kadra wychowawcza, Kadra wspierająca, Osoby kierujące zespołami",
+    "mode": "Arkusz pracy",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00014",
+    "title": "mapa mysli SPzK",
+    "fileName": "mapa mysli SPzK.pdf",
+    "type": "pdf",
+    "path": "files/wdrazanie-spzk/mapa mysli SPzK.pdf",
+    "modified": "2025-03-12T13:43:10Z",
+    "moduleId": "wdrazanie-spzk",
+    "moduleTitle": "Wdrażanie SPzK",
+    "toolScore": 30,
+    "categoryId": "proces-pracy-z-kadra",
+    "categoryTitle": "Proces pracy z kadrą",
+    "sourceModuleId": "wdrazanie-spzk",
+    "sourceModuleTitle": "Wdrażanie SPzK",
+    "category": "Wdrażanie SPzK",
+    "audiences": [
+      "Komendy",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec"
+    ],
+    "kind": "file",
+    "audience": "Komendy, Osoby kierujące zespołami",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec"
+  },
+  {
+    "id": "file:file-00012",
+    "title": "Plan wdrażania chorągiew",
+    "fileName": "Plan wdrażania - chorągiew.pdf",
+    "type": "pdf",
+    "path": "files/pozostale-materialy/Plan wdrażania - chorągiew.pdf",
+    "modified": "2025-03-06T21:19:46Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 34,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Wdrażanie SPzK",
+    "audiences": [
+      "Komendy",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec"
+    ],
+    "kind": "file",
+    "audience": "Komendy, Osoby kierujące zespołami",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec"
+  },
+  {
+    "id": "file:file-00013",
+    "title": "Plan wdrażania Główna Kwatera",
+    "fileName": "Plan wdrażania - Główna Kwatera.pdf",
+    "type": "pdf",
+    "path": "files/pozostale-materialy/Plan wdrażania - Główna Kwatera.pdf",
+    "modified": "2025-03-06T21:19:46Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 34,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Wdrażanie SPzK",
+    "audiences": [
+      "Komendy",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec"
+    ],
+    "kind": "file",
+    "audience": "Komendy, Osoby kierujące zespołami",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec"
+  },
+  {
+    "id": "file:file-00011",
+    "title": "Plan wdrażania hufiec",
+    "fileName": "Plan wdrażania - hufiec.pdf",
+    "type": "pdf",
+    "path": "files/pozostale-materialy/Plan wdrażania - hufiec.pdf",
+    "modified": "2025-03-06T21:19:46Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 34,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Wdrażanie SPzK",
+    "audiences": [
+      "Komendy",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec"
+    ],
+    "kind": "file",
+    "audience": "Komendy, Osoby kierujące zespołami",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec"
+  },
+  {
+    "title": "Pobierz mapy myśli o SPzK",
+    "type": "page",
+    "targetKind": "page",
+    "targetId": "wydzielona-strona-mapa-mysli",
+    "url": "",
+    "id": "page-link:wdrazanie-spzk-w-zhp-2:pobierzmapymysliospzk",
+    "category": "Wdrażanie SPzK",
+    "audiences": [
+      "Komendy",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec"
+    ],
+    "sourceModuleId": "wdrazanie-spzk",
+    "sourceModuleTitle": "Wdrażanie SPzK W ZHP 2",
+    "kind": "page-link",
+    "favoriteId": "id:page-link:wdrazanie-spzk-w-zhp-2:pobierzmapymysliospzk",
+    "audience": "Komendy, Osoby kierujące zespołami",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec"
+  },
+  {
+    "id": "file:file-00016",
+    "title": "Praca z kadrą wdrażanie mapa myśli chorągwie",
+    "fileName": "Praca z kadrą_wdrażanie_mapa myśli_chorągwie.pdf",
+    "type": "pdf",
+    "path": "files/wdrazanie-spzk/Praca z kadrą_wdrażanie_mapa myśli_chorągwie.pdf",
+    "modified": "2025-03-13T14:05:45Z",
+    "moduleId": "wdrazanie-spzk",
+    "moduleTitle": "Wdrażanie SPzK",
+    "toolScore": 30,
+    "categoryId": "proces-pracy-z-kadra",
+    "categoryTitle": "Proces pracy z kadrą",
+    "sourceModuleId": "wdrazanie-spzk",
+    "sourceModuleTitle": "Wdrażanie SPzK",
+    "category": "Wdrażanie SPzK",
+    "audiences": [
+      "Komendy",
+      "Osoby kierujące zespołami"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec"
+    ],
+    "kind": "file",
+    "audience": "Komendy, Osoby kierujące zespołami",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec"
+  },
+  {
+    "id": "file:file-00018",
+    "title": "Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy",
+    "fileName": "Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy.docx",
+    "type": "word",
+    "path": "files/pozostale-materialy/Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy.docx",
+    "modified": "2025-08-26T19:08:41Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 34,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:harcerskie-abc",
+    "title": "Harcerskie ABC - kurs dla nowych wolontariuszy",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Kurs / szkolenie",
+      "Z mentorem"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "targetKind": "page",
+    "targetId": "proces-pracy-z-kadra-1-pozyskiwanie-z-zewnatrz",
+    "type": "course",
+    "kind": "static",
+    "favoriteId": "id:catalog:harcerskie-abc",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Kurs / szkolenie, Z mentorem",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00476",
+    "title": "Harcerskie ABC – narzędzie do pracy indywidualnej",
+    "fileName": "Harcerskie-ABC-–-narzędzie-do-pracy-indywidualnej.docx",
+    "type": "word",
+    "path": "files/proces-pracy-z-kadra/Harcerskie-ABC-–-narzędzie-do-pracy-indywidualnej.docx",
+    "modified": "2026-04-07T07:33:21Z",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00471",
+    "title": "Harcerskie ABC. Kurs dla nowych wolontariuszy w ZHP",
+    "fileName": "Harcerskie-ABC.-Kurs-dla-nowych-wolontariuszy-w-ZHP.pdf",
+    "type": "pdf",
+    "path": "files/proces-pracy-z-kadra/Harcerskie-ABC.-Kurs-dla-nowych-wolontariuszy-w-ZHP.pdf",
+    "modified": "2025-09-02T15:37:03Z",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Kurs / szkolenie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Kurs / szkolenie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00355",
+    "title": "Karta wolontariusza członek powracający do ZHP",
+    "fileName": "Karta-wolontariusza_członek-powracający-do-ZHP.docx",
+    "type": "word",
+    "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_członek-powracający-do-ZHP.docx",
+    "modified": "2025-08-27T05:33:42Z",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Materiał do użycia"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Materiał do użycia",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00354",
+    "title": "Karta wolontariusza nowy członek ZHP",
+    "fileName": "Karta-wolontariusza_nowy-członek-ZHP.docx",
+    "type": "word",
+    "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_nowy-członek-ZHP.docx",
+    "modified": "2025-08-27T05:33:12Z",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Materiał do użycia"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Materiał do użycia",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00353",
+    "title": "Karta wolontariusza współpraca akcyjna",
+    "fileName": "Karta-wolontariusza_współpraca-akcyjna.docx",
+    "type": "word",
+    "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_współpraca-akcyjna.docx",
+    "modified": "2025-08-27T05:31:56Z",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Materiał do użycia"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Materiał do użycia",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "catalog:prawo-harcerskie-dla-doroslych",
+    "title": "Prawo harcerskie dla dorosłych",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Indywidualnie",
+      "Z mentorem"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "url": "https://gkzhp.sharepoint.com/:w:/r/sites/dokumentyzhp/_layouts/15/Doc.aspx?sourcedoc=%7B352E2A39-D500-4FF8-9760-0CDFEAA90E98%7D&file=zalcznik_20070612_12323_u.zal_rn_40_2003.doc&action=default&mobileredirect=true",
+    "type": "tool",
+    "kind": "static",
+    "favoriteId": "id:catalog:prawo-harcerskie-dla-doroslych",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Indywidualnie, Z mentorem",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00356",
+    "title": "Rejestr wolontariuszy",
+    "fileName": "Rejestr-wolontariuszy.xlsx",
+    "type": "spreadsheet",
+    "path": "files/proces-pracy-z-kadra/Rejestr-wolontariuszy.xlsx",
+    "modified": "2025-09-02T15:10:07Z",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Arkusz pracy"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Arkusz pracy",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00023",
+    "title": "Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP",
+    "fileName": "Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP.docx",
+    "type": "word",
+    "path": "files/pozostale-materialy/Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP.docx",
+    "modified": "2025-09-29T13:13:38Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 34,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00022",
+    "title": "Rozmowa z nowym wolontariuszem o dołączeniu do ZHP",
+    "fileName": "Rozmowa z nowym wolontariuszem o dołączeniu do ZHP.docx",
+    "type": "word",
+    "path": "files/pozostale-materialy/Rozmowa z nowym wolontariuszem o dołączeniu do ZHP.docx",
+    "modified": "2025-09-29T13:13:21Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 34,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00021",
+    "title": "Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt",
+    "fileName": "Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt.docx",
+    "type": "word",
+    "path": "files/pozostale-materialy/Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt.docx",
+    "modified": "2025-08-27T04:39:22Z",
+    "moduleId": "pozostale-materialy",
+    "moduleTitle": "Pozostałe Materiały",
+    "toolScore": 34,
+    "categoryId": "pozostale",
+    "categoryTitle": "Pozostałe narzędzia",
+    "sourceModuleId": "pozostale-materialy",
+    "sourceModuleTitle": "Pozostałe Materiały",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  },
+  {
+    "id": "file:file-00352",
+    "title": "Start w harcerstwo",
+    "fileName": "Start-w-harcerstwo.docx",
+    "type": "word",
+    "path": "files/proces-pracy-z-kadra/Start-w-harcerstwo.docx",
+    "modified": "2025-08-27T05:31:14Z",
+    "category": "Wprowadzenie do ZHP",
+    "audiences": [
+      "Nowi wolontariusze",
+      "Mentorzy"
+    ],
+    "usageModes": [
+      "Indywidualnie"
+    ],
+    "levels": [
+      "GK",
+      "Chorągiew",
+      "Hufiec",
+      "Szczep",
+      "Drużyna"
+    ],
+    "sourceModuleId": "proces-pracy-z-kadra",
+    "sourceModuleTitle": "Proces pracy z kadrą",
+    "kind": "file",
+    "audience": "Nowi wolontariusze, Mentorzy",
+    "mode": "Indywidualnie",
+    "level": "GK, Chorągiew, Hufiec, Szczep, Drużyna"
+  }
+]

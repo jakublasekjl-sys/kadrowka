@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "environment": "production",
+  "adminPanelEnabled": false,
+  "azure": {
+    "enabled": false,
+    "tenantId": "",
+    "clientId": "",
+    "storageAccountName": "",
+    "containerName": "content",
+    "publicBaseUrl": ""
+  }
+}

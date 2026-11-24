@@ -1,0 +1,3757 @@
+[
+  {
+    "id": "planowanie",
+    "title": "Planowanie",
+    "shortTitle": "Planowanie",
+    "description": "Kreator planowania pracy gromady, drużyny albo zespołu kadry.",
+    "color": "#2F6F73",
+    "icon": "calendar_month",
+    "layout": "planningModule",
+    "pages": [],
+    "files": [],
+    "filesCount": 0,
+    "configPath": "planning/planning-config.json"
+  },
+  {
+    "id": "model-przywodztwa",
+    "title": "Model przywództwa",
+    "shortTitle": "Model przywództwa",
+    "description": "Postawy i zachowania kadry ZHP opisane w Modelu Przywództwa.",
+    "icon": "school",
+    "color": "#755390",
+    "pages": [
+      {
+        "id": "model-przywodztwa",
+        "title": "Model przywództwa",
+        "summary": "Model przywództwa Proces pracy z kadrą Praca z kadrą w zespole Ewaluacja kadra ZHP jest wzorem do naśladowania dla swoich wychowanków i innych członków kadry. Wzorzec postaw…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/model-przywodztwa.aspx",
+        "modified": "2026-06-01T12:20:30Z"
+      }
+    ],
+    "files": [
+      {
+        "id": "file-00309",
+        "title": "Broszura o modelu przywództwa ZHP online",
+        "fileName": "Broszura-o-modelu-przywództwa-ZHP---online.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Broszura-o-modelu-przywództwa-ZHP---online.pdf",
+        "modified": "2025-08-26T09:37:24Z"
+      },
+      {
+        "id": "file-00310",
+        "title": "Broszura o modelu przywództwa ZHP druk domowy",
+        "fileName": "Broszura-o-modelu-przywództwa-ZHP---druk-domowy.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Broszura-o-modelu-przywództwa-ZHP---druk-domowy.pdf",
+        "modified": "2025-08-26T09:38:40Z"
+      },
+      {
+        "id": "file-00311",
+        "title": "Ulotka Model przywództwa online",
+        "fileName": "Ulotka-model-przywodztwa---online.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Ulotka-model-przywodztwa---online.pdf",
+        "modified": "2025-08-26T10:34:08Z"
+      },
+      {
+        "id": "file-00312",
+        "title": "Ulotka Model przywództwa druk domowy",
+        "fileName": "Ulotka-model-przywodztwa---druk-domowy.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Ulotka-model-przywodztwa---druk-domowy.pdf",
+        "modified": "2025-08-26T10:34:34Z"
+      },
+      {
+        "id": "file-00313",
+        "title": "Harmonijka Modelu Przywodztwa online",
+        "fileName": "Harmonijka-Modelu-Przywodztwa---online.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Harmonijka-Modelu-Przywodztwa---online.pdf",
+        "modified": "2025-08-26T10:38:09Z"
+      },
+      {
+        "id": "file-00314",
+        "title": "Dziennik nawyków habit tracker",
+        "fileName": "Dziennik-nawyków---habit-tracker.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Dziennik-nawyków---habit-tracker.pdf",
+        "modified": "2025-08-26T10:55:28Z"
+      },
+      {
+        "id": "file-00315",
+        "title": "Poznajmy się... online",
+        "fileName": "Poznajmy-się...---online.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Poznajmy-się...---online.pdf",
+        "modified": "2025-08-26T10:58:14Z"
+      },
+      {
+        "id": "file-00347",
+        "title": "Dziennik Refleksji ZHP internet 1",
+        "fileName": "Dziennik-Refleksji-ZHP-internet-1.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Dziennik-Refleksji-ZHP-internet-1.pdf",
+        "modified": "2025-08-26T16:34:14Z"
+      },
+      {
+        "id": "file-00348",
+        "title": "Dziennik Refleksji ZHP druk",
+        "fileName": "Dziennik-Refleksji-ZHP-druk.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Dziennik-Refleksji-ZHP-druk.pdf",
+        "modified": "2025-08-26T16:34:57Z"
+      },
+      {
+        "id": "file-00434",
+        "title": "W świecie do bani potrzebujemy przywództwa czuwaj 2024",
+        "fileName": "W-świecie-do-bani-potrzebujemy-przywództwa_czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/W-świecie-do-bani-potrzebujemy-przywództwa_czuwaj-2024.pdf",
+        "modified": "2025-08-30T12:10:06Z"
+      },
+      {
+        "id": "file-00478",
+        "title": "Mapowanie Postaw pajęczynka",
+        "fileName": "Mapowanie-Postaw---pajęczynka.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Mapowanie-Postaw---pajęczynka.pdf",
+        "modified": "2025-09-03T07:49:46Z"
+      },
+      {
+        "id": "file-00487",
+        "title": "Poznajmy się przez postawy do druku domowego",
+        "fileName": "Poznajmy-się-przez-postawy---do-druku-domowego.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Poznajmy-się-przez-postawy---do-druku-domowego.pdf",
+        "modified": "2025-09-09T11:01:25Z"
+      },
+      {
+        "id": "file-00622",
+        "title": "Model przywództwa – OD TEORII DO PRAKTYKI Czuwaj11 2025",
+        "fileName": "MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:24:04Z"
+      },
+      {
+        "id": "file-00645",
+        "title": "Dziennik Refleksji pojedyncze strony",
+        "fileName": "Dziennik-Refleksji-pojedyncze-strony.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Dziennik-Refleksji-pojedyncze-strony.pdf",
+        "modified": "2026-01-26T09:25:51Z"
+      },
+      {
+        "id": "file-00649",
+        "title": "Mapowanie Postaw pajęczynka",
+        "fileName": "Mapowanie-Postaw---pajęczynka.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Mapowanie-Postaw---pajęczynka.pdf",
+        "modified": "2026-02-10T11:53:07Z"
+      },
+      {
+        "id": "file-00681",
+        "title": "Home",
+        "fileName": "model-przywodztwa.aspx",
+        "type": "page",
+        "path": "files/model-przywodztwa/model-przywodztwa.aspx",
+        "modified": "2026-06-01T12:20:30Z"
+      },
+      {
+        "id": "file-00704",
+        "title": "Home",
+        "fileName": "model-przywodztwa-broszura.aspx",
+        "type": "page",
+        "path": "files/model-przywodztwa/model-przywodztwa-broszura.aspx",
+        "modified": "2026-02-10T11:54:16Z"
+      },
+      {
+        "id": "file-00705",
+        "title": "Home",
+        "fileName": "model-przywodztwa-ulotka.aspx",
+        "type": "page",
+        "path": "files/model-przywodztwa/model-przywodztwa-ulotka.aspx",
+        "modified": "2025-10-03T07:19:40Z"
+      },
+      {
+        "id": "file-00706",
+        "title": "Home",
+        "fileName": "model-przywodztwa-skrot-o-postawach.aspx",
+        "type": "page",
+        "path": "files/model-przywodztwa/model-przywodztwa-skrot-o-postawach.aspx",
+        "modified": "2025-10-03T07:18:23Z"
+      },
+      {
+        "id": "file-00707",
+        "title": "Home",
+        "fileName": "model-przywodztwa-dziennik-refleksji.aspx",
+        "type": "page",
+        "path": "files/model-przywodztwa/model-przywodztwa-dziennik-refleksji.aspx",
+        "modified": "2026-01-26T09:26:28Z"
+      },
+      {
+        "id": "file-00708",
+        "title": "Home",
+        "fileName": "model-przywodztwa-dziennik-nawykow.aspx",
+        "type": "page",
+        "path": "files/model-przywodztwa/model-przywodztwa-dziennik-nawykow.aspx",
+        "modified": "2025-10-03T07:17:25Z"
+      },
+      {
+        "id": "file-00709",
+        "title": "Home",
+        "fileName": "model-przywodztwa-poznajmy-sie-przez-postawy.aspx",
+        "type": "page",
+        "path": "files/model-przywodztwa/model-przywodztwa-poznajmy-sie-przez-postawy.aspx",
+        "modified": "2026-04-10T22:09:23Z"
+      },
+      {
+        "id": "file-00710",
+        "title": "Home",
+        "fileName": "model-przywodztwa-pajeczynka.aspx",
+        "type": "page",
+        "path": "files/model-przywodztwa/model-przywodztwa-pajeczynka.aspx",
+        "modified": "2026-02-10T11:56:13Z"
+      },
+      {
+        "id": "file-00711",
+        "title": "Home",
+        "fileName": "model-przywodztwa-narzedzie-ksztalceniowe.aspx",
+        "type": "page",
+        "path": "files/model-przywodztwa/model-przywodztwa-narzedzie-ksztalceniowe.aspx",
+        "modified": "2025-10-03T07:17:49Z"
+      }
+    ],
+    "pagesCount": 1,
+    "filesCount": 24,
+    "displayImagesCount": 68
+  },
+  {
+    "id": "proces-pracy-z-kadra",
+    "title": "Proces pracy z kadrą",
+    "shortTitle": "Proces pracy",
+    "description": "Etapy pracy z kadrą: pozyskiwanie, rozwój przez działanie i podsumowanie.",
+    "icon": "timeline",
+    "color": "#243364",
+    "pages": [
+      {
+        "id": "proces-pracy-z-kadra",
+        "title": "Proces pracy z kadrą",
+        "summary": "Proces pracy z kadrą Proces wskazuje pożądane praktyki pracy z kadrą, które umożliwiają skuteczne wsparcie kadry w jej działaniu. W procesie pracy z kadrą uwzględnia się…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra.aspx",
+        "modified": "2026-01-22T17:57:14Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-1-pozyskiwanie",
+        "title": "Proces pracy z kadrą 1 Pozyskiwanie",
+        "summary": "Proces pracy z kadrą 1. POZYSKIWANIE Pozyskiwanie kadry to pierwszy i niezwykle istotny etap w całym procesie pracy z kadrą ZHP – to od niego zależy, czy osoby podejmujące się…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-1-pozyskiwanie.aspx",
+        "modified": "2026-03-09T13:32:21Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-1-pozyskiwanie-z-zewnatrz",
+        "title": "Proces pracy z kadrą 1 Pozyskiwanie Z Zewnatrz",
+        "summary": "Proces pracy z kadrą Na tej podstronie znajdują się Narzędzia i Materiały opracowane z myślą o wspieraniu hufców i szczepów w świadomym zapraszaniu nowych dorosłych do działania w…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-1-pozyskiwanie-z-zewnatrz.aspx",
+        "modified": "2026-04-07T07:33:38Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-do-pelnienia-roli",
+        "title": "Proces pracy z kadrą 1 Pozyskiwanie Wewnatrz Do Pelnienia Roli",
+        "summary": "Proces pracy z kadrą Wkrótce pojawi się więcej treści… Proces pozyskiwania kadry z wewnątrz organizacji powinien rozpocząć się od dogłębnej analizy środowiska tj. potrzeb i…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-do-pelnienia-roli.aspx",
+        "modified": "2025-10-03T07:23:25Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-funkcja-do-zespolu",
+        "title": "Proces pracy z kadrą 1 Pozyskiwanie Wewnatrz Funkcja Do Zespolu",
+        "summary": "Proces pracy z kadrą Wkrótce pojawi się więcej treści… Proces pozyskiwania kadry z wewnątrz organizacji powinien rozpocząć się od dogłębnej analizy środowiska tj. potrzeb i…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-funkcja-do-zespolu.aspx",
+        "modified": "2025-10-03T07:23:39Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-nowa-funkcja",
+        "title": "Proces pracy z kadrą 1 Pozyskiwanie Wewnatrz Nowa Funkcja",
+        "summary": "Proces pracy z kadrą Wkrótce pojawi się więcej treści… Proces pozyskiwania kadry z wewnątrz organizacji powinien rozpocząć się od dogłębnej analizy środowiska tj. potrzeb i…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-nowa-funkcja.aspx",
+        "modified": "2025-10-03T07:24:07Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-nastepca",
+        "title": "Proces pracy z kadrą 1 Pozyskiwanie Wewnatrz Nastepca",
+        "summary": "Proces pracy z kadrą Wkrótce pojawi się więcej treści… Proces pozyskiwania kadry z wewnątrz organizacji powinien rozpocząć się od dogłębnej analizy środowiska tj. potrzeb i…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-nastepca.aspx",
+        "modified": "2025-10-03T07:23:52Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie",
+        "title": "Proces pracy z kadrą 2 Rozwoj Przez Dzialanie",
+        "summary": "Proces pracy z kadrą 2. ROZWÓJ PRZEZ DZIAŁANIE Podejmowane przez kadrę działania, w tym pełnienie określonych funkcji lub roli, są elementem pozwalającym na samorozwój. Efektem…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie.aspx",
+        "modified": "2026-01-22T17:54:39Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-3-podsumowanie-pracy",
+        "title": "Proces pracy z kadrą 3 Podsumowanie Pracy",
+        "summary": "Proces pracy z kadrą 3. PODSUMOWANIE PRACY Istotnym elementem w pracy z kadrą jest podsumowanie jej pracy i wsparcie w podjęciu decyzji dotyczącej przyszłości. kadra ZHP świadomie…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-3-podsumowanie-pracy.aspx",
+        "modified": "2026-01-22T17:56:16Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-4-motywowanie",
+        "title": "Proces pracy z kadrą 4 Motywowanie",
+        "summary": "Proces pracy z kadrą 4. MOTYWOWANIE Motywowanie jest integralną częścią procesu pracy z kadrą. To wzbudzanie, podtrzymywanie na wysokim poziomie oraz ukierunkowywanie energii…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-4-motywowanie.aspx",
+        "modified": "2025-12-04T11:29:30Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-opis-funkcji",
+        "title": "Proces pracy z kadrą 2 Rozwoj Przez Dzialanie Opis Funkcji",
+        "summary": "Proces pracy z kadrą Opis funkcji/ zakres obowiązków Forma uzgodnionych warunków współpracy, w ramach której kandydat ustala z osobą odpowiedzialną zakres zadań, obowiązków i…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-opis-funkcji.aspx",
+        "modified": "2025-11-17T14:46:25Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-3-podsumowanie-pracy-rozmowa-inf-zwrotna",
+        "title": "Proces pracy z kadrą 3 Podsumowanie Pracy Rozmowa Inf Zwrotna",
+        "summary": "Proces pracy z kadrą ROZMOWA Z INFORMACJĄ ZWROTNĄ Konstruktywna i otwarta rozmowa, w której jedna lub obie strony przekazują sobie spostrzeżenia dotyczące zachowań, postępów lub…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-3-podsumowanie-pracy-rozmowa-inf-zwrotna.aspx",
+        "modified": "2025-12-04T14:27:28Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-3-podsumowanie-pracy-analiza-realizowanych-dzialan",
+        "title": "Proces pracy z kadrą 3 Podsumowanie Pracy Analiza Realizowanych Dzialan",
+        "summary": "Proces pracy z kadrą ANALIZA REALIZOWANYCH DZIAŁAŃ Dokładne przyjrzenie się przebiegowi i efektom konkretnych zadań, sprawdzenie, w jakim stopniu osiągnięto cele oraz jakie…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-3-podsumowanie-pracy-analiza-realizowanych-dzialan.aspx",
+        "modified": "2026-02-10T11:34:42Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-3-podsumowanie-pracy-wyznaczanie-dalszego-rozwoju",
+        "title": "Proces pracy z kadrą 3 Podsumowanie Pracy Wyznaczanie Dalszego Rozwoju",
+        "summary": "Proces pracy z kadrą WYZNACZANIE KIERUNKU DALSZEGO ROZWOJU Określenie priorytetów, przyszłych działań oraz ścieżki rozwoju w oparciu o przeprowadzoną analizę i wnioski z…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-3-podsumowanie-pracy-wyznaczanie-dalszego-rozwoju.aspx",
+        "modified": "2025-10-03T07:28:18Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-3-podsumowanie-pracy-docenianie-podziekowanie",
+        "title": "Proces pracy z kadrą 3 Podsumowanie Pracy Docenianie Podziekowanie",
+        "summary": "Proces pracy z kadrą DOCENIENIE I PODZIĘKOWANIE Wyrażenie uznania i wdzięczności za wykonaną pracę, zaangażowanie oraz osiągnięte rezultaty. Celem jest podkreślenie wartości…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-3-podsumowanie-pracy-docenianie-podziekowanie.aspx",
+        "modified": "2025-10-03T07:27:06Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-prawoiprzyrzeczenie",
+        "title": "Proces pracy z kadrą 2 Rozwoj Przez Dzialanie Prawoiprzyrzeczenie",
+        "summary": "Proces pracy z kadrą Prawo i Przyrzeczenie Harcerskie Kodeks postępowania obowiązujący w ZHP oraz dobrowolna i uroczyście złożona deklaracja chęci jego przestrzegania. Fundament…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-prawoiprzyrzeczenie.aspx",
+        "modified": "2025-12-02T16:20:15Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-kodeksinstruktorski-zobowiazanieinstruktorskie",
+        "title": "Proces pracy z kadrą 2 Rozwoj Przez Dzialanie Kodeksinstruktorski…",
+        "summary": "Proces pracy z kadrą Kodeks Instruktorski i Zobowiązanie Instruktorskie Kodeks oczekiwanych postaw instruktorów, które opisują wzór instruktora świadomie realizującego Misję ZHP…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-kodeksinstruktorski-zobowiazanieinstruktorskie.aspx",
+        "modified": "2025-12-02T16:46:23Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-mianakadry",
+        "title": "Proces pracy z kadrą 2 Rozwoj Przez Dzialanie Mianakadry",
+        "summary": "Proces pracy z kadrą Miana Kadry Formalne uznanie specjalistycznych kompetencji członków organizacji, które są niezbędne do skutecznego pełnienia określonej funkcji lub roli.…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-mianakadry.aspx",
+        "modified": "2026-05-19T09:33:37Z"
+      },
+      {
+        "id": "arkusz-diagnozy-hufca",
+        "title": "Arkusz Diagnozy Hufca",
+        "summary": "Proces pracy z kadrą Arkusz diagnozy hufca Diagnoza hufca to narzędzie wspierające kadrę w przyjrzeniu się aktualnej kondycji hufca, nazwaniu mocnych stron i obszarów wymagających…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/arkusz-diagnozy-hufca.aspx",
+        "modified": "2026-03-12T11:47:35Z"
+      }
+    ],
+    "files": [
+      {
+        "id": "file-00017",
+        "title": "ulotka wdrozenie nowego SPzK 1",
+        "fileName": "ulotka wdrozenie nowego SPzK 1.pdf",
+        "type": "pdf",
+        "path": "files/proces-pracy-z-kadra/ulotka wdrozenie nowego SpzK 1.pdf",
+        "modified": "2025-03-13T19:42:08Z"
+      },
+      {
+        "id": "file-00293",
+        "title": "Karty doceniam drukA4 kopia",
+        "fileName": "Karty_doceniam_drukA4-kopia.pdf",
+        "type": "pdf",
+        "path": "files/proces-pracy-z-kadra/Karty_doceniam_drukA4-kopia.pdf",
+        "modified": "2025-08-26T05:40:13Z"
+      },
+      {
+        "id": "file-00349",
+        "title": "Vademecum nowego wolontariusza",
+        "fileName": "Vademecum-nowego-wolontariusza.pdf",
+        "type": "pdf",
+        "path": "files/proces-pracy-z-kadra/Vademecum-nowego-wolontariusza.pdf",
+        "modified": "2025-08-31T21:27:25Z"
+      },
+      {
+        "id": "file-00350",
+        "title": "Wniosek o przywrócenie członkostwa w ZHP",
+        "fileName": "Wniosek-o-przywrócenie-członkostwa-w-ZHP.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Wniosek-o-przywrócenie-członkostwa-w-ZHP.docx",
+        "modified": "2025-08-27T05:28:45Z"
+      },
+      {
+        "id": "file-00351",
+        "title": "Wniosek o potwierdzenie stopnia instruktorskiego",
+        "fileName": "Wniosek-o-potwierdzenie-stopnia-instruktorskiego.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Wniosek-o-potwierdzenie-stopnia-instruktorskiego.docx",
+        "modified": "2025-08-27T05:30:37Z"
+      },
+      {
+        "id": "file-00352",
+        "title": "Start w harcerstwo",
+        "fileName": "Start-w-harcerstwo.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Start-w-harcerstwo.docx",
+        "modified": "2025-08-27T05:31:14Z"
+      },
+      {
+        "id": "file-00353",
+        "title": "Karta wolontariusza współpraca akcyjna",
+        "fileName": "Karta-wolontariusza_współpraca-akcyjna.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_współpraca-akcyjna.docx",
+        "modified": "2025-08-27T05:31:56Z"
+      },
+      {
+        "id": "file-00354",
+        "title": "Karta wolontariusza nowy członek ZHP",
+        "fileName": "Karta-wolontariusza_nowy-członek-ZHP.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_nowy-członek-ZHP.docx",
+        "modified": "2025-08-27T05:33:12Z"
+      },
+      {
+        "id": "file-00355",
+        "title": "Karta wolontariusza członek powracający do ZHP",
+        "fileName": "Karta-wolontariusza_członek-powracający-do-ZHP.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_członek-powracający-do-ZHP.docx",
+        "modified": "2025-08-27T05:33:42Z"
+      },
+      {
+        "id": "file-00356",
+        "title": "Rejestr wolontariuszy",
+        "fileName": "Rejestr-wolontariuszy.xlsx",
+        "type": "spreadsheet",
+        "path": "files/proces-pracy-z-kadra/Rejestr-wolontariuszy.xlsx",
+        "modified": "2025-09-02T15:10:07Z"
+      },
+      {
+        "id": "file-00471",
+        "title": "Harcerskie ABC. Kurs dla nowych wolontariuszy w ZHP",
+        "fileName": "Harcerskie-ABC.-Kurs-dla-nowych-wolontariuszy-w-ZHP.pdf",
+        "type": "pdf",
+        "path": "files/proces-pracy-z-kadra/Harcerskie-ABC.-Kurs-dla-nowych-wolontariuszy-w-ZHP.pdf",
+        "modified": "2025-09-02T15:37:03Z"
+      },
+      {
+        "id": "file-00476",
+        "title": "Harcerskie ABC – narzędzie do pracy indywidualnej",
+        "fileName": "Harcerskie-ABC-–-narzędzie-do-pracy-indywidualnej.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Harcerskie-ABC-–-narzędzie-do-pracy-indywidualnej.docx",
+        "modified": "2026-04-07T07:33:21Z"
+      },
+      {
+        "id": "file-00485",
+        "title": "Formatka opisu funkcji 2",
+        "fileName": "Formatka-opisu-funkcji-2.pdf",
+        "type": "pdf",
+        "path": "files/proces-pracy-z-kadra/Formatka-opisu-funkcji-2.pdf",
+        "modified": "2025-09-09T08:42:31Z"
+      },
+      {
+        "id": "file-00495",
+        "title": "Formatka opisu funkcji",
+        "fileName": "Formatka-opisu-funkcji.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Formatka-opisu-funkcji.docx",
+        "modified": "2025-09-13T11:16:13Z"
+      },
+      {
+        "id": "file-00623",
+        "title": "Z CHĘCI A NIE Z PRZYMUSU CZYLI JAK MOTYWOWAĆ Czuwaj11 2025",
+        "fileName": "Z-CHĘCI--A-NIE-Z-PRZYMUSU-CZYLI-JAK-MOTYWOWAĆ_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/proces-pracy-z-kadra/Z-CHĘCI--A-NIE-Z-PRZYMUSU-CZYLI-JAK-MOTYWOWAĆ_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:26:29Z"
+      },
+      {
+        "id": "file-00624",
+        "title": "O PRACY Z TALENTAMI Czuwaj11 2025",
+        "fileName": "O-PRACY-Z-TALENTAMI_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/proces-pracy-z-kadra/O-PRACY-Z-TALENTAMI_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:28:58Z"
+      },
+      {
+        "id": "file-00670",
+        "title": "Harcerskie ABC. Kurs dla nowych wolontariuszy w ZHP.",
+        "fileName": "Harcerskie-ABC.-Kurs-dla-nowych-wolontariuszy-w-ZHP..pdf",
+        "type": "pdf",
+        "path": "files/proces-pracy-z-kadra/Harcerskie-ABC.-Kurs-dla-nowych-wolontariuszy-w-ZHP..pdf",
+        "modified": "2026-03-30T18:26:31Z"
+      },
+      {
+        "id": "file-00688",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra.aspx",
+        "modified": "2026-01-22T17:57:14Z"
+      },
+      {
+        "id": "file-00689",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-1-pozyskiwanie.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-1-pozyskiwanie.aspx",
+        "modified": "2026-03-09T13:32:21Z"
+      },
+      {
+        "id": "file-00692",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-1-pozyskiwanie-z-zewnatrz.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-1-pozyskiwanie-z-zewnatrz.aspx",
+        "modified": "2026-04-07T07:33:38Z"
+      },
+      {
+        "id": "file-00693",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-1-pozyskiwanie-z-wewnatrz.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-1-pozyskiwanie-z-wewnatrz.aspx",
+        "modified": "2025-10-03T07:24:22Z"
+      },
+      {
+        "id": "file-00694",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-do-pelnienia-roli.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-do-pelnienia-roli.aspx",
+        "modified": "2025-10-03T07:23:25Z"
+      },
+      {
+        "id": "file-00695",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-funkcja-do-zespolu.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-funkcja-do-zespolu.aspx",
+        "modified": "2025-10-03T07:23:39Z"
+      },
+      {
+        "id": "file-00696",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-nowa-funkcja.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-nowa-funkcja.aspx",
+        "modified": "2025-10-03T07:24:07Z"
+      },
+      {
+        "id": "file-00697",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-nastepca.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-nastepca.aspx",
+        "modified": "2025-10-03T07:23:52Z"
+      },
+      {
+        "id": "file-00698",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie.aspx",
+        "modified": "2026-01-22T17:54:39Z"
+      },
+      {
+        "id": "file-00699",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-3-podsumowanie-pracy.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-3-podsumowanie-pracy.aspx",
+        "modified": "2026-01-22T17:56:16Z"
+      },
+      {
+        "id": "file-00702",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-4-motywowanie.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-4-motywowanie.aspx",
+        "modified": "2025-12-04T11:29:30Z"
+      },
+      {
+        "id": "file-00712",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-opis-funkcji.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-opis-funkcji.aspx",
+        "modified": "2025-11-17T14:46:25Z"
+      },
+      {
+        "id": "file-00713",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-inf-zwrotna.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-inf-zwrotna.aspx",
+        "modified": "2025-10-09T08:47:56Z"
+      },
+      {
+        "id": "file-00714",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-wsp-mentor.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-wsp-mentor.aspx",
+        "modified": "2025-12-04T13:05:30Z"
+      },
+      {
+        "id": "file-00715",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-ksiazki-media.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-ksiazki-media.aspx",
+        "modified": "2025-10-09T09:01:11Z"
+      },
+      {
+        "id": "file-00716",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-3-podsumowanie-pracy-rozmowa-inf-zwrotna.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-3-podsumowanie-pracy-rozmowa-inf-zwrotna.aspx",
+        "modified": "2025-12-04T14:27:28Z"
+      },
+      {
+        "id": "file-00717",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-3-podsumowanie-pracy-samoocena-refl.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-3-podsumowanie-pracy-samoocena-refl.aspx",
+        "modified": "2025-11-17T14:47:36Z"
+      },
+      {
+        "id": "file-00718",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-3-podsumowanie-pracy-wielostronna-inf-zwr.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-3-podsumowanie-pracy-wielostronna-inf-zwr.aspx",
+        "modified": "2025-10-03T07:28:06Z"
+      },
+      {
+        "id": "file-00719",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-3-podsumowanie-pracy-analiza-realizowanych-dzialan.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-3-podsumowanie-pracy-analiza-realizowanych-dzialan.aspx",
+        "modified": "2026-02-10T11:34:42Z"
+      },
+      {
+        "id": "file-00720",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-3-podsumowanie-pracy-podsumowanie-pracy.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-3-podsumowanie-pracy-podsumowanie-pracy.aspx",
+        "modified": "2025-11-17T14:50:22Z"
+      },
+      {
+        "id": "file-00721",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-3-podsumowanie-pracy-wyznaczanie-dalszego-rozwoju.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-3-podsumowanie-pracy-wyznaczanie-dalszego-rozwoju.aspx",
+        "modified": "2025-10-03T07:28:18Z"
+      },
+      {
+        "id": "file-00722",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-3-podsumowanie-pracy-docenianie-podziekowanie.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-3-podsumowanie-pracy-docenianie-podziekowanie.aspx",
+        "modified": "2025-10-03T07:27:06Z"
+      },
+      {
+        "id": "file-00735",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-prawoiprzyrzeczenie.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-prawoiprzyrzeczenie.aspx",
+        "modified": "2025-12-02T16:20:15Z"
+      },
+      {
+        "id": "file-00736",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-kodeksinstruktorski-zobowiazanieinstruktorskie.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-kodeksinstruktorski-zobowiazanieinstruktorskie.aspx",
+        "modified": "2025-12-02T16:46:23Z"
+      },
+      {
+        "id": "file-00737",
+        "title": "Home",
+        "fileName": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-mianakadry.aspx",
+        "type": "page",
+        "path": "files/proces-pracy-z-kadra/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-mianakadry.aspx",
+        "modified": "2026-05-19T09:33:37Z"
+      }
+    ],
+    "pagesCount": 19,
+    "filesCount": 42,
+    "displayImagesCount": 181
+  },
+  {
+    "id": "praca-z-kadra-w-zespole",
+    "title": "Praca z kadrą w zespole",
+    "shortTitle": "Praca w zespole",
+    "description": "Materiały dotyczące współpracy, komunikacji, odpowiedzialności i rozwoju zespołów kadrowych.",
+    "icon": "groups",
+    "color": "#755390",
+    "pages": [
+      {
+        "id": "praca-z-kadra-w-zespole",
+        "title": "Praca z kadrą w zespole",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja Praca z kadrą jest procesem ciągłym, zachodzącym nie tylko podczas pracy indywidualnej, lecz także…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole.aspx",
+        "modified": "2026-04-22T12:43:52Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-misjaiwartosci",
+        "title": "Praca z kadrą w zespole Misjaiwartosci",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja MISJA I WARTOŚCI są fundamentem podczas budowania grupy posiadającej wspólne cele i punktem odniesienia…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-misjaiwartosci.aspx",
+        "modified": "2026-04-03T21:43:42Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-wyznaczaniecelow",
+        "title": "Praca z kadrą w zespole Wyznaczaniecelow",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja WYZNACZANIE CELÓW jest związane z określeniem kierunku działania. Wymaga elastycznego planowania w…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-wyznaczaniecelow.aspx",
+        "modified": "2026-04-03T21:49:17Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-rozwojosobisty",
+        "title": "Praca z kadrą w zespole Rozwojosobisty",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja ROZWÓJ OSOBISTY to doskonalenie umiejętności, zdobywanie wiedzy, rozwijanie zdolności, praca nad…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-rozwojosobisty.aspx",
+        "modified": "2026-04-03T21:49:55Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-spotkania",
+        "title": "Praca z kadrą w zespole Spotkania",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja SPOTKANIA to przestrzeń do osiągania postawionych celów, budowania relacji, efektywniejszego poznawania…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-spotkania.aspx",
+        "modified": "2026-04-03T21:51:38Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-komunikacja",
+        "title": "Praca z kadrą w zespole Komunikacja",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja KOMUNIKACJA to wymiana myśli oparta na relacji partnerskiej, przebiegająca w harcerskim duchu. Jest…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-komunikacja.aspx",
+        "modified": "2026-04-03T21:53:04Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-transparentnosc",
+        "title": "Praca z kadrą w zespole Transparentnosc",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja TRANSPARENTNOŚĆ I PRZEPŁYW INFORMACJI to działanie w sposób odpowiedzialny, uczciwy, budujący wzajemne…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-transparentnosc.aspx",
+        "modified": "2026-04-03T21:54:52Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-dzieleniesieodpowiedzialnoscia",
+        "title": "Praca z kadrą w zespole Dzieleniesieodpowiedzialnoscia",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja DZIELENIE SIĘ ODPOWIEDZIALNOŚCIĄ I ZADANIAMI to sposób działania, który uwzględnia kompetencje,…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-dzieleniesieodpowiedzialnoscia.aspx",
+        "modified": "2026-04-03T21:56:31Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-podejmowaniedecyzji",
+        "title": "Praca z kadrą w zespole Podejmowaniedecyzji",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja PODEJMOWANIE DECYZJI uwzględnia różne perspektywy oraz potencjał członków zespołu. Gwarantuje możliwość…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-podejmowaniedecyzji.aspx",
+        "modified": "2026-04-03T21:58:14Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-pracazkonfliktem",
+        "title": "Praca z kadrą w zespole Pracazkonfliktem",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja PRACA Z KONFLIKTEM zaczyna się od dostrzeżenia konfliktu oraz przewidywania jego możliwych konsekwencji.…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-pracazkonfliktem.aspx",
+        "modified": "2026-04-03T21:59:40Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-wspieraniewdzialaniu",
+        "title": "Praca z kadrą w zespole Wspieraniewdzialaniu",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja WSPIERANIE W DZIAŁANIU to zapewnianie pomocy i zasobów, które pozwalają innym na przezwyciężanie…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-wspieraniewdzialaniu.aspx",
+        "modified": "2026-04-03T22:01:20Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-wdziecznoscidocenianie",
+        "title": "Praca z kadrą w zespole Wdziecznoscidocenianie",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja WDZIĘCZNOŚĆ I DOCENIENIE są wyrazem poszanowania dla pracy i zaangażowania w osiąganie celów oraz…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-wdziecznoscidocenianie.aspx",
+        "modified": "2026-04-03T22:02:56Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-podsumowanie",
+        "title": "Praca z kadrą w zespole Podsumowanie",
+        "summary": "Praca z kadrą w zespole Model przywództwa Proces pracy z kadrą Ewaluacja PODSUMOWANIE PRACY I INFORMACJA ZWROTNA kończą dany etap refleksją nad dotychczasowym działaniem.…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-podsumowanie.aspx",
+        "modified": "2026-04-03T22:05:17Z"
+      },
+      {
+        "id": "magnolia-kultury",
+        "title": "Magnolia Kultury",
+        "summary": "Model przywództwa Proces pracy z kadrą Praca z kadrą w zespole Ewaluacja Pobierz elementy Narzędzia - karty oraz instrukcję: DRUK DOMOWY_A4_karty-i-instrukcja Narzędzie do pracy z…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/magnolia-kultury.aspx",
+        "modified": "2026-01-06T12:47:52Z"
+      },
+      {
+        "id": "praca-z-kadra-w-zespole-narzedzie-mapa-kultury-organizacji",
+        "title": "Praca z kadrą w zespole Narzedzie Mapa Kultury Organizacji",
+        "summary": "Praca z kadrą w zespole Mapa kultury organizacji Mapa kultury organizacyjnej to narzędzie o charakterze edukacyjno-strategicznym, które pomaga lepiej zrozumieć, opisać i…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/praca-z-kadra-w-zespole-narzedzie-mapa-kultury-organizacji.aspx",
+        "modified": "2026-04-10T22:20:52Z"
+      }
+    ],
+    "files": [
+      {
+        "id": "file-00360",
+        "title": "A1 kontrakt kultura organizacyjna",
+        "fileName": "A1_kontrakt_kultura_organizacyjna.pdf",
+        "type": "pdf",
+        "path": "files/praca-z-kadra-w-zespole/A1_kontrakt_kultura_organizacyjna.pdf",
+        "modified": "2025-08-27T17:29:22Z"
+      },
+      {
+        "id": "file-00516",
+        "title": "Chceck list aspekty PzK",
+        "fileName": "Chceck-list-aspekty PzK.pdf",
+        "type": "pdf",
+        "path": "files/praca-z-kadra-w-zespole/Chceck-list-aspektyPzK.pdf",
+        "modified": "2025-10-26T09:16:44Z"
+      },
+      {
+        "id": "file-00620",
+        "title": "CZY ISTNIEJE UNIWERSALNY SPOSÓB PRACY W ZESPOLE KADRY Czuwaj11 2025",
+        "fileName": "CZY-ISTNIEJE-UNIWERSALNY-SPOSÓB-PRACY-W-ZESPOLE-KADRY_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/praca-z-kadra-w-zespole/CZY-ISTNIEJE-UNIWERSALNY-SPOSÓB-PRACY-W-ZESPOLE-KADRY_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:20:22Z"
+      },
+      {
+        "id": "file-00621",
+        "title": "Jak narodził się nowy kierunek działań kadry o kulturze organizacyjnej Czuwaj11 2025",
+        "fileName": "Jak-narodził-się-nowy-kierunek-działań-kadry_o-kulturze-organizacyjnej_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/praca-z-kadra-w-zespole/Jak-narodził-się-nowy-kierunek-działań-kadry_o-kulturze-organizacyjnej_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:21:18Z"
+      },
+      {
+        "id": "file-00690",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole.aspx",
+        "modified": "2026-04-22T12:43:52Z"
+      },
+      {
+        "id": "file-00723",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-misjaiwartosci.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-misjaiwartosci.aspx",
+        "modified": "2026-04-03T21:43:42Z"
+      },
+      {
+        "id": "file-00724",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-wyznaczaniecelow.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-wyznaczaniecelow.aspx",
+        "modified": "2026-04-03T21:49:17Z"
+      },
+      {
+        "id": "file-00725",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-rozwojosobisty.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-rozwojosobisty.aspx",
+        "modified": "2026-04-03T21:49:55Z"
+      },
+      {
+        "id": "file-00726",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-spotkania.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-spotkania.aspx",
+        "modified": "2026-04-03T21:51:38Z"
+      },
+      {
+        "id": "file-00727",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-komunikacja.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-komunikacja.aspx",
+        "modified": "2026-04-03T21:53:04Z"
+      },
+      {
+        "id": "file-00728",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-transparentnosc.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-transparentnosc.aspx",
+        "modified": "2026-04-03T21:54:52Z"
+      },
+      {
+        "id": "file-00729",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-dzieleniesieodpowiedzialnoscia.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-dzieleniesieodpowiedzialnoscia.aspx",
+        "modified": "2026-04-03T21:56:31Z"
+      },
+      {
+        "id": "file-00730",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-podejmowaniedecyzji.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-podejmowaniedecyzji.aspx",
+        "modified": "2026-04-03T21:58:14Z"
+      },
+      {
+        "id": "file-00731",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-pracazkonfliktem.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-pracazkonfliktem.aspx",
+        "modified": "2026-04-03T21:59:40Z"
+      },
+      {
+        "id": "file-00732",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-wspieraniewdzialaniu.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-wspieraniewdzialaniu.aspx",
+        "modified": "2026-04-03T22:01:20Z"
+      },
+      {
+        "id": "file-00733",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-wdziecznoscidocenianie.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-wdziecznoscidocenianie.aspx",
+        "modified": "2026-04-03T22:02:56Z"
+      },
+      {
+        "id": "file-00734",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-podsumowanie.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-podsumowanie.aspx",
+        "modified": "2026-04-03T22:05:17Z"
+      },
+      {
+        "id": "file-00740",
+        "title": "Home",
+        "fileName": "praca-z-kadra-w-zespole-narzedzie-mapa-kultury-organizacji.aspx",
+        "type": "page",
+        "path": "files/praca-z-kadra-w-zespole/praca-z-kadra-w-zespole-narzedzie-mapa-kultury-organizacji.aspx",
+        "modified": "2026-04-10T22:20:52Z"
+      }
+    ],
+    "pagesCount": 15,
+    "filesCount": 18,
+    "displayImagesCount": 77
+  },
+  {
+    "id": "narzedzia-dla-kadry",
+    "title": "Narzędzia dla kadry",
+    "shortTitle": "Narzędzia",
+    "description": "Zebrane w jednym miejscu narzędzia użytkowe dla kadry: materiały do pracy z modelem przywództwa, procesem pracy z kadrą, kulturą organizacyjną, ewaluacją, kształceniem i innymi obszarami pracy z kadrą.",
+    "color": "#755390",
+    "icon": "construction",
+    "pages": [],
+    "files": [
+      {
+        "id": "file-00310",
+        "title": "Broszura o modelu przywództwa ZHP druk domowy",
+        "fileName": "Broszura-o-modelu-przywództwa-ZHP---druk-domowy.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Broszura-o-modelu-przywództwa-ZHP---druk-domowy.pdf",
+        "modified": "2025-08-26T09:38:40Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00309",
+        "title": "Broszura o modelu przywództwa ZHP online",
+        "fileName": "Broszura-o-modelu-przywództwa-ZHP---online.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Broszura-o-modelu-przywództwa-ZHP---online.pdf",
+        "modified": "2025-08-26T09:37:24Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00348",
+        "title": "Dziennik Refleksji ZHP druk",
+        "fileName": "Dziennik-Refleksji-ZHP-druk.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Dziennik-Refleksji-ZHP-druk.pdf",
+        "modified": "2025-08-26T16:34:57Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00347",
+        "title": "Dziennik Refleksji ZHP internet 1",
+        "fileName": "Dziennik-Refleksji-ZHP-internet-1.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Dziennik-Refleksji-ZHP-internet-1.pdf",
+        "modified": "2025-08-26T16:34:14Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00645",
+        "title": "Dziennik Refleksji pojedyncze strony",
+        "fileName": "Dziennik-Refleksji-pojedyncze-strony.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Dziennik-Refleksji-pojedyncze-strony.pdf",
+        "modified": "2026-01-26T09:25:51Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00314",
+        "title": "Dziennik nawyków habit tracker",
+        "fileName": "Dziennik-nawyków---habit-tracker.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Dziennik-nawyków---habit-tracker.pdf",
+        "modified": "2025-08-26T10:55:28Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00313",
+        "title": "Harmonijka Modelu Przywodztwa online",
+        "fileName": "Harmonijka-Modelu-Przywodztwa---online.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Harmonijka-Modelu-Przywodztwa---online.pdf",
+        "modified": "2025-08-26T10:38:09Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00649",
+        "title": "Mapowanie Postaw pajęczynka",
+        "fileName": "Mapowanie-Postaw---pajęczynka.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Mapowanie-Postaw---pajęczynka.pdf",
+        "modified": "2026-02-10T11:53:07Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00478",
+        "title": "Mapowanie Postaw pajęczynka",
+        "fileName": "Mapowanie-Postaw---pajęczynka.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Mapowanie-Postaw---pajęczynka.pdf",
+        "modified": "2025-09-03T07:49:46Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00622",
+        "title": "Model przywództwa – OD TEORII DO PRAKTYKI Czuwaj11 2025",
+        "fileName": "MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:24:04Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00634",
+        "title": "Model przywództwa – OD TEORII DO PRAKTYKI Czuwaj11 2025",
+        "fileName": "MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:58:28Z",
+        "moduleId": "artykuly-z-czuwaj",
+        "moduleTitle": "Artykuły z Czuwaj o pracy z kadrą",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "artykuly-z-czuwaj",
+        "sourceModuleTitle": "Artykuły z Czuwaj o pracy z kadrą"
+      },
+      {
+        "id": "file-00487",
+        "title": "Poznajmy się przez postawy do druku domowego",
+        "fileName": "Poznajmy-się-przez-postawy---do-druku-domowego.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Poznajmy-się-przez-postawy---do-druku-domowego.pdf",
+        "modified": "2025-09-09T11:01:25Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00315",
+        "title": "Poznajmy się... online",
+        "fileName": "Poznajmy-się...---online.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Poznajmy-się...---online.pdf",
+        "modified": "2025-08-26T10:58:14Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00312",
+        "title": "Ulotka Model przywództwa druk domowy",
+        "fileName": "Ulotka-model-przywodztwa---druk-domowy.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Ulotka-model-przywodztwa---druk-domowy.pdf",
+        "modified": "2025-08-26T10:34:34Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00311",
+        "title": "Ulotka Model przywództwa online",
+        "fileName": "Ulotka-model-przywodztwa---online.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/Ulotka-model-przywodztwa---online.pdf",
+        "modified": "2025-08-26T10:34:08Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00434",
+        "title": "W świecie do bani potrzebujemy przywództwa czuwaj 2024",
+        "fileName": "W-świecie-do-bani-potrzebujemy-przywództwa_czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/model-przywodztwa/W-świecie-do-bani-potrzebujemy-przywództwa_czuwaj-2024.pdf",
+        "modified": "2025-08-30T12:10:06Z",
+        "moduleId": "model-przywodztwa",
+        "moduleTitle": "Model przywództwa",
+        "toolScore": 20,
+        "categoryId": "model-przywodztwa",
+        "categoryTitle": "Model przywództwa",
+        "sourceModuleId": "model-przywodztwa",
+        "sourceModuleTitle": "Model przywództwa"
+      },
+      {
+        "id": "file-00644",
+        "title": "Arkusz diagnozy hufca narzędzie",
+        "fileName": "Arkusz-diagnozy-hufca---narzędzie.xlsx",
+        "type": "spreadsheet",
+        "path": "files/pozostale-materialy/Arkusz-diagnozy-hufca---narzędzie.xlsx",
+        "modified": "2026-03-11T12:58:29Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 46,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00651",
+        "title": "Arkusz diagnozy hufca narzędzie 1",
+        "fileName": "Arkusz-diagnozy-hufca---narzędzie--1-.xlsx",
+        "type": "spreadsheet",
+        "path": "files/pozostale-materialy/Arkusz-diagnozy-hufca---narzędzie--1-.xlsx",
+        "modified": "2026-03-12T11:42:50Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 46,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00539",
+        "title": "DRUK DOMOWY karty i instrukcja 1",
+        "fileName": "DRUK-DOMOWY_karty-i-instrukcja-1.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/DRUK-DOMOWY_karty-i-instrukcja-1.pdf",
+        "modified": "2025-11-05T15:24:52Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 46,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00028",
+        "title": "Program próby harcerza harcerki dla dorosłych",
+        "fileName": "Program próby harcerza-harcerki dla dorosłych.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Program próby harcerza-harcerki dla dorosłych.docx",
+        "modified": "2025-08-27T05:21:03Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 46,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00033",
+        "title": "Skład A4 Program Rozwoju Kultury Organizacynej w ZHP ONLINE",
+        "fileName": "Skład A4_Program Rozwoju Kultury Organizacynej w ZHP-ONLINE.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Skład A4_Program Rozwoju Kultury Organizacynej w ZHP-ONLINE.pdf",
+        "modified": "2026-04-10T22:24:09Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 46,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00018",
+        "title": "Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy",
+        "fileName": "Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy.docx",
+        "modified": "2025-08-26T19:08:41Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00343",
+        "title": "Czym jest kultura organizacyjna i jak powstało narzędzie Czuwaj 2024",
+        "fileName": "Czym-jest-kultura-organizacyjna-i-jak-powstało-narzędzie_Czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Czym-jest-kultura-organizacyjna-i-jak-powstało-narzędzie_Czuwaj-2024.pdf",
+        "modified": "2025-08-26T15:54:02Z",
+        "moduleId": "artykuly-z-czuwaj",
+        "moduleTitle": "Artykuły z Czuwaj o pracy z kadrą",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "artykuly-z-czuwaj",
+        "sourceModuleTitle": "Artykuły z Czuwaj o pracy z kadrą"
+      },
+      {
+        "id": "file-00653",
+        "title": "Diagnoza hufca instrukcja do druku",
+        "fileName": "Diagnoza-hufca---instrukcja-do-druku.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Diagnoza-hufca---instrukcja-do-druku.pdf",
+        "modified": "2026-03-12T11:43:58Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00643",
+        "title": "Diagnoza hufca zestawy pytań",
+        "fileName": "Diagnoza-hufca---zestawy-pytań.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Diagnoza-hufca---zestawy-pytań.docx",
+        "modified": "2026-03-11T12:57:39Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00652",
+        "title": "Diagnoza hufca zestawy pytań 1",
+        "fileName": "Diagnoza-hufca---zestawy-pytań--1-.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Diagnoza-hufca---zestawy-pytań--1-.docx",
+        "modified": "2026-03-12T11:43:28Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00031",
+        "title": "Narzędziownik dla kadry ZHP online",
+        "fileName": "Narzędziownik dla kadry ZHP_online.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Narzędziownik dla kadry ZHP_online.pdf",
+        "modified": "2025-09-08T13:56:35Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00032",
+        "title": "Narzędownik dla kadry ZHP informacja zwrotna online",
+        "fileName": "Narzędownik dla kadry ZHP_informacja zwrotna_online.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Narzędownik dla kadry ZHP_informacja zwrotna_online.pdf",
+        "modified": "2025-12-04T14:26:05Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00019",
+        "title": "O czym warto pamiętać, rekrutując nowych wolontariuszy ULOTKA",
+        "fileName": "O czym warto pamiętać, rekrutując nowych wolontariuszy_ULOTKA.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/O czym warto pamiętać, rekrutując nowych wolontariuszy_ULOTKA.pdf",
+        "modified": "2025-08-26T19:11:51Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00013",
+        "title": "Plan wdrażania Główna Kwatera",
+        "fileName": "Plan wdrażania - Główna Kwatera.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Plan wdrażania - Główna Kwatera.pdf",
+        "modified": "2025-03-06T21:19:46Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00012",
+        "title": "Plan wdrażania chorągiew",
+        "fileName": "Plan wdrażania - chorągiew.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Plan wdrażania - chorągiew.pdf",
+        "modified": "2025-03-06T21:19:46Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00011",
+        "title": "Plan wdrażania hufiec",
+        "fileName": "Plan wdrażania - hufiec.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Plan wdrażania - hufiec.pdf",
+        "modified": "2025-03-06T21:19:46Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00023",
+        "title": "Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP",
+        "fileName": "Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP.docx",
+        "modified": "2025-09-29T13:13:38Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00022",
+        "title": "Rozmowa z nowym wolontariuszem o dołączeniu do ZHP",
+        "fileName": "Rozmowa z nowym wolontariuszem o dołączeniu do ZHP.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Rozmowa z nowym wolontariuszem o dołączeniu do ZHP.docx",
+        "modified": "2025-09-29T13:13:21Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00021",
+        "title": "Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt",
+        "fileName": "Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt.docx",
+        "modified": "2025-08-27T04:39:22Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00027",
+        "title": "Skrócony zapis Polityki SFH",
+        "fileName": "Skrócony-zapis-Polityki-SFH.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Skrócony-zapis-Polityki-SFH.pdf",
+        "modified": "2025-08-27T05:09:12Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00024",
+        "title": "ulotka edytowalne pole na kod QR i stopka",
+        "fileName": "ulotka_edytowalne pole na kod QR i stopka.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/ulotka_edytowalne pole na kod QR i stopka.docx",
+        "modified": "2025-08-27T04:47:56Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00026",
+        "title": "ulotka link do strony www ZHP + edytowalna stopka",
+        "fileName": "ulotka_link do strony www ZHP + edytowalna stopka.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/ulotka_link do strony www ZHP + edytowalna stopka.docx",
+        "modified": "2025-08-27T05:06:15Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00025",
+        "title": "ulotka wolontariusze kod QR do strony ZHP + edytowalna stopka",
+        "fileName": "ulotka wolontariusze_kod QR do strony ZHP + edytowalna stopka.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/ulotka wolontariusze_kod QR do strony ZHP + edytowalna stopka.docx",
+        "modified": "2025-08-27T05:05:06Z",
+        "moduleId": "pozostale-materialy",
+        "moduleTitle": "Pozostałe Materiały",
+        "toolScore": 34,
+        "categoryId": "pozostale",
+        "categoryTitle": "Pozostałe narzędzia",
+        "sourceModuleId": "pozostale-materialy",
+        "sourceModuleTitle": "Pozostałe Materiały"
+      },
+      {
+        "id": "file-00476",
+        "title": "Harcerskie ABC – narzędzie do pracy indywidualnej",
+        "fileName": "Harcerskie-ABC-–-narzędzie-do-pracy-indywidualnej.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Harcerskie-ABC-–-narzędzie-do-pracy-indywidualnej.docx",
+        "modified": "2026-04-07T07:33:21Z",
+        "moduleId": "proces-pracy-z-kadra",
+        "moduleTitle": "Proces pracy z kadrą",
+        "toolScore": 34,
+        "categoryId": "proces-pracy-z-kadra",
+        "categoryTitle": "Proces pracy z kadrą",
+        "sourceModuleId": "proces-pracy-z-kadra",
+        "sourceModuleTitle": "Proces pracy z kadrą"
+      },
+      {
+        "id": "file-00016",
+        "title": "Praca z kadrą wdrażanie mapa myśli chorągwie",
+        "fileName": "Praca z kadrą_wdrażanie_mapa myśli_chorągwie.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/Praca z kadrą_wdrażanie_mapa myśli_chorągwie.pdf",
+        "modified": "2025-03-13T14:05:45Z",
+        "moduleId": "wdrazanie-spzk",
+        "moduleTitle": "Wdrażanie SPzK",
+        "toolScore": 30,
+        "categoryId": "proces-pracy-z-kadra",
+        "categoryTitle": "Proces pracy z kadrą",
+        "sourceModuleId": "wdrazanie-spzk",
+        "sourceModuleTitle": "Wdrażanie SPzK"
+      },
+      {
+        "id": "file-00014",
+        "title": "mapa mysli SPzK",
+        "fileName": "mapa mysli SPzK.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/mapa mysli SPzK.pdf",
+        "modified": "2025-03-12T13:43:10Z",
+        "moduleId": "wdrazanie-spzk",
+        "moduleTitle": "Wdrażanie SPzK",
+        "toolScore": 30,
+        "categoryId": "proces-pracy-z-kadra",
+        "categoryTitle": "Proces pracy z kadrą",
+        "sourceModuleId": "wdrazanie-spzk",
+        "sourceModuleTitle": "Wdrażanie SPzK"
+      },
+      {
+        "id": "file-00355",
+        "title": "Karta wolontariusza członek powracający do ZHP",
+        "fileName": "Karta-wolontariusza_członek-powracający-do-ZHP.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_członek-powracający-do-ZHP.docx",
+        "modified": "2025-08-27T05:33:42Z",
+        "moduleId": "proces-pracy-z-kadra",
+        "moduleTitle": "Proces pracy z kadrą",
+        "toolScore": 22,
+        "categoryId": "proces-pracy-z-kadra",
+        "categoryTitle": "Proces pracy z kadrą",
+        "sourceModuleId": "proces-pracy-z-kadra",
+        "sourceModuleTitle": "Proces pracy z kadrą"
+      },
+      {
+        "id": "file-00354",
+        "title": "Karta wolontariusza nowy członek ZHP",
+        "fileName": "Karta-wolontariusza_nowy-członek-ZHP.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_nowy-członek-ZHP.docx",
+        "modified": "2025-08-27T05:33:12Z",
+        "moduleId": "proces-pracy-z-kadra",
+        "moduleTitle": "Proces pracy z kadrą",
+        "toolScore": 22,
+        "categoryId": "proces-pracy-z-kadra",
+        "categoryTitle": "Proces pracy z kadrą",
+        "sourceModuleId": "proces-pracy-z-kadra",
+        "sourceModuleTitle": "Proces pracy z kadrą"
+      },
+      {
+        "id": "file-00353",
+        "title": "Karta wolontariusza współpraca akcyjna",
+        "fileName": "Karta-wolontariusza_współpraca-akcyjna.docx",
+        "type": "word",
+        "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_współpraca-akcyjna.docx",
+        "modified": "2025-08-27T05:31:56Z",
+        "moduleId": "proces-pracy-z-kadra",
+        "moduleTitle": "Proces pracy z kadrą",
+        "toolScore": 22,
+        "categoryId": "proces-pracy-z-kadra",
+        "categoryTitle": "Proces pracy z kadrą",
+        "sourceModuleId": "proces-pracy-z-kadra",
+        "sourceModuleTitle": "Proces pracy z kadrą"
+      },
+      {
+        "id": "file-00293",
+        "title": "Karty doceniam drukA4 kopia",
+        "fileName": "Karty_doceniam_drukA4-kopia.pdf",
+        "type": "pdf",
+        "path": "files/proces-pracy-z-kadra/Karty_doceniam_drukA4-kopia.pdf",
+        "modified": "2025-08-26T05:40:13Z",
+        "moduleId": "proces-pracy-z-kadra",
+        "moduleTitle": "Proces pracy z kadrą",
+        "toolScore": 22,
+        "categoryId": "proces-pracy-z-kadra",
+        "categoryTitle": "Proces pracy z kadrą",
+        "sourceModuleId": "proces-pracy-z-kadra",
+        "sourceModuleTitle": "Proces pracy z kadrą"
+      },
+      {
+        "id": "file-00029",
+        "title": "Poradnik dla mentora nowego wolontariusza wersja 2.0",
+        "fileName": "Poradnik dla mentora nowego wolontariusza_wersja 2.0.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/Poradnik dla mentora nowego wolontariusza_wersja 2.0.pdf",
+        "modified": "2025-08-27T05:22:39Z",
+        "moduleId": "wdrazanie-spzk",
+        "moduleTitle": "Wdrażanie SPzK",
+        "toolScore": 22,
+        "categoryId": "proces-pracy-z-kadra",
+        "categoryTitle": "Proces pracy z kadrą",
+        "sourceModuleId": "wdrazanie-spzk",
+        "sourceModuleTitle": "Wdrażanie SPzK"
+      }
+    ],
+    "filesCount": 47,
+    "toolSections": [
+      {
+        "id": "model-przywodztwa",
+        "title": "Model przywództwa",
+        "itemsCount": 16,
+        "files": [
+          {
+            "id": "file-00310",
+            "title": "Broszura o modelu przywództwa ZHP druk domowy",
+            "fileName": "Broszura-o-modelu-przywództwa-ZHP---druk-domowy.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Broszura-o-modelu-przywództwa-ZHP---druk-domowy.pdf",
+            "modified": "2025-08-26T09:38:40Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00309",
+            "title": "Broszura o modelu przywództwa ZHP online",
+            "fileName": "Broszura-o-modelu-przywództwa-ZHP---online.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Broszura-o-modelu-przywództwa-ZHP---online.pdf",
+            "modified": "2025-08-26T09:37:24Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00348",
+            "title": "Dziennik Refleksji ZHP druk",
+            "fileName": "Dziennik-Refleksji-ZHP-druk.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Dziennik-Refleksji-ZHP-druk.pdf",
+            "modified": "2025-08-26T16:34:57Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00347",
+            "title": "Dziennik Refleksji ZHP internet 1",
+            "fileName": "Dziennik-Refleksji-ZHP-internet-1.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Dziennik-Refleksji-ZHP-internet-1.pdf",
+            "modified": "2025-08-26T16:34:14Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00645",
+            "title": "Dziennik Refleksji pojedyncze strony",
+            "fileName": "Dziennik-Refleksji-pojedyncze-strony.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Dziennik-Refleksji-pojedyncze-strony.pdf",
+            "modified": "2026-01-26T09:25:51Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00314",
+            "title": "Dziennik nawyków habit tracker",
+            "fileName": "Dziennik-nawyków---habit-tracker.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Dziennik-nawyków---habit-tracker.pdf",
+            "modified": "2025-08-26T10:55:28Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00313",
+            "title": "Harmonijka Modelu Przywodztwa online",
+            "fileName": "Harmonijka-Modelu-Przywodztwa---online.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Harmonijka-Modelu-Przywodztwa---online.pdf",
+            "modified": "2025-08-26T10:38:09Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00649",
+            "title": "Mapowanie Postaw pajęczynka",
+            "fileName": "Mapowanie-Postaw---pajęczynka.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Mapowanie-Postaw---pajęczynka.pdf",
+            "modified": "2026-02-10T11:53:07Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00478",
+            "title": "Mapowanie Postaw pajęczynka",
+            "fileName": "Mapowanie-Postaw---pajęczynka.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Mapowanie-Postaw---pajęczynka.pdf",
+            "modified": "2025-09-03T07:49:46Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00622",
+            "title": "Model przywództwa – OD TEORII DO PRAKTYKI Czuwaj11 2025",
+            "fileName": "MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+            "modified": "2025-12-04T11:24:04Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00634",
+            "title": "Model przywództwa – OD TEORII DO PRAKTYKI Czuwaj11 2025",
+            "fileName": "MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+            "type": "pdf",
+            "path": "files/artykuly-z-czuwaj/MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+            "modified": "2025-12-04T11:58:28Z",
+            "moduleId": "artykuly-z-czuwaj",
+            "moduleTitle": "Artykuły z Czuwaj o pracy z kadrą",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "artykuly-z-czuwaj",
+            "sourceModuleTitle": "Artykuły z Czuwaj o pracy z kadrą"
+          },
+          {
+            "id": "file-00487",
+            "title": "Poznajmy się przez postawy do druku domowego",
+            "fileName": "Poznajmy-się-przez-postawy---do-druku-domowego.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Poznajmy-się-przez-postawy---do-druku-domowego.pdf",
+            "modified": "2025-09-09T11:01:25Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00315",
+            "title": "Poznajmy się... online",
+            "fileName": "Poznajmy-się...---online.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Poznajmy-się...---online.pdf",
+            "modified": "2025-08-26T10:58:14Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00312",
+            "title": "Ulotka Model przywództwa druk domowy",
+            "fileName": "Ulotka-model-przywodztwa---druk-domowy.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Ulotka-model-przywodztwa---druk-domowy.pdf",
+            "modified": "2025-08-26T10:34:34Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00311",
+            "title": "Ulotka Model przywództwa online",
+            "fileName": "Ulotka-model-przywodztwa---online.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/Ulotka-model-przywodztwa---online.pdf",
+            "modified": "2025-08-26T10:34:08Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          },
+          {
+            "id": "file-00434",
+            "title": "W świecie do bani potrzebujemy przywództwa czuwaj 2024",
+            "fileName": "W-świecie-do-bani-potrzebujemy-przywództwa_czuwaj-2024.pdf",
+            "type": "pdf",
+            "path": "files/model-przywodztwa/W-świecie-do-bani-potrzebujemy-przywództwa_czuwaj-2024.pdf",
+            "modified": "2025-08-30T12:10:06Z",
+            "moduleId": "model-przywodztwa",
+            "moduleTitle": "Model przywództwa",
+            "toolScore": 20,
+            "categoryId": "model-przywodztwa",
+            "categoryTitle": "Model przywództwa",
+            "sourceModuleId": "model-przywodztwa",
+            "sourceModuleTitle": "Model przywództwa"
+          }
+        ]
+      },
+      {
+        "id": "proces-pracy-z-kadra",
+        "title": "Proces pracy z kadrą",
+        "itemsCount": 8,
+        "files": [
+          {
+            "id": "file-00476",
+            "title": "Harcerskie ABC – narzędzie do pracy indywidualnej",
+            "fileName": "Harcerskie-ABC-–-narzędzie-do-pracy-indywidualnej.docx",
+            "type": "word",
+            "path": "files/proces-pracy-z-kadra/Harcerskie-ABC-–-narzędzie-do-pracy-indywidualnej.docx",
+            "modified": "2026-04-07T07:33:21Z",
+            "moduleId": "proces-pracy-z-kadra",
+            "moduleTitle": "Proces pracy z kadrą",
+            "toolScore": 34,
+            "categoryId": "proces-pracy-z-kadra",
+            "categoryTitle": "Proces pracy z kadrą",
+            "sourceModuleId": "proces-pracy-z-kadra",
+            "sourceModuleTitle": "Proces pracy z kadrą"
+          },
+          {
+            "id": "file-00016",
+            "title": "Praca z kadrą wdrażanie mapa myśli chorągwie",
+            "fileName": "Praca z kadrą_wdrażanie_mapa myśli_chorągwie.pdf",
+            "type": "pdf",
+            "path": "files/wdrazanie-spzk/Praca z kadrą_wdrażanie_mapa myśli_chorągwie.pdf",
+            "modified": "2025-03-13T14:05:45Z",
+            "moduleId": "wdrazanie-spzk",
+            "moduleTitle": "Wdrażanie SPzK",
+            "toolScore": 30,
+            "categoryId": "proces-pracy-z-kadra",
+            "categoryTitle": "Proces pracy z kadrą",
+            "sourceModuleId": "wdrazanie-spzk",
+            "sourceModuleTitle": "Wdrażanie SPzK"
+          },
+          {
+            "id": "file-00014",
+            "title": "mapa mysli SPzK",
+            "fileName": "mapa mysli SPzK.pdf",
+            "type": "pdf",
+            "path": "files/wdrazanie-spzk/mapa mysli SPzK.pdf",
+            "modified": "2025-03-12T13:43:10Z",
+            "moduleId": "wdrazanie-spzk",
+            "moduleTitle": "Wdrażanie SPzK",
+            "toolScore": 30,
+            "categoryId": "proces-pracy-z-kadra",
+            "categoryTitle": "Proces pracy z kadrą",
+            "sourceModuleId": "wdrazanie-spzk",
+            "sourceModuleTitle": "Wdrażanie SPzK"
+          },
+          {
+            "id": "file-00355",
+            "title": "Karta wolontariusza członek powracający do ZHP",
+            "fileName": "Karta-wolontariusza_członek-powracający-do-ZHP.docx",
+            "type": "word",
+            "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_członek-powracający-do-ZHP.docx",
+            "modified": "2025-08-27T05:33:42Z",
+            "moduleId": "proces-pracy-z-kadra",
+            "moduleTitle": "Proces pracy z kadrą",
+            "toolScore": 22,
+            "categoryId": "proces-pracy-z-kadra",
+            "categoryTitle": "Proces pracy z kadrą",
+            "sourceModuleId": "proces-pracy-z-kadra",
+            "sourceModuleTitle": "Proces pracy z kadrą"
+          },
+          {
+            "id": "file-00354",
+            "title": "Karta wolontariusza nowy członek ZHP",
+            "fileName": "Karta-wolontariusza_nowy-członek-ZHP.docx",
+            "type": "word",
+            "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_nowy-członek-ZHP.docx",
+            "modified": "2025-08-27T05:33:12Z",
+            "moduleId": "proces-pracy-z-kadra",
+            "moduleTitle": "Proces pracy z kadrą",
+            "toolScore": 22,
+            "categoryId": "proces-pracy-z-kadra",
+            "categoryTitle": "Proces pracy z kadrą",
+            "sourceModuleId": "proces-pracy-z-kadra",
+            "sourceModuleTitle": "Proces pracy z kadrą"
+          },
+          {
+            "id": "file-00353",
+            "title": "Karta wolontariusza współpraca akcyjna",
+            "fileName": "Karta-wolontariusza_współpraca-akcyjna.docx",
+            "type": "word",
+            "path": "files/proces-pracy-z-kadra/Karta-wolontariusza_współpraca-akcyjna.docx",
+            "modified": "2025-08-27T05:31:56Z",
+            "moduleId": "proces-pracy-z-kadra",
+            "moduleTitle": "Proces pracy z kadrą",
+            "toolScore": 22,
+            "categoryId": "proces-pracy-z-kadra",
+            "categoryTitle": "Proces pracy z kadrą",
+            "sourceModuleId": "proces-pracy-z-kadra",
+            "sourceModuleTitle": "Proces pracy z kadrą"
+          },
+          {
+            "id": "file-00293",
+            "title": "Karty doceniam drukA4 kopia",
+            "fileName": "Karty_doceniam_drukA4-kopia.pdf",
+            "type": "pdf",
+            "path": "files/proces-pracy-z-kadra/Karty_doceniam_drukA4-kopia.pdf",
+            "modified": "2025-08-26T05:40:13Z",
+            "moduleId": "proces-pracy-z-kadra",
+            "moduleTitle": "Proces pracy z kadrą",
+            "toolScore": 22,
+            "categoryId": "proces-pracy-z-kadra",
+            "categoryTitle": "Proces pracy z kadrą",
+            "sourceModuleId": "proces-pracy-z-kadra",
+            "sourceModuleTitle": "Proces pracy z kadrą"
+          },
+          {
+            "id": "file-00029",
+            "title": "Poradnik dla mentora nowego wolontariusza wersja 2.0",
+            "fileName": "Poradnik dla mentora nowego wolontariusza_wersja 2.0.pdf",
+            "type": "pdf",
+            "path": "files/wdrazanie-spzk/Poradnik dla mentora nowego wolontariusza_wersja 2.0.pdf",
+            "modified": "2025-08-27T05:22:39Z",
+            "moduleId": "wdrazanie-spzk",
+            "moduleTitle": "Wdrażanie SPzK",
+            "toolScore": 22,
+            "categoryId": "proces-pracy-z-kadra",
+            "categoryTitle": "Proces pracy z kadrą",
+            "sourceModuleId": "wdrazanie-spzk",
+            "sourceModuleTitle": "Wdrażanie SPzK"
+          }
+        ]
+      },
+      {
+        "id": "pozostale",
+        "title": "Pozostałe narzędzia",
+        "itemsCount": 23,
+        "files": [
+          {
+            "id": "file-00644",
+            "title": "Arkusz diagnozy hufca narzędzie",
+            "fileName": "Arkusz-diagnozy-hufca---narzędzie.xlsx",
+            "type": "spreadsheet",
+            "path": "files/pozostale-materialy/Arkusz-diagnozy-hufca---narzędzie.xlsx",
+            "modified": "2026-03-11T12:58:29Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 46,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00651",
+            "title": "Arkusz diagnozy hufca narzędzie 1",
+            "fileName": "Arkusz-diagnozy-hufca---narzędzie--1-.xlsx",
+            "type": "spreadsheet",
+            "path": "files/pozostale-materialy/Arkusz-diagnozy-hufca---narzędzie--1-.xlsx",
+            "modified": "2026-03-12T11:42:50Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 46,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00539",
+            "title": "DRUK DOMOWY karty i instrukcja 1",
+            "fileName": "DRUK-DOMOWY_karty-i-instrukcja-1.pdf",
+            "type": "pdf",
+            "path": "files/pozostale-materialy/DRUK-DOMOWY_karty-i-instrukcja-1.pdf",
+            "modified": "2025-11-05T15:24:52Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 46,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00028",
+            "title": "Program próby harcerza harcerki dla dorosłych",
+            "fileName": "Program próby harcerza-harcerki dla dorosłych.docx",
+            "type": "word",
+            "path": "files/pozostale-materialy/Program próby harcerza-harcerki dla dorosłych.docx",
+            "modified": "2025-08-27T05:21:03Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 46,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00033",
+            "title": "Skład A4 Program Rozwoju Kultury Organizacynej w ZHP ONLINE",
+            "fileName": "Skład A4_Program Rozwoju Kultury Organizacynej w ZHP-ONLINE.pdf",
+            "type": "pdf",
+            "path": "files/pozostale-materialy/Skład A4_Program Rozwoju Kultury Organizacynej w ZHP-ONLINE.pdf",
+            "modified": "2026-04-10T22:24:09Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 46,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00018",
+            "title": "Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy",
+            "fileName": "Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy.docx",
+            "type": "word",
+            "path": "files/pozostale-materialy/Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy.docx",
+            "modified": "2025-08-26T19:08:41Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00343",
+            "title": "Czym jest kultura organizacyjna i jak powstało narzędzie Czuwaj 2024",
+            "fileName": "Czym-jest-kultura-organizacyjna-i-jak-powstało-narzędzie_Czuwaj-2024.pdf",
+            "type": "pdf",
+            "path": "files/artykuly-z-czuwaj/Czym-jest-kultura-organizacyjna-i-jak-powstało-narzędzie_Czuwaj-2024.pdf",
+            "modified": "2025-08-26T15:54:02Z",
+            "moduleId": "artykuly-z-czuwaj",
+            "moduleTitle": "Artykuły z Czuwaj o pracy z kadrą",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "artykuly-z-czuwaj",
+            "sourceModuleTitle": "Artykuły z Czuwaj o pracy z kadrą"
+          },
+          {
+            "id": "file-00653",
+            "title": "Diagnoza hufca instrukcja do druku",
+            "fileName": "Diagnoza-hufca---instrukcja-do-druku.pdf",
+            "type": "pdf",
+            "path": "files/pozostale-materialy/Diagnoza-hufca---instrukcja-do-druku.pdf",
+            "modified": "2026-03-12T11:43:58Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00643",
+            "title": "Diagnoza hufca zestawy pytań",
+            "fileName": "Diagnoza-hufca---zestawy-pytań.docx",
+            "type": "word",
+            "path": "files/pozostale-materialy/Diagnoza-hufca---zestawy-pytań.docx",
+            "modified": "2026-03-11T12:57:39Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00652",
+            "title": "Diagnoza hufca zestawy pytań 1",
+            "fileName": "Diagnoza-hufca---zestawy-pytań--1-.docx",
+            "type": "word",
+            "path": "files/pozostale-materialy/Diagnoza-hufca---zestawy-pytań--1-.docx",
+            "modified": "2026-03-12T11:43:28Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00031",
+            "title": "Narzędziownik dla kadry ZHP online",
+            "fileName": "Narzędziownik dla kadry ZHP_online.pdf",
+            "type": "pdf",
+            "path": "files/pozostale-materialy/Narzędziownik dla kadry ZHP_online.pdf",
+            "modified": "2025-09-08T13:56:35Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00032",
+            "title": "Narzędownik dla kadry ZHP informacja zwrotna online",
+            "fileName": "Narzędownik dla kadry ZHP_informacja zwrotna_online.pdf",
+            "type": "pdf",
+            "path": "files/pozostale-materialy/Narzędownik dla kadry ZHP_informacja zwrotna_online.pdf",
+            "modified": "2025-12-04T14:26:05Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00019",
+            "title": "O czym warto pamiętać, rekrutując nowych wolontariuszy ULOTKA",
+            "fileName": "O czym warto pamiętać, rekrutując nowych wolontariuszy_ULOTKA.pdf",
+            "type": "pdf",
+            "path": "files/pozostale-materialy/O czym warto pamiętać, rekrutując nowych wolontariuszy_ULOTKA.pdf",
+            "modified": "2025-08-26T19:11:51Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00013",
+            "title": "Plan wdrażania Główna Kwatera",
+            "fileName": "Plan wdrażania - Główna Kwatera.pdf",
+            "type": "pdf",
+            "path": "files/pozostale-materialy/Plan wdrażania - Główna Kwatera.pdf",
+            "modified": "2025-03-06T21:19:46Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00012",
+            "title": "Plan wdrażania chorągiew",
+            "fileName": "Plan wdrażania - chorągiew.pdf",
+            "type": "pdf",
+            "path": "files/pozostale-materialy/Plan wdrażania - chorągiew.pdf",
+            "modified": "2025-03-06T21:19:46Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00011",
+            "title": "Plan wdrażania hufiec",
+            "fileName": "Plan wdrażania - hufiec.pdf",
+            "type": "pdf",
+            "path": "files/pozostale-materialy/Plan wdrażania - hufiec.pdf",
+            "modified": "2025-03-06T21:19:46Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00023",
+            "title": "Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP",
+            "fileName": "Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP.docx",
+            "type": "word",
+            "path": "files/pozostale-materialy/Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP.docx",
+            "modified": "2025-09-29T13:13:38Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00022",
+            "title": "Rozmowa z nowym wolontariuszem o dołączeniu do ZHP",
+            "fileName": "Rozmowa z nowym wolontariuszem o dołączeniu do ZHP.docx",
+            "type": "word",
+            "path": "files/pozostale-materialy/Rozmowa z nowym wolontariuszem o dołączeniu do ZHP.docx",
+            "modified": "2025-09-29T13:13:21Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00021",
+            "title": "Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt",
+            "fileName": "Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt.docx",
+            "type": "word",
+            "path": "files/pozostale-materialy/Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt.docx",
+            "modified": "2025-08-27T04:39:22Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00027",
+            "title": "Skrócony zapis Polityki SFH",
+            "fileName": "Skrócony-zapis-Polityki-SFH.pdf",
+            "type": "pdf",
+            "path": "files/pozostale-materialy/Skrócony-zapis-Polityki-SFH.pdf",
+            "modified": "2025-08-27T05:09:12Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00024",
+            "title": "ulotka edytowalne pole na kod QR i stopka",
+            "fileName": "ulotka_edytowalne pole na kod QR i stopka.docx",
+            "type": "word",
+            "path": "files/pozostale-materialy/ulotka_edytowalne pole na kod QR i stopka.docx",
+            "modified": "2025-08-27T04:47:56Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00026",
+            "title": "ulotka link do strony www ZHP + edytowalna stopka",
+            "fileName": "ulotka_link do strony www ZHP + edytowalna stopka.docx",
+            "type": "word",
+            "path": "files/pozostale-materialy/ulotka_link do strony www ZHP + edytowalna stopka.docx",
+            "modified": "2025-08-27T05:06:15Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          },
+          {
+            "id": "file-00025",
+            "title": "ulotka wolontariusze kod QR do strony ZHP + edytowalna stopka",
+            "fileName": "ulotka wolontariusze_kod QR do strony ZHP + edytowalna stopka.docx",
+            "type": "word",
+            "path": "files/pozostale-materialy/ulotka wolontariusze_kod QR do strony ZHP + edytowalna stopka.docx",
+            "modified": "2025-08-27T05:05:06Z",
+            "moduleId": "pozostale-materialy",
+            "moduleTitle": "Pozostałe Materiały",
+            "toolScore": 34,
+            "categoryId": "pozostale",
+            "categoryTitle": "Pozostałe narzędzia",
+            "sourceModuleId": "pozostale-materialy",
+            "sourceModuleTitle": "Pozostałe Materiały"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ewaluacja",
+    "title": "Ewaluacja",
+    "shortTitle": "Ewaluacja",
+    "description": "Materiały i Narzędzia do ewaluacji Systemu Pracy z Kadrą oraz działań kadrowych.",
+    "icon": "analytics",
+    "color": "#F0B33B",
+    "pages": [],
+    "files": [
+      {
+        "id": "file-00691",
+        "title": "Home",
+        "fileName": "Ewaluacja.aspx",
+        "type": "page",
+        "path": "files/ewaluacja/ewaluacja.aspx",
+        "modified": "2026-03-31T18:14:19Z"
+      }
+    ],
+    "pagesCount": 0,
+    "filesCount": 1,
+    "displayImagesCount": 4
+  },
+  {
+    "id": "wdrazanie-spzk",
+    "title": "Wdrażanie SPzK",
+    "shortTitle": "Wdrażanie",
+    "description": "Materiały wspierające wdrażanie Systemu Pracy z Kadrą w ZHP.",
+    "icon": "rocket_launch",
+    "color": "#243364",
+    "pages": [
+      {
+        "id": "home",
+        "title": "Strona główna",
+        "summary": "Model przywództwa Proces pracy z kadrą Praca z kadrą w zespole Ewaluacja kadra jest najcenniejszym kapitałem Związku Harcerstwa Polskiego. Realizuje lub wspiera realizację celów i…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/Home.aspx",
+        "modified": "2026-06-02T19:35:03Z"
+      },
+      {
+        "id": "wdrazanie-systemu-pracy-z-kadra-w-zhp",
+        "title": "Wdrażanie Systemu Pracy Z Kadrą W ZHP",
+        "summary": "Model przywództwa Proces pracy z kadrą Praca z kadrą w zespole Ewaluacja Plan został opracowany w celu przygotowania organizacji do wdrażania i stosowania zaktualizowanego…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/Wdrażanie systemu pracy z kadrą w ZHP.aspx",
+        "modified": "2025-12-31T14:46:56Z"
+      },
+      {
+        "id": "plakaty-o-spzk",
+        "title": "Plakaty O SPzK",
+        "summary": "Model przywództwa Proces pracy z kadrą Praca z kadrą w zespole Ewaluacja plakakty SPzK_1 plakakty SPzK_2 plakakty SPzK_3 plakakty SPzK_4 plakakty SPzK_5 plakakty SPzK_6 mapa mysli…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/Plakaty o SPzK.aspx",
+        "modified": "2025-10-03T07:19:54Z"
+      },
+      {
+        "id": "wdrazanie-spzk-w-zhp-2",
+        "title": "Wdrażanie SPzK W ZHP 2",
+        "summary": "Zaktualizowany “System pracy z kadrą w ZHP” wchodzi w życie 1 września 2025 r. Na intensywnej drodze w rozwoju organizacji! Wprowadzenie zaktualizowanego „Systemu pracy z kadrą w…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/wdrazanie-spzk-w-zhp-2.aspx",
+        "modified": "2025-10-03T07:29:23Z"
+      },
+      {
+        "id": "wydzielona-strona-plakaty-o-spzk",
+        "title": "Wydzielona Strona Plakaty O SPzK",
+        "summary": "plakakty SPzK_1 plakakty SPzK_2 plakakty SPzK_3 plakakty SPzK_4 plakakty SPzK_5 plakakty SPzK_6 Dokumenty i Materiały dotyczące Systemu Pracy z Kadrą w ZHP (SPzK): Dokument…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/Wydzielona strona - Plakaty o SPzK.aspx",
+        "modified": "2025-10-03T07:30:01Z"
+      },
+      {
+        "id": "wydzielona-strona-mapa-mysli",
+        "title": "Wydzielona Strona Mapa Myśli",
+        "summary": "Mapa myśli o SPzK Mapa myśli wdrażania SPzK w Chorągwi Mapa myśli wdrażania SPzK w Hufcu Dokumenty i Materiały dotyczące Systemu Pracy z Kadrą w ZHP (SPzK): Dokument \"Systemu…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/Wydzielona strona - Mapa myśli.aspx",
+        "modified": "2025-10-03T07:29:45Z"
+      },
+      {
+        "id": "ewaluacja",
+        "title": "Ewaluacja",
+        "summary": "Ewaluacja „System pracy z kadrą w ZHP” jest ogólnozwiązkowym standardem regulującym sposób pracy z kadrą w Związku Harcerstwa Polskiego. Celem ewaluacji jego działania w…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/ewaluacja.aspx",
+        "modified": "2026-03-31T18:14:19Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-1-pozyskiwanie-z-wewnatrz",
+        "title": "Proces pracy z kadrą 1 Pozyskiwanie Z Wewnatrz",
+        "summary": "Proces pracy z kadrą PRZEJDŹ DO MODUŁU \"Funkcje w ZHP\" Dokumenty i Materiały dotyczące Systemu Pracy z Kadrą w ZHP (SPzK): Dokument \"Systemu pracy z kadrą w ZHP\" Broszura \"System…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-1-pozyskiwanie-z-wewnatrz.aspx",
+        "modified": "2025-10-03T07:24:22Z"
+      },
+      {
+        "id": "system-ksztalcenia-w-zhp",
+        "title": "System kształcenia w ZHP",
+        "summary": "W związku z trwającymi pracami Głównej Kwatery ZHP nad dokumentem “Kształcenie kadry w ZHP”, nowa strona o Systemie Kształcenia na platformie dla kadry ZHP powstanie wraz z…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/system-ksztalcenia-w-zhp.aspx",
+        "modified": "2025-10-03T07:28:47Z"
+      },
+      {
+        "id": "artykuly-z-czuwaja",
+        "title": "Artykuły z Czuwaja",
+        "summary": "Model przywództwa Proces pracy z kadrą Praca z kadrą w zespole Ewaluacja Listopadowy numer “Czuwaj” 2025 r. jest poświęcony tematowi pracy z kadrą w ZHP oraz zmian, które…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/artykuly-z-czuwaja.aspx",
+        "modified": "2025-12-04T12:40:39Z"
+      },
+      {
+        "id": "mapa-strony",
+        "title": "Mapa Strony",
+        "summary": "Model przywództwa Proces pracy z kadrą Praca z kadrą w zespole Ewaluacja Model przywództwa Broszura o modelu przywództwa Ulotka o modelu przywództwa Skrót o postawach - harmonijka…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/mapa-strony.aspx",
+        "modified": "2026-05-20T07:21:58Z"
+      },
+      {
+        "id": "model-przywodztwa-broszura",
+        "title": "Model przywództwa Broszura",
+        "summary": "Model przywództwa Broszura o Modelu Przywództwa w ZHP Opis podstaw dotyczących Modelu Przywództwa w ZHP i jego genezy. Zawiera kluczowe pojęcia i opis sześciu postaw, a także…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/model-przywodztwa-broszura.aspx",
+        "modified": "2026-02-10T11:54:16Z"
+      },
+      {
+        "id": "model-przywodztwa-ulotka",
+        "title": "Model przywództwa Ulotka",
+        "summary": "Model przywództwa Ulotka o Modelu Przywództwa w ZHP Skrócona wersja najważniejszych pojęć i elementów składających się na Model przywództwa w ZHP. Ulotka - wersja online Ulotka -…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/model-przywodztwa-ulotka.aspx",
+        "modified": "2025-10-03T07:19:40Z"
+      },
+      {
+        "id": "model-przywodztwa-skrot-o-postawach",
+        "title": "Model przywództwa Skrot O Postawach",
+        "summary": "Model przywództwa Skrót o postawach - harmonijka Kieszonkowa wersja opisu postaw z Modelu Przywództwa w ZHP wraz z grafikami. Harmonijka - wersja online PRZEJDŹ DO MODUŁU \"FUNKCJE…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/model-przywodztwa-skrot-o-postawach.aspx",
+        "modified": "2025-10-03T07:18:23Z"
+      },
+      {
+        "id": "model-przywodztwa-dziennik-refleksji",
+        "title": "Model przywództwa Dziennik Refleksji",
+        "summary": "Model przywództwa Dziennik refleksji Indywidualne narzędzie codziennej autorefleksji, stworzone, aby wspierać praktykowanie postaw wynikających z Modelu Przywództwa w ZHP.…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/model-przywodztwa-dziennik-refleksji.aspx",
+        "modified": "2026-01-26T09:26:28Z"
+      },
+      {
+        "id": "model-przywodztwa-dziennik-nawykow",
+        "title": "Model przywództwa Dziennik Nawykow",
+        "summary": "Model przywództwa Dziennik nawyków Habit tracker to narzędzie, które pomoże Ci świadomie rozwijać i utrwalać dobre nawyki przywódcze. Dzięki regularnemu monitorowaniu przez kilka…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/model-przywodztwa-dziennik-nawykow.aspx",
+        "modified": "2025-10-03T07:17:25Z"
+      },
+      {
+        "id": "model-przywodztwa-poznajmy-sie-przez-postawy",
+        "title": "Model przywództwa Poznajmy Sie Przez Postawy",
+        "summary": "Model przywództwa Poznajmy się przez postawy - karty Karty z pytaniami to uniwersalne narzędzie wspierające rozwój postaw z Modelu Przywództwa. Mogą posłużyć jako inspirujący…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/model-przywodztwa-poznajmy-sie-przez-postawy.aspx",
+        "modified": "2026-04-10T22:09:23Z"
+      },
+      {
+        "id": "model-przywodztwa-pajeczynka",
+        "title": "Model przywództwa Pajeczynka",
+        "summary": "Model przywództwa Narzędzie do samooceny postaw - pajęczynka Narzędzie do oceny poziomu realizacji postaw z Modelu Przywództwa umożliwia sprawdzenie, w jakim stopniu liderka lub…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/model-przywodztwa-pajeczynka.aspx",
+        "modified": "2026-02-10T11:56:13Z"
+      },
+      {
+        "id": "model-przywodztwa-narzedzie-ksztalceniowe",
+        "title": "Model przywództwa Narzedzie Ksztalceniowe",
+        "summary": "Model przywództwa Narzędzie kształceniowe Karty Postaw to narzędzie wspierające poznawanie, rozumienie i identyfikowanie sześciu postaw z Modelu Przywództwa w ZHP. Jego celem jest…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/model-przywodztwa-narzedzie-ksztalceniowe.aspx",
+        "modified": "2025-10-03T07:17:49Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-inf-zwrotna",
+        "title": "Proces pracy z kadrą 2 Rozwoj Przez Dzialanie Inf Zwrotna",
+        "summary": "Proces pracy z kadrą Rozmowa z informacją zwrotną. PRZEJDŹ DO MODUŁU \"Funkcje w ZHP\" Dokumenty i Materiały dotyczące Systemu Pracy z Kadrą w ZHP (SPzK): Dokument \"Systemu pracy z…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-inf-zwrotna.aspx",
+        "modified": "2025-10-09T08:47:56Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-wsp-mentor",
+        "title": "Proces pracy z kadrą 2 Rozwoj Przez Dzialanie Wsp Mentor",
+        "summary": "Proces pracy z kadrą Współpraca z mentorem \"Indywidualnie dopasowana forma wsparcia, która jest skierowana zarówno do nowych wolontariuszy, jak i do obecnych, w okresie…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-wsp-mentor.aspx",
+        "modified": "2025-12-04T13:05:30Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-ksiazki-media",
+        "title": "Proces pracy z kadrą 2 Rozwoj Przez Dzialanie Ksiazki Media",
+        "summary": "Proces pracy z kadrą Książki i harcerskie media Zasoby wspierające proces kształcenia, inspirujące do działania, przekazujące wiedzę oraz rozwijające kompetencje członków…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-ksiazki-media.aspx",
+        "modified": "2025-10-09T09:01:11Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-3-podsumowanie-pracy-samoocena-refl",
+        "title": "Proces pracy z kadrą 3 Podsumowanie Pracy Samoocena Refl",
+        "summary": "Proces pracy z kadrą SAMOOCENA REFLEKSYJNA Refleksyjne spojrzenie na swoje dotychczasowe działania i osiągnięte efekty, w którym osoba świadomie analizuje własne postawy,…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-3-podsumowanie-pracy-samoocena-refl.aspx",
+        "modified": "2025-11-17T14:47:36Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-3-podsumowanie-pracy-wielostronna-inf-zwr",
+        "title": "Proces pracy z kadrą 3 Podsumowanie Pracy Wielostronna Inf Zwr",
+        "summary": "Proces pracy z kadrą WIELOSTRONNA INFORMACJA ZWROTNA To proces, w którym opinie i spostrzeżenia na temat czyichś działań lub kompetencji przekazywane są z różnych perspektyw, np.…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-3-podsumowanie-pracy-wielostronna-inf-zwr.aspx",
+        "modified": "2025-10-03T07:28:06Z"
+      },
+      {
+        "id": "proces-pracy-z-kadra-3-podsumowanie-pracy-podsumowanie-pracy",
+        "title": "Proces pracy z kadrą 3 Podsumowanie Pracy Podsumowanie Pracy",
+        "summary": "Proces pracy z kadrą PODSUMOWANIE PRACY Syntetyczne zebranie i uporządkowanie najważniejszych informacji o całokształcie wykonanych działań – na podstawie informacji zwrotnych,…",
+        "sourceUrl": "/sites/KadraZHP/SitePages/proces-pracy-z-kadra-3-podsumowanie-pracy-podsumowanie-pracy.aspx",
+        "modified": "2025-11-17T14:50:22Z"
+      }
+    ],
+    "files": [
+      {
+        "id": "file-00001",
+        "title": "System pracy z kadrą online",
+        "fileName": "System pracy z kadrą_online.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/System pracy z kadrą_online.pdf",
+        "modified": "2025-09-04T20:37:07Z"
+      },
+      {
+        "id": "file-00002",
+        "title": "plakakty SPzK 2",
+        "fileName": "plakakty SPzK_2.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/plakakty SPzK_2.pdf",
+        "modified": "2025-03-05T13:00:04Z"
+      },
+      {
+        "id": "file-00003",
+        "title": "plakakty SPzK 3",
+        "fileName": "plakakty SPzK_3.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/plakakty SPzK_3.pdf",
+        "modified": "2025-03-05T13:00:03Z"
+      },
+      {
+        "id": "file-00004",
+        "title": "plakakty SPzK 1",
+        "fileName": "plakakty SPzK_1.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/plakakty SPzK_1.pdf",
+        "modified": "2025-03-05T13:00:04Z"
+      },
+      {
+        "id": "file-00005",
+        "title": "plakakty SPzK 5",
+        "fileName": "plakakty SPzK_5.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/plakakty SPzK_5.pdf",
+        "modified": "2025-03-05T13:00:06Z"
+      },
+      {
+        "id": "file-00006",
+        "title": "plakakty SPzK 4",
+        "fileName": "plakakty SPzK_4.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/plakakty SPzK_4.pdf",
+        "modified": "2025-03-05T13:00:06Z"
+      },
+      {
+        "id": "file-00007",
+        "title": "plakakty SPzK 6",
+        "fileName": "plakakty SPzK_6.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/plakakty SPzK_6.pdf",
+        "modified": "2025-03-05T13:00:06Z"
+      },
+      {
+        "id": "file-00014",
+        "title": "mapa mysli SPzK",
+        "fileName": "mapa mysli SPzK.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/mapa mysli SPzK.pdf",
+        "modified": "2025-03-12T13:43:10Z"
+      },
+      {
+        "id": "file-00015",
+        "title": "Praca z kadrą wdrażanie broszura hufce druk maly",
+        "fileName": "Praca z kadrą_wdrażanie_broszura-hufce_druk_maly.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/Praca z kadrą_wdrażanie_broszura-hufce_druk_maly.pdf",
+        "modified": "2025-03-13T13:49:46Z"
+      },
+      {
+        "id": "file-00016",
+        "title": "Praca z kadrą wdrażanie mapa myśli chorągwie",
+        "fileName": "Praca z kadrą_wdrażanie_mapa myśli_chorągwie.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/Praca z kadrą_wdrażanie_mapa myśli_chorągwie.pdf",
+        "modified": "2025-03-13T14:05:45Z"
+      },
+      {
+        "id": "file-00029",
+        "title": "Poradnik dla mentora nowego wolontariusza wersja 2.0",
+        "fileName": "Poradnik dla mentora nowego wolontariusza_wersja 2.0.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/Poradnik dla mentora nowego wolontariusza_wersja 2.0.pdf",
+        "modified": "2025-08-27T05:22:39Z"
+      },
+      {
+        "id": "file-00030",
+        "title": "System pracy z kadrą online NEW",
+        "fileName": "System pracy z kadrą_online-NEW.pdf",
+        "type": "pdf",
+        "path": "files/wdrazanie-spzk/System pracy z kadrą_online-NEW.pdf",
+        "modified": "2025-09-04T20:36:59Z"
+      },
+      {
+        "id": "file-00212",
+        "title": "SPzK wdrażanie prezentacja 2.0",
+        "fileName": "SPzK_wdrażanie_prezentacja_2.0.ppsx",
+        "type": "file",
+        "path": "files/wdrazanie-spzk/SPzK_wdrażanie_prezentacja_2.0.ppsx",
+        "modified": "2025-03-14T07:16:28Z"
+      },
+      {
+        "id": "file-00217",
+        "title": "SPzK Wdrażanie",
+        "fileName": "SPzK_Wdrażanie.ppsx",
+        "type": "file",
+        "path": "files/wdrazanie-spzk/SPzK_Wdrażanie.ppsx",
+        "modified": "2025-03-29T10:18:31Z"
+      },
+      {
+        "id": "file-00236",
+        "title": "3161099326SPzK Wdrażanie",
+        "fileName": "3161099326SPzK_Wdrażanie.ppsx",
+        "type": "file",
+        "path": "files/wdrazanie-spzk/3161099326SPzK_Wdrażanie.ppsx",
+        "modified": "2025-04-17T09:11:35Z"
+      },
+      {
+        "id": "file-00682",
+        "title": "Home",
+        "fileName": "Wdrażanie systemu pracy z kadrą w ZHP.aspx",
+        "type": "page",
+        "path": "files/wdrazanie-spzk/Wdrażanie systemu pracy z kadrą w ZHP.aspx",
+        "modified": "2025-12-31T14:46:56Z"
+      },
+      {
+        "id": "file-00683",
+        "title": "Home",
+        "fileName": "Plakaty o SPzK.aspx",
+        "type": "page",
+        "path": "files/wdrazanie-spzk/Plakaty o SPzK.aspx",
+        "modified": "2025-10-03T07:19:54Z"
+      },
+      {
+        "id": "file-00684",
+        "title": "Home",
+        "fileName": "wdrazanie-SPzK-w-ZHP-2.aspx",
+        "type": "page",
+        "path": "files/wdrazanie-spzk/wdrazanie-spzk-w-zhp-2.aspx",
+        "modified": "2025-10-03T07:29:23Z"
+      },
+      {
+        "id": "file-00685",
+        "title": "Home",
+        "fileName": "Wydzielona strona - Plakaty o SPzK.aspx",
+        "type": "page",
+        "path": "files/wdrazanie-spzk/Wydzielona strona - Plakaty o SPzK.aspx",
+        "modified": "2025-10-03T07:30:01Z"
+      }
+    ],
+    "pagesCount": 25,
+    "filesCount": 19,
+    "displayImagesCount": 45
+  },
+  {
+    "id": "funkcje-w-zhp",
+    "title": "Funkcje w ZHP",
+    "shortTitle": "Funkcje w ZHP",
+    "description": "Materiały dotyczące funkcji, ról i odpowiedzialności w ZHP.",
+    "icon": "badge",
+    "color": "#755390",
+    "pages": [],
+    "files": [],
+    "pagesCount": 0,
+    "filesCount": 0,
+    "displayImagesCount": 0
+  },
+  {
+    "id": "system-ksztalcenia-w-zhp",
+    "title": "System kształcenia w ZHP",
+    "shortTitle": "Kształcenie",
+    "description": "Materiały dotyczące systemu kursów, szkoleń, kadry kształcącej i rozwoju instruktorskiego.",
+    "icon": "menu_book",
+    "color": "#243364",
+    "pages": [],
+    "files": [
+      {
+        "id": "file-00700",
+        "title": "Home",
+        "fileName": "system-ksztalcenia-w-ZHP.aspx",
+        "type": "page",
+        "path": "files/system-ksztalcenia-w-zhp/system-ksztalcenia-w-zhp.aspx",
+        "modified": "2025-10-03T07:28:47Z"
+      }
+    ],
+    "pagesCount": 0,
+    "filesCount": 1,
+    "displayImagesCount": 6
+  },
+  {
+    "id": "system-stopni-instruktorskich-w-zhp",
+    "title": "System stopni instruktorskich",
+    "shortTitle": "SSI",
+    "description": "System stopni instruktorskich: zasady, tryb zdobywania stopni, zobowiązanie instruktorskie, KSI oraz wymagania stopni.",
+    "icon": "workspace_premium",
+    "color": "#755390",
+    "pages": [
+      {
+        "id": "system-stopni-instruktorskich-w-zhp",
+        "title": "System stopni instruktorskich",
+        "summary": "System stopni instruktorskich obejmuje preambułę, postanowienia ogólne, zasady i tryb zdobywania stopni, zobowiązanie instruktorskie, zasady działania komisji stopni instruktorskich oraz opisy stopni: przewodniczki/przewodnika, podharcmi...",
+        "sourceUrl": "/sites/ssi/SitePages/home.aspx",
+        "modified": ""
+      },
+      {
+        "id": "ssi-preambula",
+        "title": "Preambuła",
+        "summary": "Stopnie instruktorskie wyznaczają drogę rozwoju instruktorskiego, a ich celem jest kształtowanie instruktorów-wychowawców. Odzwierciedlają wiedzę, dojrzałość społeczną, umiejętności wychowawcze i doświadczenie instruktora zgodne z ideą...",
+        "sourceUrl": "/sites/ssi/SitePages/preambula.aspx",
+        "modified": ""
+      },
+      {
+        "id": "ssi-postanowienia-ogolne",
+        "title": "Postanowienia ogólne",
+        "summary": "1. Niniejszy dokument określa zasady i tryb zdobywania stopni instruktorskich, zasady działania komisji stopni instruktorskich, a także idee, warunki otwarcia i zamknięcia oraz wymagania stopni. Jest to wstępny, wprowadzający przepis,...",
+        "sourceUrl": "/sites/ssi/SitePages/postanowienia-ogolne.aspx",
+        "modified": ""
+      },
+      {
+        "id": "ssi-zasady-zdobywania-stopni-instruktorskich",
+        "title": "Zasady zdobywania stopni instruktorskich",
+        "summary": "5. Stopnie instruktorskie wyznaczają drogę rozwoju instruktorskiego, a ich celem jest kształtowanie instruktorów-wychowawców. Odzwierciedlają wiedzę, dojrzałość społeczną, umiejętności wychowawcze i doświadczenie instruktora zgodne z...",
+        "sourceUrl": "/sites/ssi/SitePages/zasady-zdobywania.aspx",
+        "modified": ""
+      },
+      {
+        "id": "ssi-tryb-zdobywania-stopni-instruktorskich",
+        "title": "Tryb zdobywania stopni instruktorskich",
+        "summary": "11. Wędrownik, członek starszyzny lub instruktor decydujący się na zdobywanie stopnia zgłasza do właściwej KSI gotowość podjęcia próby. Zgodnie z pkt 9 „Regulaminu spraw członkowskich ZHP” „Każdy członek ZHP ma przydział służbowy do...",
+        "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+        "modified": ""
+      },
+      {
+        "id": "ssi-zobowiazanie-instruktorskie",
+        "title": "Zobowiązanie instruktorskie",
+        "summary": "29. Zobowiązanie Instruktorskie powinno zostać zorganizowane w obrzędowy sposób przez opiekuna próby nie później niż 3 miesiące po przyznaniu stopnia przewodnika – przewodniczki. W przypadku niedochowania tego terminu za zorganizowanie...",
+        "sourceUrl": "/sites/ssi/SitePages/zobowiazanie-instruktorskie.aspx",
+        "modified": ""
+      },
+      {
+        "id": "ssi-komisje-stopni-instruktorskich",
+        "title": "Zasady działania komisji stopni instruktorskich",
+        "summary": "ZADANIA KOMISJI 31. Do zadań KSI należy: a) stymulowanie rozwoju instruktorów poprzez: • pracę z opiekunami prób na stopnie, • prowadzenie i monitorowanie prób na stopnie instruktorskie, • systematyczne podnoszenie kwalifikacji swoich...",
+        "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+        "modified": ""
+      },
+      {
+        "id": "ssi-przewodniczka-przewodnik",
+        "title": "Przewodniczka / przewodnik",
+        "summary": "IDEA STOPNIA Swoją postawą propaguje harcerski system wartości wynikający z Przyrzeczenia i Prawa Harcerskiego. Jest wzorem dla harcerzy. Prowadzi zdrowy tryb życia. Poznaje siebie i motywy swojego postępowania. Rozwija swoje zdolności,...",
+        "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+        "modified": ""
+      },
+      {
+        "id": "ssi-podharcmistrzyni-podharcmistrz",
+        "title": "Podharcmistrzyni / podharcmistrz",
+        "summary": "IDEA STOPNIA Określa kierunki swojego rozwoju i je realizuje. Pracuje nad sobą, przełamuje własne ograniczenia. Przykładem osobistym, w tym zdrowym trybem życia, świadomie i pozytywnie oddziałuje na otoczenie. Rozumie ludzi i otaczającą...",
+        "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+        "modified": ""
+      },
+      {
+        "id": "ssi-harcmistrzyni-harcmistrz",
+        "title": "Harcmistrzyni / harcmistrz",
+        "summary": "IDEA STOPNIA Jest wzorem dla instruktorów. Prowadzi zdrowy tryb życia. Dba o swój wszechstronny rozwój. Stara się odkryć sens życia. Konsekwentnie realizuje swoje cele życiowe. Osiągnął założoną przez siebie dojrzałość w życiu...",
+        "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+        "modified": ""
+      }
+    ],
+    "files": [],
+    "pagesCount": 1,
+    "filesCount": 0,
+    "displayImagesCount": 0
+  },
+  {
+    "id": "artykuly-z-czuwaj",
+    "title": "Artykuły z Czuwaj o pracy z kadrą",
+    "shortTitle": "Artykuły z Czuwaj",
+    "description": "Artykuły i Materiały publicystyczne dotyczące pracy z kadrą.",
+    "icon": "article",
+    "color": "#F0B33B",
+    "pages": [],
+    "files": [
+      {
+        "id": "file-00319",
+        "title": "Alternatywna droga dla kadry czuwaj 2023",
+        "fileName": "Alternatywna-droga-dla-kadry_czuwaj-2023.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Alternatywna-droga-dla-kadry_czuwaj-2023.pdf",
+        "modified": "2025-08-26T15:27:36Z"
+      },
+      {
+        "id": "file-00320",
+        "title": "Codzienne wyzwania komend hufców Czuwaj 2025",
+        "fileName": "Codzienne-wyzwania-komend-hufców_Czuwaj-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Codzienne-wyzwania-komend-hufców_Czuwaj-2025.pdf",
+        "modified": "2025-08-26T15:28:30Z"
+      },
+      {
+        "id": "file-00321",
+        "title": "Czy instruktor to ma być cyborg czuwaj 2015",
+        "fileName": "Czy-instruktor-to-ma-być-cyborg_czuwaj-2015.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Czy-instruktor-to-ma-być-cyborg_czuwaj-2015.pdf",
+        "modified": "2025-08-26T15:28:53Z"
+      },
+      {
+        "id": "file-00322",
+        "title": "System pracy z kadrą Aktualizacja czuwaj 2024",
+        "fileName": "System-pracy-z-kadrą_Aktualizacja_czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/System-pracy-z-kadrą_Aktualizacja_czuwaj-2024.pdf",
+        "modified": "2025-08-26T15:29:55Z"
+      },
+      {
+        "id": "file-00323",
+        "title": "Zmiany w SPzK czuwaj 2024",
+        "fileName": "Zmiany-w-SPzK_czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Zmiany-w-SPzK_czuwaj-2024.pdf",
+        "modified": "2025-08-26T15:30:09Z"
+      },
+      {
+        "id": "file-00324",
+        "title": "Zmiany w SPzK zaczynamy wdrażanie Czuwaj 2025",
+        "fileName": "Zmiany-w-SPzK-zaczynamy-wdrażanie_Czuwaj-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Zmiany-w-SPzK-zaczynamy-wdrażanie_Czuwaj-2025.pdf",
+        "modified": "2025-08-26T15:30:20Z"
+      },
+      {
+        "id": "file-00325",
+        "title": "O serdeczności czuwaj 2015",
+        "fileName": "O-serdeczności_czuwaj-2015.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/O-serdeczności_czuwaj-2015.pdf",
+        "modified": "2025-08-26T15:32:12Z"
+      },
+      {
+        "id": "file-00326",
+        "title": "Wypalenie aktywistyczne czuwaj 2020",
+        "fileName": "Wypalenie-aktywistyczne_czuwaj-2020.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Wypalenie-aktywistyczne_czuwaj-2020.pdf",
+        "modified": "2025-08-26T15:32:40Z"
+      },
+      {
+        "id": "file-00327",
+        "title": "Siła ciała ducha i rozumu o wypaleniu czuwaj 2019",
+        "fileName": "Siła-ciała-ducha-i-rozumu_o-wypaleniu_czuwaj-2019.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Siła-ciała-ducha-i-rozumu_o-wypaleniu_czuwaj-2019.pdf",
+        "modified": "2025-08-26T15:33:05Z"
+      },
+      {
+        "id": "file-00328",
+        "title": "Jak możemy wyrażać naszą wdzięczność czuwaj 2022",
+        "fileName": "Jak-możemy-wyrażać-naszą-wdzięczność_czuwaj-2022.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Jak-możemy-wyrażać-naszą-wdzięczność_czuwaj-2022.pdf",
+        "modified": "2025-08-26T15:33:35Z"
+      },
+      {
+        "id": "file-00329",
+        "title": "Dziękuję Ci za to że... o praktyce wdzięczności czuwaj 2022",
+        "fileName": "Dziękuję-Ci-za-to--że...-o-praktyce-wdzięczności_czuwaj-2022.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Dziękuję-Ci-za-to--że...-o-praktyce-wdzięczności_czuwaj-2022.pdf",
+        "modified": "2025-08-26T15:33:55Z"
+      },
+      {
+        "id": "file-00330",
+        "title": "Gra bezinteresowaności czuwaj 2021",
+        "fileName": "Gra-bezinteresowaności_czuwaj-2021.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Gra-bezinteresowaności_czuwaj-2021.pdf",
+        "modified": "2025-08-26T15:36:58Z"
+      },
+      {
+        "id": "file-00331",
+        "title": "Czy istnieje magiczny eliksir na braki kadrowe czuwaj 2017",
+        "fileName": "Czy-istnieje-magiczny-eliksir-na-braki-kadrowe_czuwaj-2017.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Czy-istnieje-magiczny-eliksir-na-braki-kadrowe_czuwaj-2017.pdf",
+        "modified": "2025-08-26T15:40:22Z"
+      },
+      {
+        "id": "file-00332",
+        "title": "Dialog międzypokoleniowy kluczem do sukcesu czuwaj 2022",
+        "fileName": "Dialog-międzypokoleniowy-kluczem-do-sukcesu_czuwaj-2022.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Dialog-międzypokoleniowy-kluczem-do-sukcesu_czuwaj-2022.pdf",
+        "modified": "2025-08-26T15:41:37Z"
+      },
+      {
+        "id": "file-00333",
+        "title": "Dzielenie się doświadczeniem czuwaj 2016",
+        "fileName": "Dzielenie-się-doświadczeniem_czuwaj-2016.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Dzielenie-się-doświadczeniem_czuwaj-2016.pdf",
+        "modified": "2025-08-26T15:41:55Z"
+      },
+      {
+        "id": "file-00334",
+        "title": "Intruktorskie emocje czuwaj 2023",
+        "fileName": "Intruktorskie-emocje_czuwaj-2023.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Intruktorskie-emocje_czuwaj-2023.pdf",
+        "modified": "2025-08-26T15:42:45Z"
+      },
+      {
+        "id": "file-00335",
+        "title": "Jakie inspiracje możmy czerpać od wielkich firm czuwaj 2016",
+        "fileName": "Jakie-inspiracje-możmy-czerpać-od-wielkich-firm_czuwaj-2016.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Jakie-inspiracje-możmy-czerpać-od-wielkich-firm_czuwaj-2016.pdf",
+        "modified": "2025-08-26T15:43:39Z"
+      },
+      {
+        "id": "file-00336",
+        "title": "Kompetencje przyszłości co to takiego czuwaj 2022",
+        "fileName": "Kompetencje-przyszłości_co-to-takiego_czuwaj-2022.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Kompetencje-przyszłości_co-to-takiego_czuwaj-2022.pdf",
+        "modified": "2025-08-26T15:44:39Z"
+      },
+      {
+        "id": "file-00337",
+        "title": "Lider Służba czuwaj 2014",
+        "fileName": "Lider--Służba-_czuwaj-2014.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Lider--Służba-_czuwaj-2014.pdf",
+        "modified": "2025-08-26T15:45:34Z"
+      },
+      {
+        "id": "file-00338",
+        "title": "Miejsce w ZHP osób 35 czuwaj 2020",
+        "fileName": "Miejsce-w-ZHP-osób-35-_czuwaj-2020.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Miejsce-w-ZHP-osób-35-_czuwaj-2020.pdf",
+        "modified": "2025-08-26T15:45:49Z"
+      },
+      {
+        "id": "file-00339",
+        "title": "Nasz zespół o nasze wartości Czuwaj 2024",
+        "fileName": "Nasz-zespół-o-nasze-wartości_Czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Nasz-zespół-o-nasze-wartości_Czuwaj-2024.pdf",
+        "modified": "2025-08-26T15:55:07Z"
+      },
+      {
+        "id": "file-00340",
+        "title": "Polska rama kwalifikacji czuwaj 2023",
+        "fileName": "Polska-rama-kwalifikacji_czuwaj-2023.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Polska-rama-kwalifikacji_czuwaj-2023.pdf",
+        "modified": "2025-08-26T15:47:36Z"
+      },
+      {
+        "id": "file-00341",
+        "title": "Szef jako magnes dla dobrych instruktorów czuwaj 2015",
+        "fileName": "Szef-jako-magnes-dla-dobrych-instruktorów_czuwaj-2015.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Szef-jako-magnes-dla-dobrych-instruktorów_czuwaj-2015.pdf",
+        "modified": "2025-08-26T15:48:21Z"
+      },
+      {
+        "id": "file-00342",
+        "title": "O kulturę organizacji czuwaj 2022",
+        "fileName": "O-kulturę-organizacji_czuwaj-2022.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/O-kulturę-organizacji_czuwaj-2022.pdf",
+        "modified": "2025-08-26T15:53:37Z"
+      },
+      {
+        "id": "file-00343",
+        "title": "Czym jest kultura organizacyjna i jak powstało narzędzie Czuwaj 2024",
+        "fileName": "Czym-jest-kultura-organizacyjna-i-jak-powstało-narzędzie_Czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Czym-jest-kultura-organizacyjna-i-jak-powstało-narzędzie_Czuwaj-2024.pdf",
+        "modified": "2025-08-26T15:54:02Z"
+      },
+      {
+        "id": "file-00344",
+        "title": "Kultura organizacyjna a budowanie harcerskiej wspólnoty Czuwaj 2024",
+        "fileName": "Kultura-organizacyjna-a-budowanie-harcerskiej-wspólnoty_Czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Kultura-organizacyjna-a-budowanie-harcerskiej-wspólnoty_Czuwaj-2024.pdf",
+        "modified": "2025-08-26T15:54:30Z"
+      },
+      {
+        "id": "file-00345",
+        "title": "kultura organizacyjna Czuwaj 2024",
+        "fileName": "kultura-organizacyjna_Czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/kultura-organizacyjna_Czuwaj-2024.pdf",
+        "modified": "2025-08-26T15:54:46Z"
+      },
+      {
+        "id": "file-00406",
+        "title": "Einstein i Eisenhower w korporacji Lider+ czuwaj 2014",
+        "fileName": "Einstein i Eisenhower w korporacji_Lider+_czuwaj-2014.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Einstein i Eisenhower w korporacji_Lider+_czuwaj-2014.pdf",
+        "modified": "2025-08-29T12:03:49Z"
+      },
+      {
+        "id": "file-00407",
+        "title": "13 grzechów organizatora kursu czuwaj 2015",
+        "fileName": "13 grzechów organizatora kursu_czuwaj-2015.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/13 grzechów organizatora kursu_czuwaj-2015.pdf",
+        "modified": "2025-08-29T12:03:50Z"
+      },
+      {
+        "id": "file-00408",
+        "title": "Dlaczego tak ważna praca z przybocznym Czuwaj 2025",
+        "fileName": "Dlaczego tak ważna praca z przybocznym_Czuwaj-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Dlaczego tak ważna praca z przybocznym_Czuwaj-2025.pdf",
+        "modified": "2025-08-29T12:03:50Z"
+      },
+      {
+        "id": "file-00409",
+        "title": "Konferencje harcmistrzowskie czuwaj 2024",
+        "fileName": "Konferencje harcmistrzowskie_czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Konferencje harcmistrzowskie_czuwaj-2024.pdf",
+        "modified": "2025-08-29T12:03:50Z"
+      },
+      {
+        "id": "file-00410",
+        "title": "Kształcenie polisensoryczne w pracy z dorosłymi czuwaj 2015",
+        "fileName": "Kształcenie polisensoryczne w pracy z dorosłymi_czuwaj-2015.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Kształcenie polisensoryczne w pracy z dorosłymi_czuwaj-2015.pdf",
+        "modified": "2025-08-29T12:03:51Z"
+      },
+      {
+        "id": "file-00411",
+        "title": "Kurs podharcmistrzowski doświadczenia nie do zastąpienia czuwaj 2017",
+        "fileName": "Kurs podharcmistrzowski_doświadczenia nie do zastąpienia_czuwaj-2017.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Kurs podharcmistrzowski_doświadczenia nie do zastąpienia_czuwaj-2017.pdf",
+        "modified": "2025-08-29T12:03:51Z"
+      },
+      {
+        "id": "file-00412",
+        "title": "Kursowa absencja czuwaj 2014",
+        "fileName": "Kursowa absencja_czuwaj-2014.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Kursowa absencja_czuwaj-2014.pdf",
+        "modified": "2025-08-29T12:03:53Z"
+      },
+      {
+        "id": "file-00413",
+        "title": "KIedy zaufanie poznało kształcenie czuwaj 2018",
+        "fileName": "KIedy zaufanie poznało kształcenie_czuwaj-2018.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/KIedy zaufanie poznało kształcenie_czuwaj-2018.pdf",
+        "modified": "2025-08-29T12:03:52Z"
+      },
+      {
+        "id": "file-00414",
+        "title": "Magiczne wędrownicze przeżycie czuwaj 2015",
+        "fileName": "Magiczne wędrownicze przeżycie_czuwaj-2015.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Magiczne wędrownicze przeżycie_czuwaj-2015.pdf",
+        "modified": "2025-08-29T12:03:54Z"
+      },
+      {
+        "id": "file-00415",
+        "title": "O kocie w kształceniu czuwaj 2014",
+        "fileName": "O kocie w kształceniu_czuwaj-2014.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/O kocie w kształceniu_czuwaj-2014.pdf",
+        "modified": "2025-08-29T12:03:53Z"
+      },
+      {
+        "id": "file-00416",
+        "title": "Woodbage trzeba przeżyć ale tylko raz czuwaj 2016",
+        "fileName": "Woodbage trzeba przeżyć ale tylko raz_czuwaj-2016.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Woodbage trzeba przeżyć ale tylko raz_czuwaj-2016.pdf",
+        "modified": "2025-08-29T12:03:55Z"
+      },
+      {
+        "id": "file-00417",
+        "title": "Woodbage czuwaj 2023",
+        "fileName": "Woodbage_czuwaj-2023.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Woodbage_czuwaj-2023.pdf",
+        "modified": "2025-08-29T12:03:54Z"
+      },
+      {
+        "id": "file-00418",
+        "title": "O kształceniu i kształtowaniu drużynowych czuwaj 2019",
+        "fileName": "O kształceniu i kształtowaniu drużynowych_czuwaj-2019.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/O kształceniu i kształtowaniu drużynowych_czuwaj-2019.pdf",
+        "modified": "2025-08-29T12:03:55Z"
+      },
+      {
+        "id": "file-00419",
+        "title": "Z jakiej gliny cz2 czuwaj 2023",
+        "fileName": "Z jakiej gliny cz2_czuwaj-2023.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Z jakiej gliny cz2_czuwaj-2023.pdf",
+        "modified": "2025-08-29T12:03:55Z"
+      },
+      {
+        "id": "file-00420",
+        "title": "Z jakiej gliny czuwaj 2023",
+        "fileName": "Z jakiej gliny_czuwaj-2023.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Z jakiej gliny_czuwaj-2023.pdf",
+        "modified": "2025-08-29T12:03:56Z"
+      },
+      {
+        "id": "file-00421",
+        "title": "Jak możemy wyrażać naszą wdzięczność czuwaj 2022",
+        "fileName": "Jak możemy wyrażać naszą wdzięczność_czuwaj-2022.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Jak możemy wyrażać naszą wdzięczność_czuwaj-2022.pdf",
+        "modified": "2025-08-29T13:46:39Z"
+      },
+      {
+        "id": "file-00422",
+        "title": "Podziękuj swojej kadrze czuwaj 2023",
+        "fileName": "Podziękuj swojej kadrze_czuwaj-2023.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Podziękuj swojej kadrze_czuwaj-2023.pdf",
+        "modified": "2025-08-29T13:46:39Z"
+      },
+      {
+        "id": "file-00423",
+        "title": "Zamykając harcerskie drzwi czuwaj 2022",
+        "fileName": "Zamykając harcerskie drzwi_czuwaj-2022.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Zamykając harcerskie drzwi_czuwaj-2022.pdf",
+        "modified": "2025-08-29T13:46:40Z"
+      },
+      {
+        "id": "file-00424",
+        "title": "Dziękuję Ci za to, że... o praktyce wdzięczności czuwaj 2022",
+        "fileName": "Dziękuję Ci za to, że... o praktyce wdzięczności_czuwaj-2022.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Dziękuję Ci za to, że... o praktyce wdzięczności_czuwaj-2022.pdf",
+        "modified": "2025-08-29T13:46:41Z"
+      },
+      {
+        "id": "file-00425",
+        "title": "Powierzonej służby nie opuszczę samowolnie czuwaj 2021",
+        "fileName": "Powierzonej służby nie opuszczę samowolnie_czuwaj-2021.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Powierzonej służby nie opuszczę samowolnie_czuwaj-2021.pdf",
+        "modified": "2025-08-29T13:46:41Z"
+      },
+      {
+        "id": "file-00426",
+        "title": "Konferencje harcmistrzowskie czuwaj 2024",
+        "fileName": "Konferencje harcmistrzowskie_czuwaj-2024-2.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Konferencje harcmistrzowskie_czuwaj-2024-2.pdf",
+        "modified": "2025-08-29T14:18:22Z"
+      },
+      {
+        "id": "file-00427",
+        "title": "Być opiekunem czuwaj 2018",
+        "fileName": "Być opiekunem_czuwaj-2018.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Być opiekunem_czuwaj-2018.pdf",
+        "modified": "2025-08-29T14:18:24Z"
+      },
+      {
+        "id": "file-00428",
+        "title": "KSI i niepełnosprawności czuwaj 2020",
+        "fileName": "KSI i niepełnosprawności_czuwaj-2020.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/KSI i niepełnosprawności_czuwaj-2020.pdf",
+        "modified": "2025-08-29T14:18:26Z"
+      },
+      {
+        "id": "file-00429",
+        "title": "Garść pomysłów o kracy KSI z opiekunami prób instruktorskich czuwaj 2019",
+        "fileName": "Garść pomysłów_o kracy KSI z opiekunami prób instruktorskich_czuwaj-2019.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Garść pomysłów_o kracy KSI z opiekunami prób instruktorskich_czuwaj-2019.pdf",
+        "modified": "2025-08-29T14:18:25Z"
+      },
+      {
+        "id": "file-00496",
+        "title": "W świecie do bani potrzebujemy przywództwa czuwaj 2024",
+        "fileName": "W świecie do bani potrzebujemy przywództwa_czuwaj-2024.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/W świecie do bani potrzebujemy przywództwa_czuwaj-2024.pdf",
+        "modified": "2025-09-19T08:03:03Z"
+      },
+      {
+        "id": "file-00497",
+        "title": "Instruktor wychowawca nauczyciel czuwaj 2016",
+        "fileName": "Instruktor wychowawca nauczyciel_czuwaj-2016.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Instruktor wychowawca nauczyciel_czuwaj-2016.pdf",
+        "modified": "2025-09-19T08:04:36Z"
+      },
+      {
+        "id": "file-00498",
+        "title": "Dlaczego tak ważna praca z przybocznym Czuwaj 2025",
+        "fileName": "Dlaczego tak ważna praca z przybocznym_Czuwaj-2025-2.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Dlaczego tak ważna praca z przybocznym_Czuwaj-2025-2.pdf",
+        "modified": "2025-09-19T08:05:45Z"
+      },
+      {
+        "id": "file-00499",
+        "title": "Może poza zmianą świata spróbujesz też zmienić siebie na lepsze czuwaj1 2015",
+        "fileName": "Może poza zmianą świata spróbujesz też zmienić siebie na lepsze_czuwaj1-2015.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Może poza zmianą świata spróbujesz też zmienić siebie na lepsze_czuwaj1-2015.pdf",
+        "modified": "2025-09-19T08:08:53Z"
+      },
+      {
+        "id": "file-00500",
+        "title": "Różnorodność pokoleniowa czuwaj 2023",
+        "fileName": "Różnorodność pokoleniowa_czuwaj-2023.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Różnorodność pokoleniowa_czuwaj-2023.pdf",
+        "modified": "2025-09-19T08:08:55Z"
+      },
+      {
+        "id": "file-00501",
+        "title": "Instuktor wychowawca list otwarty czuwaj 2016",
+        "fileName": "Instuktor-wychowawca-list-otwarty_czuwaj 2016.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Instuktor-wychowawca-list-otwarty_czuwaj 2016.pdf",
+        "modified": "2025-09-19T09:24:53Z"
+      },
+      {
+        "id": "file-00502",
+        "title": "Stopien instruktorski potwierdzeniem kompetencji wychowawczych czuwaj 2016",
+        "fileName": "Stopien-instruktorski-potwierdzeniem-kompetencji-wychowawczych_czuwaj 2016.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Stopien-instruktorski-potwierdzeniem-kompetencji-wychowawczych_czuwaj 2016.pdf",
+        "modified": "2025-09-19T09:24:53Z"
+      },
+      {
+        "id": "file-00503",
+        "title": "Dokad zmierzamy w pracy z kadra czuwaj 2016",
+        "fileName": "Dokad-zmierzamy-w-pracy-z-kadra_czuwaj 2016.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Dokad-zmierzamy-w-pracy-z-kadra_czuwaj 2016.pdf",
+        "modified": "2025-09-19T09:25:47Z"
+      },
+      {
+        "id": "file-00504",
+        "title": "Cwiczenia instruktorskie czuwaj 2018",
+        "fileName": "Cwiczenia-instruktorskie_czuwaj-2018.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Cwiczenia-instruktorskie_czuwaj-2018.pdf",
+        "modified": "2025-09-19T09:29:08Z"
+      },
+      {
+        "id": "file-00505",
+        "title": "Gaj metody czuwaj 2018",
+        "fileName": "Gaj-metody_czuwaj-2018.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Gaj-metody_czuwaj-2018.pdf",
+        "modified": "2025-09-19T09:32:23Z"
+      },
+      {
+        "id": "file-00506",
+        "title": "ZHP w ZSK jak po co dlaczego czuwaj 2018",
+        "fileName": "ZHP-w-ZSK-jak-po-co-dlaczego_czuwaj-2018.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/ZHP-w-ZSK-jak-po-co-dlaczego_czuwaj-2018.pdf",
+        "modified": "2025-09-19T09:36:02Z"
+      },
+      {
+        "id": "file-00626",
+        "title": "Pozyskiwnie kadry do HP z zewnątrz Czuwaj11 2025",
+        "fileName": "Pozyskiwnie-kadry-do-HP-z-zewnątrz_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Pozyskiwnie-kadry-do-HP-z-zewnątrz_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:43:05Z"
+      },
+      {
+        "id": "file-00627",
+        "title": "KOŃCZENIE WSPÓŁPRACY CZYLI MĄDROŚĆ ETAPU Czuwaj11 2025",
+        "fileName": "KOŃCZENIE-WSPÓŁPRACY--CZYLI-MĄDROŚĆ-ETAPU_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/KOŃCZENIE-WSPÓŁPRACY--CZYLI-MĄDROŚĆ-ETAPU_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:46:21Z"
+      },
+      {
+        "id": "file-00628",
+        "title": "W ZHP NOWY ROZDZIAŁ PRACY Z KADRĄ Czuwaj11 2025",
+        "fileName": "W-ZHP-NOWY-ROZDZIAŁ-PRACY-Z-KADRĄ_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/W-ZHP-NOWY-ROZDZIAŁ-PRACY-Z-KADRĄ_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:46:53Z"
+      },
+      {
+        "id": "file-00629",
+        "title": "CZY ISTNIEJE UNIWERSALNY SPOSÓB PRACY W ZESPOLE KADRY Czuwaj11 2025",
+        "fileName": "CZY-ISTNIEJE-UNIWERSALNY-SPOSÓB-PRACY-W-ZESPOLE-KADRY_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/CZY-ISTNIEJE-UNIWERSALNY-SPOSÓB-PRACY-W-ZESPOLE-KADRY_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:47:43Z"
+      },
+      {
+        "id": "file-00630",
+        "title": "Jak narodził się nowy kierunek działań kadry o kulturze organizacyjnej Czuwaj11 2025",
+        "fileName": "Jak-narodził-się-nowy-kierunek-działań-kadry_o-kulturze-organizacyjnej_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Jak-narodził-się-nowy-kierunek-działań-kadry_o-kulturze-organizacyjnej_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:49:55Z"
+      },
+      {
+        "id": "file-00631",
+        "title": "Z CHĘCI A NIE Z PRZYMUSU CZYLI JAK MOTYWOWAĆ Czuwaj11 2025",
+        "fileName": "Z-CHĘCI--A-NIE-Z-PRZYMUSU-CZYLI-JAK-MOTYWOWAĆ_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Z-CHĘCI--A-NIE-Z-PRZYMUSU-CZYLI-JAK-MOTYWOWAĆ_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:48:31Z"
+      },
+      {
+        "id": "file-00632",
+        "title": "O PRACY Z TALENTAMI Czuwaj11 2025",
+        "fileName": "O-PRACY-Z-TALENTAMI_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/O-PRACY-Z-TALENTAMI_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:50:19Z"
+      },
+      {
+        "id": "file-00633",
+        "title": "Pozyskiwnie kadry do ZHP z zewnątrz Czuwaj11 2025",
+        "fileName": "Pozyskiwnie-kadry-do-ZHP-z-zewnątrz_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Pozyskiwnie-kadry-do-ZHP-z-zewnątrz_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:57:50Z"
+      },
+      {
+        "id": "file-00634",
+        "title": "Model przywództwa – OD TEORII DO PRAKTYKI Czuwaj11 2025",
+        "fileName": "MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/MODEL-PRZYWÓDZTWA-–-OD-TEORII-DO-PRAKTYKI-Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:58:28Z"
+      },
+      {
+        "id": "file-00635",
+        "title": "SIŁA RELACJI– DLACZEGO POTRZEBUJEMY MENTORÓW Czuwaj11 2025",
+        "fileName": "SIŁA-RELACJI–-DLACZEGO-POTRZEBUJEMY-MENTORÓW_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/SIŁA-RELACJI–-DLACZEGO-POTRZEBUJEMY-MENTORÓW_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T11:59:32Z"
+      },
+      {
+        "id": "file-00636",
+        "title": "ROZWÓJ KADRY SPECJALISTYCZNEJ W ZHP NOWA KONCEPCJA MIAN KADRY Czuwaj11 2025",
+        "fileName": "ROZWÓJ-KADRY-SPECJALISTYCZNEJ-W-ZHP-NOWA-KONCEPCJA-MIAN-KADRY_Czuwaj11-2025.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/ROZWÓJ-KADRY-SPECJALISTYCZNEJ-W-ZHP-NOWA-KONCEPCJA-MIAN-KADRY_Czuwaj11-2025.pdf",
+        "modified": "2025-12-04T12:00:03Z"
+      },
+      {
+        "id": "file-00646",
+        "title": "O co chodzi z Modelem Przywództwa",
+        "fileName": "O co chodzi z Modelem Przywództwa.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/O co chodzi z Modelem Przywództwa.pdf",
+        "modified": "2026-01-26T09:27:41Z"
+      },
+      {
+        "id": "file-00647",
+        "title": "Kultura organizacyjna wspólna droga",
+        "fileName": "Kultura organizacyjna - wspólna droga.pdf",
+        "type": "pdf",
+        "path": "files/artykuly-z-czuwaj/Kultura organizacyjna - wspólna droga.pdf",
+        "modified": "2026-01-26T09:29:10Z"
+      },
+      {
+        "id": "file-00701",
+        "title": "Home",
+        "fileName": "artykuly-z-czuwaja.aspx",
+        "type": "page",
+        "path": "files/artykuly-z-czuwaj/artykuly-z-czuwaja.aspx",
+        "modified": "2025-12-04T12:40:39Z"
+      }
+    ],
+    "pagesCount": 0,
+    "filesCount": 76,
+    "displayImagesCount": 6
+  },
+  {
+    "id": "pozostale-materialy",
+    "title": "Pozostałe Materiały",
+    "shortTitle": "Pozostałe",
+    "description": "Materiały, których nie udało się jednoznacznie przypisać do głównych modułów.",
+    "icon": "folder",
+    "color": "#4D4D4D",
+    "pages": [],
+    "files": [
+      {
+        "id": "file-00011",
+        "title": "Plan wdrażania hufiec",
+        "fileName": "Plan wdrażania - hufiec.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Plan wdrażania - hufiec.pdf",
+        "modified": "2025-03-06T21:19:46Z"
+      },
+      {
+        "id": "file-00012",
+        "title": "Plan wdrażania chorągiew",
+        "fileName": "Plan wdrażania - chorągiew.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Plan wdrażania - chorągiew.pdf",
+        "modified": "2025-03-06T21:19:46Z"
+      },
+      {
+        "id": "file-00013",
+        "title": "Plan wdrażania Główna Kwatera",
+        "fileName": "Plan wdrażania - Główna Kwatera.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Plan wdrażania - Główna Kwatera.pdf",
+        "modified": "2025-03-06T21:19:46Z"
+      },
+      {
+        "id": "file-00018",
+        "title": "Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy",
+        "fileName": "Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Czy jesteśmy gotowi na przyjęcie nowych wolontariuszy.docx",
+        "modified": "2025-08-26T19:08:41Z"
+      },
+      {
+        "id": "file-00019",
+        "title": "O czym warto pamiętać, rekrutując nowych wolontariuszy ULOTKA",
+        "fileName": "O czym warto pamiętać, rekrutując nowych wolontariuszy_ULOTKA.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/O czym warto pamiętać, rekrutując nowych wolontariuszy_ULOTKA.pdf",
+        "modified": "2025-08-26T19:11:51Z"
+      },
+      {
+        "id": "file-00021",
+        "title": "Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt",
+        "fileName": "Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Rozmowa z nowym wolontariuszem o zaangażowaniu w projekt.docx",
+        "modified": "2025-08-27T04:39:22Z"
+      },
+      {
+        "id": "file-00022",
+        "title": "Rozmowa z nowym wolontariuszem o dołączeniu do ZHP",
+        "fileName": "Rozmowa z nowym wolontariuszem o dołączeniu do ZHP.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Rozmowa z nowym wolontariuszem o dołączeniu do ZHP.docx",
+        "modified": "2025-09-29T13:13:21Z"
+      },
+      {
+        "id": "file-00023",
+        "title": "Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP",
+        "fileName": "Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Rozmowa z byłym harcerzem lub instruktorem o powrocie do ZHP.docx",
+        "modified": "2025-09-29T13:13:38Z"
+      },
+      {
+        "id": "file-00024",
+        "title": "ulotka edytowalne pole na kod QR i stopka",
+        "fileName": "ulotka_edytowalne pole na kod QR i stopka.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/ulotka_edytowalne pole na kod QR i stopka.docx",
+        "modified": "2025-08-27T04:47:56Z"
+      },
+      {
+        "id": "file-00025",
+        "title": "ulotka wolontariusze kod QR do strony ZHP + edytowalna stopka",
+        "fileName": "ulotka wolontariusze_kod QR do strony ZHP + edytowalna stopka.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/ulotka wolontariusze_kod QR do strony ZHP + edytowalna stopka.docx",
+        "modified": "2025-08-27T05:05:06Z"
+      },
+      {
+        "id": "file-00026",
+        "title": "ulotka link do strony www ZHP + edytowalna stopka",
+        "fileName": "ulotka_link do strony www ZHP + edytowalna stopka.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/ulotka_link do strony www ZHP + edytowalna stopka.docx",
+        "modified": "2025-08-27T05:06:15Z"
+      },
+      {
+        "id": "file-00027",
+        "title": "Skrócony zapis Polityki SFH",
+        "fileName": "Skrócony-zapis-Polityki-SFH.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Skrócony-zapis-Polityki-SFH.pdf",
+        "modified": "2025-08-27T05:09:12Z"
+      },
+      {
+        "id": "file-00028",
+        "title": "Program próby harcerza harcerki dla dorosłych",
+        "fileName": "Program próby harcerza-harcerki dla dorosłych.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Program próby harcerza-harcerki dla dorosłych.docx",
+        "modified": "2025-08-27T05:21:03Z"
+      },
+      {
+        "id": "file-00031",
+        "title": "Narzędziownik dla kadry ZHP online",
+        "fileName": "Narzędziownik dla kadry ZHP_online.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Narzędziownik dla kadry ZHP_online.pdf",
+        "modified": "2025-09-08T13:56:35Z"
+      },
+      {
+        "id": "file-00032",
+        "title": "Narzędownik dla kadry ZHP informacja zwrotna online",
+        "fileName": "Narzędownik dla kadry ZHP_informacja zwrotna_online.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Narzędownik dla kadry ZHP_informacja zwrotna_online.pdf",
+        "modified": "2025-12-04T14:26:05Z"
+      },
+      {
+        "id": "file-00033",
+        "title": "Skład A4 Program Rozwoju Kultury Organizacynej w ZHP ONLINE",
+        "fileName": "Skład A4_Program Rozwoju Kultury Organizacynej w ZHP-ONLINE.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Skład A4_Program Rozwoju Kultury Organizacynej w ZHP-ONLINE.pdf",
+        "modified": "2026-04-10T22:24:09Z"
+      },
+      {
+        "id": "file-00539",
+        "title": "DRUK DOMOWY karty i instrukcja 1",
+        "fileName": "DRUK-DOMOWY_karty-i-instrukcja-1.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/DRUK-DOMOWY_karty-i-instrukcja-1.pdf",
+        "modified": "2025-11-05T15:24:52Z"
+      },
+      {
+        "id": "file-00643",
+        "title": "Diagnoza hufca zestawy pytań",
+        "fileName": "Diagnoza-hufca---zestawy-pytań.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Diagnoza-hufca---zestawy-pytań.docx",
+        "modified": "2026-03-11T12:57:39Z"
+      },
+      {
+        "id": "file-00644",
+        "title": "Arkusz diagnozy hufca narzędzie",
+        "fileName": "Arkusz-diagnozy-hufca---narzędzie.xlsx",
+        "type": "spreadsheet",
+        "path": "files/pozostale-materialy/Arkusz-diagnozy-hufca---narzędzie.xlsx",
+        "modified": "2026-03-11T12:58:29Z"
+      },
+      {
+        "id": "file-00651",
+        "title": "Arkusz diagnozy hufca narzędzie 1",
+        "fileName": "Arkusz-diagnozy-hufca---narzędzie--1-.xlsx",
+        "type": "spreadsheet",
+        "path": "files/pozostale-materialy/Arkusz-diagnozy-hufca---narzędzie--1-.xlsx",
+        "modified": "2026-03-12T11:42:50Z"
+      },
+      {
+        "id": "file-00652",
+        "title": "Diagnoza hufca zestawy pytań 1",
+        "fileName": "Diagnoza-hufca---zestawy-pytań--1-.docx",
+        "type": "word",
+        "path": "files/pozostale-materialy/Diagnoza-hufca---zestawy-pytań--1-.docx",
+        "modified": "2026-03-12T11:43:28Z"
+      },
+      {
+        "id": "file-00653",
+        "title": "Diagnoza hufca instrukcja do druku",
+        "fileName": "Diagnoza-hufca---instrukcja-do-druku.pdf",
+        "type": "pdf",
+        "path": "files/pozostale-materialy/Diagnoza-hufca---instrukcja-do-druku.pdf",
+        "modified": "2026-03-12T11:43:58Z"
+      },
+      {
+        "id": "file-00680",
+        "title": "Home",
+        "fileName": "Home.aspx",
+        "type": "page",
+        "path": "files/pozostale-materialy/Home.aspx",
+        "modified": "2026-06-02T19:35:03Z"
+      },
+      {
+        "id": "file-00686",
+        "title": "Home",
+        "fileName": "Wydzielona strona - Mapa myśli.aspx",
+        "type": "page",
+        "path": "files/pozostale-materialy/Wydzielona strona - Mapa myśli.aspx",
+        "modified": "2025-10-03T07:29:45Z"
+      },
+      {
+        "id": "file-00703",
+        "title": "Home",
+        "fileName": "mapa-strony.aspx",
+        "type": "page",
+        "path": "files/pozostale-materialy/mapa-strony.aspx",
+        "modified": "2026-05-20T07:21:58Z"
+      },
+      {
+        "id": "file-00738",
+        "title": "Home",
+        "fileName": "magnolia-kultury.aspx",
+        "type": "page",
+        "path": "files/pozostale-materialy/magnolia-kultury.aspx",
+        "modified": "2026-01-06T12:47:52Z"
+      },
+      {
+        "id": "file-00739",
+        "title": "Home",
+        "fileName": "arkusz-diagnozy-hufca.aspx",
+        "type": "page",
+        "path": "files/pozostale-materialy/arkusz-diagnozy-hufca.aspx",
+        "modified": "2026-03-12T11:47:35Z"
+      }
+    ],
+    "pagesCount": 0,
+    "filesCount": 27,
+    "displayImagesCount": 140
+  }
+]

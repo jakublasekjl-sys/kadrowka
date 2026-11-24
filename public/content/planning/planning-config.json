@@ -1,0 +1,53 @@
+{
+  "title": "Planowanie",
+  "profiles": [
+    {
+      "id": "gromada",
+      "title": "Gromada"
+    },
+    {
+      "id": "druzyna",
+      "title": "Drużyna"
+    },
+    {
+      "id": "zespol_kadry",
+      "title": "Zespół kadry"
+    },
+    {
+      "id": "haliz",
+      "title": "HALiZ"
+    }
+  ],
+  "visibilityRules": {
+    "obietnica_zucha": [
+      "gromada"
+    ],
+    "przyrzeczenie_harcerskie": [
+      "druzyna"
+    ],
+    "gwiazdki_zuchowe": [
+      "gromada"
+    ],
+    "stopnie_harcerskie": [
+      "druzyna"
+    ],
+    "szostki": [
+      "gromada"
+    ],
+    "zastepy_patrole": [
+      "druzyna"
+    ],
+    "kolonia": [
+      "gromada"
+    ],
+    "oboz": [
+      "druzyna"
+    ],
+    "krag_rady": [
+      "gromada"
+    ],
+    "rada_druzyny": [
+      "druzyna"
+    ]
+  }
+}

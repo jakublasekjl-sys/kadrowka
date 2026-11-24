@@ -1,0 +1,73 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": [
+      "/assets/*",
+      "/content/*",
+      "/icons/*",
+      "/src/*",
+      "/scripts/*",
+      "/test/*",
+      "/docs/*",
+      "/android/*",
+      "/node_modules/*",
+      "/.*",
+      "/*.png",
+      "/*.json",
+      "/*.js",
+      "/*.css",
+      "/*.webmanifest"
+    ]
+  },
+  "routes": [
+    { "route": "/.htaccess", "statusCode": 404 },
+    { "route": "/.env", "statusCode": 404 },
+    { "route": "/.git/*", "statusCode": 404 },
+    { "route": "/src/*", "statusCode": 404 },
+    { "route": "/scripts/*", "statusCode": 404 },
+    { "route": "/test/*", "statusCode": 404 },
+    { "route": "/docs/*", "statusCode": 404 },
+    { "route": "/android/*", "statusCode": 404 },
+    { "route": "/node_modules/*", "statusCode": 404 },
+    {
+      "route": "/admin*",
+      "allowedRoles": ["administrator"],
+      "headers": {
+        "Cache-Control": "no-store"
+      }
+    },
+    {
+      "route": "/runtime-config.json",
+      "headers": {
+        "Cache-Control": "no-store, max-age=0"
+      }
+    },
+    {
+      "route": "/content/*.json",
+      "headers": {
+        "Cache-Control": "no-cache, max-age=0"
+      }
+    }
+  ],
+  "responseOverrides": {
+    "401": {
+      "redirect": "/.auth/login/aad",
+      "statusCode": 302
+    }
+  },
+  "globalHeaders": {
+    "Content-Security-Policy": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'self' https://login.microsoftonline.com; font-src 'self' data:; worker-src 'self' blob:; manifest-src 'self'; media-src 'self' blob:; frame-src 'none'; object-src 'none'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+    "Cross-Origin-Resource-Policy": "same-origin",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=()",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Strict-Transport-Security": "max-age=31536000",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "X-XSS-Protection": "0"
+  },
+  "mimeTypes": {
+    ".json": "application/json",
+    ".webmanifest": "application/manifest+json"
+  }
+}

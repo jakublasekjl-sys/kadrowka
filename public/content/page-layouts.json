@@ -1,0 +1,429 @@
+[
+  {
+    "pageId": "home",
+    "title": "Strona główna",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "model-przywodztwa",
+    "title": "Model Przywodztwa",
+    "moduleId": "model-przywodztwa",
+    "layout": "leadershipModel",
+    "confidence": 0.93
+  },
+  {
+    "pageId": "wdrazanie-systemu-pracy-z-kadra-w-zhp",
+    "title": "Wdrażanie Systemu Pracy Z Kadrą W ZHP",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "plakaty-o-spzk",
+    "title": "Plakaty O SPzK",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "wdrazanie-spzk-w-zhp-2",
+    "title": "Wdrazanie SPzK W ZHP 2",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "toolCards",
+    "confidence": 0.86
+  },
+  {
+    "pageId": "wydzielona-strona-plakaty-o-spzk",
+    "title": "Wydzielona Strona Plakaty O SPzK",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "wydzielona-strona-mapa-mysli",
+    "title": "Wydzielona Strona Mapa Myśli",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "wydzielona-strona-ssi",
+    "title": "Wydzielona Strona SSI",
+    "moduleId": "system-stopni-instruktorskich-w-zhp",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "proces-pracy-z-kadra",
+    "title": "Proces Pracy Z Kadra",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-1-pozyskiwanie",
+    "title": "Proces Pracy Z Kadra 1 Pozyskiwanie",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole",
+    "title": "Praca Z Kadra W Zespole",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "ewaluacja",
+    "title": "Ewaluacja",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "toolCards",
+    "confidence": 0.86
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-1-pozyskiwanie-z-zewnatrz",
+    "title": "Proces Pracy Z Kadra 1 Pozyskiwanie Z Zewnatrz",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-1-pozyskiwanie-z-wewnatrz",
+    "title": "Proces Pracy Z Kadra 1 Pozyskiwanie Z Wewnatrz",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-do-pelnienia-roli",
+    "title": "Proces Pracy Z Kadra 1 Pozyskiwanie Wewnatrz Do Pelnienia Roli",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-funkcja-do-zespolu",
+    "title": "Proces Pracy Z Kadra 1 Pozyskiwanie Wewnatrz Funkcja Do Zespolu",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-nowa-funkcja",
+    "title": "Proces Pracy Z Kadra 1 Pozyskiwanie Wewnatrz Nowa Funkcja",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-1-pozyskiwanie-wewnatrz-nastepca",
+    "title": "Proces Pracy Z Kadra 1 Pozyskiwanie Wewnatrz Nastepca",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie",
+    "title": "Proces Pracy Z Kadra 2 Rozwoj Przez Dzialanie",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-3-podsumowanie-pracy",
+    "title": "Proces Pracy Z Kadra 3 Podsumowanie Pracy",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "system-ksztalcenia-w-zhp",
+    "title": "System Ksztalcenia W ZHP",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "artykuly-z-czuwaja",
+    "title": "Artykuly Z Czuwaja",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-4-motywowanie",
+    "title": "Proces Pracy Z Kadra 4 Motywowanie",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "mapa-strony",
+    "title": "Mapa Strony",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "toolCards",
+    "confidence": 0.86
+  },
+  {
+    "pageId": "model-przywodztwa-broszura",
+    "title": "Model Przywodztwa Broszura",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "model-przywodztwa-ulotka",
+    "title": "Model Przywodztwa Ulotka",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "model-przywodztwa-skrot-o-postawach",
+    "title": "Model Przywodztwa Skrot O Postawach",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "model-przywodztwa-dziennik-refleksji",
+    "title": "Model Przywodztwa Dziennik Refleksji",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "toolCards",
+    "confidence": 0.86
+  },
+  {
+    "pageId": "model-przywodztwa-dziennik-nawykow",
+    "title": "Model Przywodztwa Dziennik Nawykow",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "toolCards",
+    "confidence": 0.86
+  },
+  {
+    "pageId": "model-przywodztwa-poznajmy-sie-przez-postawy",
+    "title": "Model Przywodztwa Poznajmy Sie Przez Postawy",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "toolCards",
+    "confidence": 0.86
+  },
+  {
+    "pageId": "model-przywodztwa-pajeczynka",
+    "title": "Model Przywodztwa Pajeczynka",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "toolCards",
+    "confidence": 0.86
+  },
+  {
+    "pageId": "model-przywodztwa-narzedzie-ksztalceniowe",
+    "title": "Model Przywodztwa Narzedzie Ksztalceniowe",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "toolCards",
+    "confidence": 0.86
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-opis-funkcji",
+    "title": "Proces Pracy Z Kadra 2 Rozwoj Przez Dzialanie Opis Funkcji",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-inf-zwrotna",
+    "title": "Proces Pracy Z Kadra 2 Rozwoj Przez Dzialanie Inf Zwrotna",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-wsp-mentor",
+    "title": "Proces Pracy Z Kadra 2 Rozwoj Przez Dzialanie Wsp Mentor",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-ksiazki-media",
+    "title": "Proces Pracy Z Kadra 2 Rozwoj Przez Dzialanie Ksiazki Media",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-3-podsumowanie-pracy-rozmowa-inf-zwrotna",
+    "title": "Proces Pracy Z Kadra 3 Podsumowanie Pracy Rozmowa Inf Zwrotna",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-3-podsumowanie-pracy-samoocena-refl",
+    "title": "Proces Pracy Z Kadra 3 Podsumowanie Pracy Samoocena Refl",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-3-podsumowanie-pracy-wielostronna-inf-zwr",
+    "title": "Proces Pracy Z Kadra 3 Podsumowanie Pracy Wielostronna Inf Zwr",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-3-podsumowanie-pracy-analiza-realizowanych-dzialan",
+    "title": "Proces Pracy Z Kadra 3 Podsumowanie Pracy Analiza Realizowanych Dzialan",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-3-podsumowanie-pracy-podsumowanie-pracy",
+    "title": "Proces Pracy Z Kadra 3 Podsumowanie Pracy Podsumowanie Pracy",
+    "moduleId": "wdrazanie-spzk",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-3-podsumowanie-pracy-wyznaczanie-dalszego-rozwoju",
+    "title": "Proces Pracy Z Kadra 3 Podsumowanie Pracy Wyznaczanie Dalszego Rozwoju",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-3-podsumowanie-pracy-docenianie-podziekowanie",
+    "title": "Proces Pracy Z Kadra 3 Podsumowanie Pracy Docenianie Podziekowanie",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-misjaiwartosci",
+    "title": "Praca Z Kadra W Zespole Misjaiwartosci",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-wyznaczaniecelow",
+    "title": "Praca Z Kadra W Zespole Wyznaczaniecelow",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-rozwojosobisty",
+    "title": "Praca Z Kadra W Zespole Rozwojosobisty",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-spotkania",
+    "title": "Praca Z Kadra W Zespole Spotkania",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-komunikacja",
+    "title": "Praca Z Kadra W Zespole Komunikacja",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-transparentnosc",
+    "title": "Praca Z Kadra W Zespole Transparentnosc",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-dzieleniesieodpowiedzialnoscia",
+    "title": "Praca Z Kadra W Zespole Dzieleniesieodpowiedzialnoscia",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-podejmowaniedecyzji",
+    "title": "Praca Z Kadra W Zespole Podejmowaniedecyzji",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-pracazkonfliktem",
+    "title": "Praca Z Kadra W Zespole Pracazkonfliktem",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-wspieraniewdzialaniu",
+    "title": "Praca Z Kadra W Zespole Wspieraniewdzialaniu",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-wdziecznoscidocenianie",
+    "title": "Praca Z Kadra W Zespole Wdziecznoscidocenianie",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-podsumowanie",
+    "title": "Praca Z Kadra W Zespole Podsumowanie",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "linkHub",
+    "confidence": 0.82
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-prawoiprzyrzeczenie",
+    "title": "Proces Pracy Z Kadra 2 Rozwoj Przez Dzialanie Prawoiprzyrzeczenie",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-kodeksinstruktorski-zobowiazanieinstruktorskie",
+    "title": "Proces Pracy Z Kadra 2 Rozwoj Przez Dzialanie Kodeksinstruktorski Zobowiazanieinstruktorskie",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "proces-pracy-z-kadra-2-rozwoj-przez-dzialanie-mianakadry",
+    "title": "Proces Pracy Z Kadra 2 Rozwoj Przez Dzialanie Mianakadry",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "magnolia-kultury",
+    "title": "Magnolia Kultury",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "toolCards",
+    "confidence": 0.86
+  },
+  {
+    "pageId": "arkusz-diagnozy-hufca",
+    "title": "Arkusz Diagnozy Hufca",
+    "moduleId": "proces-pracy-z-kadra",
+    "layout": "processStep",
+    "confidence": 0.91
+  },
+  {
+    "pageId": "praca-z-kadra-w-zespole-narzedzie-mapa-kultury-organizacji",
+    "title": "Praca Z Kadra W Zespole Narzedzie Mapa Kultury Organizacji",
+    "moduleId": "praca-z-kadra-w-zespole",
+    "layout": "toolCards",
+    "confidence": 0.86
+  }
+]

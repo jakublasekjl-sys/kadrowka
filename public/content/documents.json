@@ -1,0 +1,50 @@
+[
+  {
+    "id": "dokument-system-pracy-z-kadra",
+    "title": "Dokument \"System pracy z kadrą w ZHP\"",
+    "description": "Główny dokument Systemu Pracy z Kadrą w ZHP.",
+    "kind": "file",
+    "targetId": "file-00001",
+    "path": "files/wdrazanie-spzk/System pracy z kadrą_online.pdf",
+    "sourceUrl": "",
+    "type": "pdf",
+    "matched": true,
+    "score": 26
+  },
+  {
+    "id": "broszura-system-pracy-z-kadra",
+    "title": "Broszura \"System pracy z kadrą w ZHP\"",
+    "description": "Broszura opisująca System Pracy z Kadrą w ZHP.",
+    "kind": "file",
+    "targetId": "file-00030",
+    "path": "files/wdrazanie-spzk/System pracy z kadrą_online-NEW.pdf",
+    "sourceUrl": "",
+    "type": "pdf",
+    "matched": true,
+    "score": 36
+  },
+  {
+    "id": "wdrazanie-systemu-pracy-z-kadra",
+    "title": "Wdrażanie \"Systemu pracy z kadrą w ZHP\"",
+    "description": "Materiały dotyczące wdrażania Systemu Pracy z Kadrą w ZHP.",
+    "kind": "file",
+    "targetId": "file-00002",
+    "path": "files/wdrazanie-spzk/plakakty SPzK_2.pdf",
+    "sourceUrl": "",
+    "type": "pdf",
+    "matched": true,
+    "score": 38
+  },
+  {
+    "id": "mapa-strony-material",
+    "title": "Mapa strony / mapa myśli SPzK",
+    "description": "Materiał użytkowy z mapą strony lub mapą myśli, jeśli występuje jako dokument.",
+    "kind": "file",
+    "targetId": "file-00014",
+    "path": "files/wdrazanie-spzk/mapa mysli SPzK.pdf",
+    "sourceUrl": "",
+    "type": "pdf",
+    "matched": true,
+    "score": 37
+  }
+]

@@ -1,0 +1,1785 @@
+{
+  "generatedAt": "2026-07-21T16:38:47.571Z",
+  "source": "public/content/pages.json",
+  "pageCount": 12,
+  "paragraphGroupCount": 28,
+  "listItemGroupCount": 57,
+  "groups": [
+    {
+      "pageId": "ssi-tryb-zdobywania-stopni-instruktorskich",
+      "pageTitle": "Tryb zdobywania stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+      "kind": "paragraph",
+      "text": "Zgodnie z pkt 9 „Regulaminu spraw członkowskich ZHP” „Każdy członek ZHP ma przydział służbowy do jednej jednostki ZHP”. Punkty 10 i 11 tego regulaminu precyzują, że:",
+      "occurrences": [
+        {
+          "block": 2
+        },
+        {
+          "block": 24
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-tryb-zdobywania-stopni-instruktorskich",
+      "pageTitle": "Tryb zdobywania stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+      "kind": "paragraph",
+      "text": "Z powyższego jasno wynika, która KSI jest właściwa dla każdego członka organizacji. Nie ma w tym względzie żadnego pola do interpretacji: należy wziąć pod uwagę, do jakiej jednostki dana osoba ma przydział służbowy, a następnie sprawdzić, czy dana KSI ma uprawnienia do prowadzenia określonych prób.",
+      "occurrences": [
+        {
+          "block": 4
+        },
+        {
+          "block": 26
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-tryb-zdobywania-stopni-instruktorskich",
+      "pageTitle": "Tryb zdobywania stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+      "kind": "paragraph",
+      "text": "Złożenie wniosku do komendanta przez KSI powinno się odbyć w sposób zwyczajowo przyjęty w danej jednostce, najlepiej jednak bez zbędnej biurokracji (np. e-mailem).",
+      "occurrences": [
+        {
+          "block": 45
+        },
+        {
+          "block": 67
+        },
+        {
+          "block": 72
+        },
+        {
+          "block": 80
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-tryb-zdobywania-stopni-instruktorskich",
+      "pageTitle": "Tryb zdobywania stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+      "kind": "paragraph",
+      "text": "Wzór rozkazu komendanta hufca jest załącznikiem do Instrukcji tworzenia i działania hufca.",
+      "occurrences": [
+        {
+          "block": 76
+        },
+        {
+          "block": 83
+        },
+        {
+          "block": 90
+        },
+        {
+          "block": 119
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-tryb-zdobywania-stopni-instruktorskich",
+      "pageTitle": "Tryb zdobywania stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+      "kind": "paragraph",
+      "text": "Wzór rozkazu komendanta chorągwi jest załącznikiem do Instrukcji tworzenia i działania chorągwi.",
+      "occurrences": [
+        {
+          "block": 77
+        },
+        {
+          "block": 84
+        },
+        {
+          "block": 91
+        },
+        {
+          "block": 120
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "paragraph",
+      "text": "Jest to jednoznaczny przepis – nie ma od niego żadnych odstępstw. Niezastosowanie się do niego może powodować unieważnienie decyzji podejmowanych przez komisję, co będzie miało negatywnie skutki nie dla samej komisji, ale przede wszystkim dla zdobywających stopień. Podważanie decyzji związanych ze stopniami może zaś mieć fatalne skutki związane z wykorzystywaniem uprawnień uzyskiwanych wraz ze zdobyciem stopnia – chodzi zarówno o uprawnienia wewnątrzorganizacyjne (np. dotyczące pełnienia określonych funkcji czy ról) czy zewnętrznych (np. phm. – kierownik wypoczynku).",
+      "occurrences": [
+        {
+          "block": 11
+        },
+        {
+          "block": 62
+        },
+        {
+          "block": 148
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "paragraph",
+      "text": "Zgodnie z pkt 9 „Regulaminu spraw członkowskich ZHP” „Każdy członek ZHP ma przydział służbowy do jednej jednostki ZHP”. Punkty 10 i 11 tego regulaminu precyzują, że:",
+      "occurrences": [
+        {
+          "block": 23
+        },
+        {
+          "block": 69
+        },
+        {
+          "block": 102
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "paragraph",
+      "text": "Z powyższego jasno wynika, która KSI jest właściwa dla każdego członka organizacji. Nie ma w tym względzie żadnego pola do interpretacji: należy wziąć pod uwagę, do jakiej jednostki dana osoba ma przydział służbowy, a następnie sprawdzić, czy dana KSI ma uprawnienia do prowadzenia określonych prób.",
+      "occurrences": [
+        {
+          "block": 25
+        },
+        {
+          "block": 71
+        },
+        {
+          "block": 104
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "paragraph",
+      "text": "Określony termin jest wskazówką dla komisji, które starają się o ponowne nadanie uprawnień. Wydaje się nie być obowiązkowy, jednak warto go traktować jako wiążący, aby mieć pewność, że proces przedłużania uprawnień (który wymaga analizy dokumentów, uzyskiwania dodatkowych wyjaśnień, a następnie przekazania wniosku do rozkazu komendanta chorągwi) zakończy się w takim terminie, który nie spowoduje przerwy w uprawnieniach.",
+      "occurrences": [
+        {
+          "block": 37
+        },
+        {
+          "block": 77
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "paragraph",
+      "text": "Mogą się oczywiście zdarzyć sytuacje losowe, nieszczęśliwie zbiegi terminów, które spowodują opóźnienia – w takiej sytuacji naturalnym rozwiązaniem jest porozumienie się z KSI chorągwi i ustalenie realnego terminu złożenia wniosku.",
+      "occurrences": [
+        {
+          "block": 38
+        },
+        {
+          "block": 78
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "paragraph",
+      "text": "Decyzja powinna być podjęta po szerszej analizie, uwzględniającej względy merytoryczne (jakość prób prowadzonych w danych KSI), praktyczne (np. odległość miejsca zbiórek wybranej komisji od miejscowości, w której mieszka większość kadry hufca) oraz oczywiście wolę KSI innego hufca czy innej międzyhufcowej KSI do podjęcia się prowadzenia prób z innego środowiska.",
+      "occurrences": [
+        {
+          "block": 42
+        },
+        {
+          "block": 82
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "paragraph",
+      "text": "Decyzja o przekazaniu prób powinna być podjęta po szerszej analizie, uwzględniającej względy praktyczne (np. odległość miejsca zbiórek wybranej komisji od miejscowości, w której mieszka większość kadry hufca) oraz oczywiście wolę KSI innego hufca czy innej międzyhufcowej KSI do podjęcia się prowadzenia prób z innego środowiska.",
+      "occurrences": [
+        {
+          "block": 47
+        },
+        {
+          "block": 88
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "paragraph",
+      "text": "Uwaga: przy okazji tego punktu należy zwrócić uwagę na nazewnictwo stosowane w Systemie Stopni Instruktorskich – mówimy (po harcersku!) o zbiórce KSI, a nie o jej spotkaniu czy zebraniu.",
+      "occurrences": [
+        {
+          "block": 166
+        },
+        {
+          "block": 216
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "paragraph",
+      "text": "To nowy przepis, obowiązujący od 1.09.2025 r., którego celem jest ograniczenie biurokracji – uproszczenie procedur związanych ze zdobywaniem stopni i pracą KSI dzięki wykorzystaniu współczesnych możliwości cyfrowych.",
+      "occurrences": [
+        {
+          "block": 229
+        },
+        {
+          "block": 238
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "paragraph",
+      "text": "Zgodnie z pkt 13 SSI program próby „jest drogą dojścia do poziomu wynikającego z idei i wymagań stopnia”. Potwierdzeniem i wzmocnieniem tak określonej definicji programu próby jest wymaganie na otwarcie w brzmieniu „Przedstawienie KSI programu swojej próby zapewniającego osiągnięcie poziomu opisanego w idei stopnia oraz realizację wymagań”.",
+      "occurrences": [
+        {
+          "block": 3
+        },
+        {
+          "block": 59
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "paragraph",
+      "text": "Przepis mówi o tym, że certyfikat „Safe from Harm” ma być aktualny, ponieważ nie jest on bezterminowy – wymaga przedłużania co 3 lata ( więcej o Safe from Harm ).",
+      "occurrences": [
+        {
+          "block": 20
+        },
+        {
+          "block": 86
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "paragraph",
+      "text": "Weryfikacji faktu posiadania aktualnego certyfikatu SfH komisja stopni instruktorskich może dokonać samodzielnie w Tipi – zgodnie z zaleceniem zawartym w pkt 78 SSI. Aby mieć dostęp do tych danych, każdy członek komisji stopni instruktorskich może wystąpić o nadanie uprawnień w Tipi – roli „członek KSI”. Można to zrobić na tej stronie.",
+      "occurrences": [
+        {
+          "block": 21
+        },
+        {
+          "block": 87
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "paragraph",
+      "text": "Układając zadania związane z tym wymaganiem, warto zwrócić uwagę na kilka elementów:",
+      "occurrences": [
+        {
+          "block": 26
+        },
+        {
+          "block": 32
+        },
+        {
+          "block": 36
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "paragraph",
+      "text": "Zgodnie z pkt 13 SSI program próby „jest drogą dojścia do poziomu wynikającego z idei i wymagań stopnia”. Potwierdzeniem i wzmocnieniem tak określonej definicji programu próby jest wymaganie na otwarcie w brzmieniu „Przedstawienie KSI programu swojej próby zapewniającego osiągnięcie poziomu opisanego w idei stopnia oraz realizację wymagań”.",
+      "occurrences": [
+        {
+          "block": 3
+        },
+        {
+          "block": 130
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "paragraph",
+      "text": "Przepis mówi o tym, że certyfikat „Safe from Harm” ma być aktualny, ponieważ nie jest on bezterminowy – wymaga przedłużania co 3 lata ( więcej o Safe from Harm ).",
+      "occurrences": [
+        {
+          "block": 41
+        },
+        {
+          "block": 152
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "paragraph",
+      "text": "Weryfikacji faktu posiadania aktualnego certyfikatu SfH komisja stopni instruktorskich może dokonać samodzielnie w Tipi – zgodnie z zaleceniem zawartym w pkt 78 SSI. Aby mieć dostęp do tych danych, każdy członek komisji może wystąpić o nadanie uprawnień w Tipi o nazwie „członek KSI”. Zobacz tutaj (strona dostępna po zalogowaniu).",
+      "occurrences": [
+        {
+          "block": 42
+        },
+        {
+          "block": 153
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "paragraph",
+      "text": "Układając zadania związane z tym wymaganiem, warto zwrócić uwagę na kilka elementów:",
+      "occurrences": [
+        {
+          "block": 47
+        },
+        {
+          "block": 57
+        },
+        {
+          "block": 99
+        },
+        {
+          "block": 103
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "paragraph",
+      "text": "Układając zadania związane z tym wymaganiem, warto zwrócić uwagę na kilka kwestii:",
+      "occurrences": [
+        {
+          "block": 53
+        },
+        {
+          "block": 107
+        },
+        {
+          "block": 118
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "paragraph",
+      "text": "Ze względu na pokrywającą się treść (choć w nieco różnych kontekstach) jest możliwe skonstruowanie w programie próbie takiego zadania metodycznego, które pozwoli połączyć realizację wymagań 7 i 8. Naturalne wydaje się także połączenie z wymaganiem 6. Połączenia takie wymagają jednak szczególnej uwagi i wnikliwości ze strony KSI – podczas zatwierdzania programu próby (na otwarciu) oraz podczas analizy raportu (na zamknięciu).",
+      "occurrences": [
+        {
+          "block": 80
+        },
+        {
+          "block": 85
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "paragraph",
+      "text": "Zgodnie z pkt 13 SSI program próby „jest drogą dojścia do poziomu wynikającego z idei i wymagań stopnia”. Potwierdzeniem i wzmocnieniem tak określonej definicji programu próby jest wymaganie na otwarcie w brzmieniu „Przedstawienie KSI programu swojej próby zapewniającego osiągnięcie poziomu opisanego w idei stopnia oraz realizację wymagań”.",
+      "occurrences": [
+        {
+          "block": 3
+        },
+        {
+          "block": 100
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "paragraph",
+      "text": "Przepis mówi o tym, że certyfikat „Safe from Harm” ma być aktualny, ponieważ nie jest on bezterminowy – wymaga przedłużania co 3 lata ( więcej o Safe from Harm ).",
+      "occurrences": [
+        {
+          "block": 30
+        },
+        {
+          "block": 140
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "paragraph",
+      "text": "Weryfikacji faktu posiadania aktualnego certyfikatu SfH komisja stopni instruktorskich może dokonać samodzielnie w Tipi – zgodnie z zaleceniem zawartym w pkt 78 SSI. Aby mieć dostęp do tych danych, każdy członek komisji stopni instruktorskich może wystąpić o nadanie uprawnień w Tipi – roli „członek KSI”. Można to zrobić na tej stronie.",
+      "occurrences": [
+        {
+          "block": 31
+        },
+        {
+          "block": 141
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "paragraph",
+      "text": "Ze względu na pokrywającą się treść (choć w różnych kontekstach) jest możliwe skonstruowanie w programie próbie takiego zadania z obszaru kształcenia, które pozwoli połączyć realizację wymagań 4 i 8. Połączenie takie wymaga jednak szczególnej uwagi i wnikliwości ze strony KSI – podczas zatwierdzania programu próby (na otwarciu) oraz podczas analizy raportu (na zamknięciu).",
+      "occurrences": [
+        {
+          "block": 57
+        },
+        {
+          "block": 87
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-tryb-zdobywania-stopni-instruktorskich",
+      "pageTitle": "Tryb zdobywania stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+      "kind": "list-item",
+      "text": "w przypadku wędrowników niepełniących funkcji instruktorskich – są to podstawowe jednostki organizacyjne ZHP; jedynie w uzasadnionych przypadkach wędrownicy pełniący funkcje w szczepach oraz związkach drużyn mogą otrzymać przydział służbowy do tych jednostek",
+      "occurrences": [
+        {
+          "block": 3,
+          "item": 1
+        },
+        {
+          "block": 25,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-tryb-zdobywania-stopni-instruktorskich",
+      "pageTitle": "Tryb zdobywania stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+      "kind": "list-item",
+      "text": "w przypadku instruktorów, seniorów, członków starszyzny harcerskiej oraz wędrowników pełniących funkcje instruktorskie – są to hufiec, chorągiew lub Główna Kwatera ZHP.",
+      "occurrences": [
+        {
+          "block": 3,
+          "item": 2
+        },
+        {
+          "block": 25,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-tryb-zdobywania-stopni-instruktorskich",
+      "pageTitle": "Tryb zdobywania stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+      "kind": "list-item",
+      "text": "sposób przekazywania komisji dokumentacji (np. e-mailem, przez formularze)",
+      "occurrences": [
+        {
+          "block": 32,
+          "item": 1
+        },
+        {
+          "block": 64,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-tryb-zdobywania-stopni-instruktorskich",
+      "pageTitle": "Tryb zdobywania stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+      "kind": "list-item",
+      "text": "czas przed zbiórką, w którym należy dostarczyć wnioski oraz załączniki",
+      "occurrences": [
+        {
+          "block": 32,
+          "item": 2
+        },
+        {
+          "block": 64,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-tryb-zdobywania-stopni-instruktorskich",
+      "pageTitle": "Tryb zdobywania stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/tryb.aspx",
+      "kind": "list-item",
+      "text": "gdzie znaleźć wzory dokumentów KSI (wzory wniosków na otwarcie/zamknięcie próby lub linki do formularzy).",
+      "occurrences": [
+        {
+          "block": 32,
+          "item": 3
+        },
+        {
+          "block": 64,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "mianowania przewodniczącego komisji",
+      "occurrences": [
+        {
+          "block": 8,
+          "item": 3
+        },
+        {
+          "block": 95,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "w przypadku wędrowników niepełniących funkcji instruktorskich – są to podstawowe jednostki organizacyjne ZHP; jedynie w uzasadnionych przypadkach wędrownicy pełniący funkcje w szczepach oraz związkach drużyn mogą otrzymać przydział służbowy do tych jednostek",
+      "occurrences": [
+        {
+          "block": 24,
+          "item": 1
+        },
+        {
+          "block": 70,
+          "item": 1
+        },
+        {
+          "block": 103,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "w przypadku instruktorów, seniorów, członków starszyzny harcerskiej oraz wędrowników pełniących funkcje instruktorskie – są to hufiec, chorągiew lub Główna Kwatera ZHP.",
+      "occurrences": [
+        {
+          "block": 24,
+          "item": 2
+        },
+        {
+          "block": 103,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "Rozwiązanie to nie zakłada automatyzmu – wniosek musi być zatem odpowiednio umotywowany, a KSI chorągwi może przed podjęciem decyzji zechcieć uzyskać więcej informacji o istniejącej sytuacji (o jej szczególnym charakterze), w tym uzyskać opinię wszystkich zainteresowanych: zdobywającego stopień, opiekuna i komisji.",
+      "occurrences": [
+        {
+          "block": 29,
+          "item": 6
+        },
+        {
+          "block": 75,
+          "item": 6
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "KSI chorągwi może się nie zgodzić na poprowadzenie próby i wskazać inne rozwiązanie problemów, które legły u podstaw złożenia wniosku o przejęcie przez nią próby.",
+      "occurrences": [
+        {
+          "block": 29,
+          "item": 7
+        },
+        {
+          "block": 75,
+          "item": 7
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "pracę z opiekunami – co jest ustalane na podstawie planów przeprowadzonych form szkoleniowych i doskonalących, ich ewaluacji oraz statystyk",
+      "occurrences": [
+        {
+          "block": 34,
+          "item": 2
+        },
+        {
+          "block": 58,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "działania związane ze stymulowaniem rozwoju instruktorów – w tym współpracę z innymi zespołami instruktorskimi oraz sposób prowadzenia i monitorowania prób (patrz: pkt 31 SSI)",
+      "occurrences": [
+        {
+          "block": 34,
+          "item": 3
+        },
+        {
+          "block": 58,
+          "item": 3
+        },
+        {
+          "block": 110,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "doskonalenie członków komisji – nie chodzi tu jednak o formy przygotowania do pełnienia funkcji (pkt 62 SSI), lecz o stałe podnoszenie przez członków KSI swoich kompetencji przez udział w szkoleniach, seminariach, warsztatach itp., w szczególności takich, które pozwalają być na bieżąco w sprawach związanych z pracą z kadrą (np. zmiany w Systemie Stopni Instruktorskich czy w Systemie Pracy z Kadrą w ZHP).",
+      "occurrences": [
+        {
+          "block": 34,
+          "item": 4
+        },
+        {
+          "block": 58,
+          "item": 4
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "prowadzenie prób phm. przez KSI innego hufca (posiadającą uprawnienia)",
+      "occurrences": [
+        {
+          "block": 41,
+          "item": 1
+        },
+        {
+          "block": 81,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "prowadzenie prób phm. przez inną międzyhufcową KSI (z uprawnieniami)",
+      "occurrences": [
+        {
+          "block": 41,
+          "item": 2
+        },
+        {
+          "block": 81,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "przekazanie prób do KSI innego hufca w danej chorągwi – jako rozwiązanie czasowe (do jednego roku)",
+      "occurrences": [
+        {
+          "block": 46,
+          "item": 1
+        },
+        {
+          "block": 87,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "przekazanie prób do międzyhufcowej KSI działającej w danej chorągwi – przy czym w niektórych przypadkach może to być rozwiązanie docelowe, zapewniające długofalowo prowadzenie prób instruktorskich na wysokim poziomie",
+      "occurrences": [
+        {
+          "block": 46,
+          "item": 2
+        },
+        {
+          "block": 87,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "przekazanie prób do KSI chorągwi – jako rozwiązanie czasowe (do jednego roku).",
+      "occurrences": [
+        {
+          "block": 46,
+          "item": 3
+        },
+        {
+          "block": 87,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "sposób realizacji zadań uzgodnionych jako sposób uzupełnienia wiedzy na temat zmian w ZHP od czasu ustania członkostwa",
+      "occurrences": [
+        {
+          "block": 187,
+          "item": 1
+        },
+        {
+          "block": 194,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "nastawienie kandydata – chęć do poznania dzisiejszego Związku, do bycia na bieżąco (w skrajnym przypadku może się okazać, że nie ma potrzeby wyznaczania żadnych zadań, ponieważ kandydat zdążył już uzupełnić swą wiedzę na temat zmian w ZHP)",
+      "occurrences": [
+        {
+          "block": 187,
+          "item": 2
+        },
+        {
+          "block": 194,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "postawa kandydata – motywacje do ponownego ubiegania się o członkostwo, stopień jego zaangażowania w działanie środowiska harcerskiego, w którym funkcjonuje",
+      "occurrences": [
+        {
+          "block": 187,
+          "item": 3
+        },
+        {
+          "block": 194,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "przyczyny przerwy w służbie instruktorskiej – ważne jest określenie, czy nie były one związane z niewłaściwą postawą osoby potwierdzającej stopień",
+      "occurrences": [
+        {
+          "block": 187,
+          "item": 4
+        },
+        {
+          "block": 194,
+          "item": 4
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-komisje-stopni-instruktorskich",
+      "pageTitle": "Zasady działania komisji stopni instruktorskich",
+      "sourceUrl": "/sites/ssi/SitePages/ksi.aspx",
+      "kind": "list-item",
+      "text": "długość przerwy w służbie instruktorskiej – może się okazać, że była ona tak krótka, że nie nastąpiły w tym czasie istotne zmiany w ZHP, tak więc całą procedurę można zakończyć szybko, bez wyznaczania dodatkowych zadań.",
+      "occurrences": [
+        {
+          "block": 187,
+          "item": 5
+        },
+        {
+          "block": 194,
+          "item": 5
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Swoją postawą propaguje harcerski system wartości wynikający z Przyrzeczenia i Prawa Harcerskiego.",
+      "occurrences": [
+        {
+          "block": 25,
+          "item": 1
+        },
+        {
+          "block": 31,
+          "item": 1
+        },
+        {
+          "block": 35,
+          "item": 1
+        },
+        {
+          "block": 39,
+          "item": 1
+        },
+        {
+          "block": 47,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Jest wzorem dla harcerzy.",
+      "occurrences": [
+        {
+          "block": 25,
+          "item": 2
+        },
+        {
+          "block": 31,
+          "item": 2
+        },
+        {
+          "block": 35,
+          "item": 2
+        },
+        {
+          "block": 47,
+          "item": 2
+        },
+        {
+          "block": 54,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Prowadzi zdrowy tryb życia.",
+      "occurrences": [
+        {
+          "block": 25,
+          "item": 3
+        },
+        {
+          "block": 35,
+          "item": 3
+        },
+        {
+          "block": 47,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Poznaje siebie i motywy swojego postępowania.",
+      "occurrences": [
+        {
+          "block": 25,
+          "item": 4
+        },
+        {
+          "block": 31,
+          "item": 3
+        },
+        {
+          "block": 35,
+          "item": 4
+        },
+        {
+          "block": 39,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Rozwija swoje zdolności, pracuje nad własnymi słabościami.",
+      "occurrences": [
+        {
+          "block": 25,
+          "item": 5
+        },
+        {
+          "block": 31,
+          "item": 4
+        },
+        {
+          "block": 35,
+          "item": 5
+        },
+        {
+          "block": 39,
+          "item": 3
+        },
+        {
+          "block": 47,
+          "item": 4
+        },
+        {
+          "block": 54,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Ma świadomość wychowawczej roli służby w harcerstwie.",
+      "occurrences": [
+        {
+          "block": 25,
+          "item": 6
+        },
+        {
+          "block": 47,
+          "item": 6
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Ze względu na specyfikę tego wymagania jego realizacja wymaga dużego wsparcia ze strony opiekuna próby. Zaś ocena realizacji wymaga od KSI dużej życzliwości, otwartości i empatii.",
+      "occurrences": [
+        {
+          "block": 33,
+          "item": 5
+        },
+        {
+          "block": 37,
+          "item": 5
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Bierze aktywny udział w życiu drużyny, świadomie stosując Harcerski System Wychowawczy i wykorzystując przykład osobisty do realizacji celów wychowawczych.",
+      "occurrences": [
+        {
+          "block": 35,
+          "item": 6
+        },
+        {
+          "block": 47,
+          "item": 5
+        },
+        {
+          "block": 54,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Ma poczucie odpowiedzialności za pracę i powierzoną grupę.",
+      "occurrences": [
+        {
+          "block": 47,
+          "item": 8
+        },
+        {
+          "block": 54,
+          "item": 4
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Analiza opinii bezpośredniego przełożonego, która musi być złożona wraz z wnioskiem o zamknięcie próby (pkt 19a SSI).",
+      "occurrences": [
+        {
+          "block": 69,
+          "item": 1
+        },
+        {
+          "block": 76,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Analiza opinii opiekuna próby o zdobywającym stopień i przebiegu próby, która musi być złożona wraz z wnioskiem o zamknięcie próby (pkt 19b SSI).",
+      "occurrences": [
+        {
+          "block": 69,
+          "item": 2
+        },
+        {
+          "block": 76,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-przewodniczka-przewodnik",
+      "pageTitle": "Przewodniczka / przewodnik",
+      "sourceUrl": "/sites/ssi/SitePages/pwd.aspx",
+      "kind": "list-item",
+      "text": "Analiza ew. innych opinii wymaganych przez KSI (na podstawie pkt 18e SSI). Mogą to być np.: opinia z HAL lub HAZ albo opinia namiestnika i innych osób, które miały możliwość obserwowania zdobywającego stopień podczas prowadzenia pracy wychowawczej w gromadzie/drużynie.",
+      "occurrences": [
+        {
+          "block": 69,
+          "item": 3
+        },
+        {
+          "block": 76,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Określa kierunki swojego rozwoju i je realizuje.",
+      "occurrences": [
+        {
+          "block": 46,
+          "item": 1
+        },
+        {
+          "block": 52,
+          "item": 1
+        },
+        {
+          "block": 121,
+          "item": 1
+        },
+        {
+          "block": 125,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Pracuje nad sobą, przełamuje własne ograniczenia.",
+      "occurrences": [
+        {
+          "block": 46,
+          "item": 2
+        },
+        {
+          "block": 52,
+          "item": 2
+        },
+        {
+          "block": 87,
+          "item": 1
+        },
+        {
+          "block": 98,
+          "item": 1
+        },
+        {
+          "block": 121,
+          "item": 2
+        },
+        {
+          "block": 125,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Przykładem osobistym, w tym zdrowym trybem życia, świadomie i pozytywnie oddziałuje na otoczenie.",
+      "occurrences": [
+        {
+          "block": 46,
+          "item": 3
+        },
+        {
+          "block": 52,
+          "item": 3
+        },
+        {
+          "block": 56,
+          "item": 1
+        },
+        {
+          "block": 66,
+          "item": 1
+        },
+        {
+          "block": 71,
+          "item": 1
+        },
+        {
+          "block": 87,
+          "item": 2
+        },
+        {
+          "block": 98,
+          "item": 2
+        },
+        {
+          "block": 102,
+          "item": 1
+        },
+        {
+          "block": 106,
+          "item": 1
+        },
+        {
+          "block": 110,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Rozumie ludzi i otaczającą go rzeczywistość – reaguje na ich potrzeby.",
+      "occurrences": [
+        {
+          "block": 46,
+          "item": 4
+        },
+        {
+          "block": 52,
+          "item": 4
+        },
+        {
+          "block": 56,
+          "item": 2
+        },
+        {
+          "block": 60,
+          "item": 1
+        },
+        {
+          "block": 66,
+          "item": 2
+        },
+        {
+          "block": 87,
+          "item": 3
+        },
+        {
+          "block": 102,
+          "item": 2
+        },
+        {
+          "block": 117,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Potrafi zauważyć sytuacje problemowe i je rozwiązywać. Umie spojrzeć na nie szerzej, niż tylko z perspektywy własnego środowiska.",
+      "occurrences": [
+        {
+          "block": 46,
+          "item": 5
+        },
+        {
+          "block": 56,
+          "item": 4
+        },
+        {
+          "block": 60,
+          "item": 3
+        },
+        {
+          "block": 71,
+          "item": 2
+        },
+        {
+          "block": 117,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Systematycznie stosuje służbę jako narzędzie harcerskiej pracy wychowawczej.",
+      "occurrences": [
+        {
+          "block": 56,
+          "item": 3
+        },
+        {
+          "block": 60,
+          "item": 2
+        },
+        {
+          "block": 77,
+          "item": 1
+        },
+        {
+          "block": 82,
+          "item": 1
+        },
+        {
+          "block": 106,
+          "item": 2
+        },
+        {
+          "block": 110,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Świadomie i konsekwentnie stosuje Harcerski System Wychowawczy.",
+      "occurrences": [
+        {
+          "block": 60,
+          "item": 4
+        },
+        {
+          "block": 71,
+          "item": 4
+        },
+        {
+          "block": 77,
+          "item": 4
+        },
+        {
+          "block": 82,
+          "item": 4
+        },
+        {
+          "block": 98,
+          "item": 5
+        },
+        {
+          "block": 106,
+          "item": 5
+        },
+        {
+          "block": 110,
+          "item": 5
+        },
+        {
+          "block": 117,
+          "item": 5
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Pracuje w zespole instruktorskim.",
+      "occurrences": [
+        {
+          "block": 66,
+          "item": 4
+        },
+        {
+          "block": 71,
+          "item": 5
+        },
+        {
+          "block": 87,
+          "item": 6
+        },
+        {
+          "block": 106,
+          "item": 6
+        },
+        {
+          "block": 110,
+          "item": 6
+        },
+        {
+          "block": 121,
+          "item": 4
+        },
+        {
+          "block": 125,
+          "item": 4
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Ma własny pogląd na sprawy nurtujące jego środowisko harcerskie.",
+      "occurrences": [
+        {
+          "block": 66,
+          "item": 5
+        },
+        {
+          "block": 71,
+          "item": 6
+        },
+        {
+          "block": 98,
+          "item": 6
+        },
+        {
+          "block": 106,
+          "item": 7
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Doskonali swą wiedzę i umiejętności wychowawcze. Dzieli się nimi z kadrą.",
+      "occurrences": [
+        {
+          "block": 77,
+          "item": 3
+        },
+        {
+          "block": 82,
+          "item": 3
+        },
+        {
+          "block": 87,
+          "item": 5
+        },
+        {
+          "block": 98,
+          "item": 4
+        },
+        {
+          "block": 106,
+          "item": 4
+        },
+        {
+          "block": 110,
+          "item": 4
+        },
+        {
+          "block": 117,
+          "item": 4
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-podharcmistrzyni-podharcmistrz",
+      "pageTitle": "Podharcmistrzyni / podharcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/phm.aspx",
+      "kind": "list-item",
+      "text": "Wzmacnia tożsamość harcerstwa, w tym ma świadomość możliwości płynących z przynależności do światowego ruchu skautowego.",
+      "occurrences": [
+        {
+          "block": 98,
+          "item": 7
+        },
+        {
+          "block": 102,
+          "item": 4
+        },
+        {
+          "block": 106,
+          "item": 8
+        },
+        {
+          "block": 117,
+          "item": 6
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Dba o swój wszechstronny rozwój.",
+      "occurrences": [
+        {
+          "block": 35,
+          "item": 1
+        },
+        {
+          "block": 45,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Stara się odkryć sens życia.",
+      "occurrences": [
+        {
+          "block": 35,
+          "item": 2
+        },
+        {
+          "block": 45,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Konsekwentnie realizuje swoje cele życiowe.",
+      "occurrences": [
+        {
+          "block": 35,
+          "item": 3
+        },
+        {
+          "block": 40,
+          "item": 1
+        },
+        {
+          "block": 110,
+          "item": 2
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Osiągnął założoną przez siebie dojrzałość w życiu rodzinnym, zawodowym i społecznym.",
+      "occurrences": [
+        {
+          "block": 35,
+          "item": 4
+        },
+        {
+          "block": 40,
+          "item": 2
+        },
+        {
+          "block": 45,
+          "item": 4
+        },
+        {
+          "block": 110,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Jest wzorem dla instruktorów.",
+      "occurrences": [
+        {
+          "block": 45,
+          "item": 1
+        },
+        {
+          "block": 53,
+          "item": 1
+        },
+        {
+          "block": 65,
+          "item": 1
+        },
+        {
+          "block": 76,
+          "item": 1
+        },
+        {
+          "block": 82,
+          "item": 1
+        },
+        {
+          "block": 89,
+          "item": 1
+        },
+        {
+          "block": 95,
+          "item": 1
+        },
+        {
+          "block": 110,
+          "item": 1
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Jest znaczącą osobowością w zespole instruktorskim, z którym aktywnie pracuje w środowisku swojego działania.",
+      "occurrences": [
+        {
+          "block": 53,
+          "item": 2
+        },
+        {
+          "block": 65,
+          "item": 2
+        },
+        {
+          "block": 76,
+          "item": 2
+        },
+        {
+          "block": 82,
+          "item": 2
+        },
+        {
+          "block": 89,
+          "item": 2
+        },
+        {
+          "block": 95,
+          "item": 2
+        },
+        {
+          "block": 110,
+          "item": 5
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Dzieli się własnymi doświadczeniami życiowymi i wychowawczymi i przekłada je na trwały dorobek.",
+      "occurrences": [
+        {
+          "block": 53,
+          "item": 3
+        },
+        {
+          "block": 65,
+          "item": 3
+        },
+        {
+          "block": 76,
+          "item": 3
+        },
+        {
+          "block": 82,
+          "item": 3
+        },
+        {
+          "block": 89,
+          "item": 3
+        },
+        {
+          "block": 95,
+          "item": 3
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Po mistrzowsku stosuje Harcerski System Wychowawczy.",
+      "occurrences": [
+        {
+          "block": 53,
+          "item": 4
+        },
+        {
+          "block": 82,
+          "item": 4
+        },
+        {
+          "block": 89,
+          "item": 4
+        },
+        {
+          "block": 95,
+          "item": 4
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Ma dużą wiedzę i umiejętności w zakresie samodzielnego kierowania zespołem.",
+      "occurrences": [
+        {
+          "block": 65,
+          "item": 4
+        },
+        {
+          "block": 76,
+          "item": 4
+        },
+        {
+          "block": 82,
+          "item": 5
+        },
+        {
+          "block": 89,
+          "item": 5
+        },
+        {
+          "block": 95,
+          "item": 5
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Potrafi inspirować i organizować swoje środowisko do potrzebnego społecznie działania.",
+      "occurrences": [
+        {
+          "block": 65,
+          "item": 5
+        },
+        {
+          "block": 76,
+          "item": 5
+        }
+      ]
+    },
+    {
+      "pageId": "ssi-harcmistrzyni-harcmistrz",
+      "pageTitle": "Harcmistrzyni / harcmistrz",
+      "sourceUrl": "/sites/ssi/SitePages/hm.aspx",
+      "kind": "list-item",
+      "text": "Wpływa na oblicze harcerstwa, buduje jego tożsamość.",
+      "occurrences": [
+        {
+          "block": 82,
+          "item": 6
+        },
+        {
+          "block": 89,
+          "item": 6
+        },
+        {
+          "block": 95,
+          "item": 6
+        }
+      ]
+    }
+  ]
+}

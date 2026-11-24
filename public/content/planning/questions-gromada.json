@@ -1,0 +1,254 @@
+[
+  {
+    "id": "q01_krag_rady",
+    "number": 1,
+    "question": "Jak najczęściej funkcjonuje w gromadzie krąg rady?",
+    "area": "krag_rady",
+    "variants": [
+      "Nie pracuje się z kręgiem rady",
+      "Krąg rady służy do pracy z SIM",
+      "Krąg rady służy do pracy z SIM oraz do rozwiązywania sporów",
+      "Krąg rady służy też do małych decyzji",
+      "Krąg rady służy też do kluczowych decyzji"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q02_krag_rady",
+    "number": 2,
+    "question": "Jak często mają miejsce spotkania kręgu rady?",
+    "area": "krag_rady",
+    "variants": [
+      "Nie ma takich spotkań",
+      "Raz na pół roku",
+      "Raz na kwartał",
+      "Raz w miesiącu",
+      "Co zbiórkę"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q03_szostki",
+    "number": 3,
+    "question": "Jak wygląda w gromadzie praca z szóstkami?",
+    "area": "szostki",
+    "variants": [
+      "Brak stałego podziału",
+      "Stały podział, ale często używany inny",
+      "Podział odzwierciedla naturalne relacje",
+      "Szóstki oparte o koleżeństwo",
+      "Szóstki wzmacniają potrzeby zuchów"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q04_sluzba",
+    "number": 4,
+    "question": "Jaką formę służby najczęściej podejmuje się w gromadzie?",
+    "area": "sluzba",
+    "variants": [
+      "Nie podejmuje się służby",
+      "Sporadyczne pożyteczne prace",
+      "Pożyteczne prace odpowiadają też na potrzeby otoczenia",
+      "Częste pożyteczne prace w tropach",
+      "Częste prace odpowiadające potrzebom gromady i otoczenia"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q05_program",
+    "number": 5,
+    "question": "O co opierany jest program pracy gromady?",
+    "area": "program",
+    "variants": [
+      "Nie ma programu pracy",
+      "Pomysły kadry lub gotowe propozycje",
+      "Potrzeby wychowanków",
+      "Instrumenty metodyczne",
+      "SIM oraz potwierdzanie tropów w kręgu rady"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q06_prawo_obietnica",
+    "number": 6,
+    "question": "Jaką rolę pełni w gromadzie Prawo i Obietnica Zucha?",
+    "area": "prawo_obietnica",
+    "variants": [
+      "Nie pełnią roli",
+      "Prawo Zucha w zbiórkach pierwszego miesiąca",
+      "Prawo Zucha w dalszym programie",
+      "Prawo Zucha w sytuacjach zaplanowanych i spontanicznych",
+      "Prawo Zucha jako przyjęty system wartości"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q07_sim",
+    "number": 7,
+    "question": "Z jakimi instrumentami metodycznymi pracuje się w gromadzie?",
+    "area": "sim",
+    "variants": [
+      "Nie pracuje się z SIM",
+      "SIM sprzed 2022 lub autorski",
+      "Aktualny SIM bez sprawności i gwiazdek",
+      "Aktualny SIM bez gwiazdek",
+      "Aktualny SIM w całości"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q08_gwiazdki",
+    "number": 8,
+    "question": "Jaki procent zuchów realizuje próbę na gwiazdkę zuchową?",
+    "area": "gwiazdki",
+    "variants": [
+      "Nikt",
+      "25%",
+      "50%",
+      "75%",
+      "Wszystkie zuchy po Obietnicy"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q09_obietnica",
+    "number": 9,
+    "question": "W jakim czasie odbywają się zbiórki pierwszego miesiąca?",
+    "area": "obietnica",
+    "variants": [
+      "Dłużej niż rok",
+      "Rok",
+      "Pół roku",
+      "Kwartał",
+      "Miesiąc"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q10_braterstwo",
+    "number": 10,
+    "question": "Jak wygląda praca z braterstwem w gromadzie?",
+    "area": "braterstwo",
+    "variants": [
+      "Tolerancja",
+      "Akceptacja",
+      "Współdziałanie pomimo różnic",
+      "Empatia",
+      "Współpraca oparta na predyspozycjach"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q11_natura",
+    "number": 11,
+    "question": "Jak pracuje się z naturą w gromadzie?",
+    "area": "natura",
+    "variants": [
+      "Prawie wszystko w pomieszczeniach",
+      "Większość w pomieszczeniach",
+      "Połowa w pomieszczeniach",
+      "Większość na zewnątrz",
+      "Większość w zróżnicowanym terenie"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q12_przyklad",
+    "number": 12,
+    "question": "Jak kadra gromady pracuje z osobistym przykładem instruktorskim?",
+    "area": "przyklad",
+    "variants": [
+      "Brak uważności",
+      "Wizerunek na potrzeby harcerstwa",
+      "Spójność słów i czynów",
+      "Dzielenie się doświadczeniem",
+      "Pociąganie ku ideałom"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q13_obrzedowosc",
+    "number": 13,
+    "question": "Jak gromada pracuje z obrzędowością i symboliką?",
+    "area": "obrzedowosc",
+    "variants": [
+      "Niezmienna tradycja",
+      "Aktualizowana przez kadrę",
+      "Tożsamość gromady",
+      "Tożsamość gromady i szóstek",
+      "Świadome budowanie wspólnej tożsamości"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q14_kolonia",
+    "number": 14,
+    "question": "W jakiej formie gromada spędza ze sobą najczęściej wakacje?",
+    "area": "kolonia",
+    "variants": [
+      "Nie spotyka się",
+      "Półkolonia lub zbiórki",
+      "Krótka forma do 7 dni",
+      "Kolonia na bazie",
+      "Kolonia w terenie"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  }
+]

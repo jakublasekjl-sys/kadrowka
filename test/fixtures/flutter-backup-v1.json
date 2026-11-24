@@ -1,0 +1,16 @@
+{
+  "schema": "kadrowka-user-backup",
+  "schemaVersion": 1,
+  "exportedAt": "2026-07-11T12:00:00.000Z",
+  "source": "flutter",
+  "contentVersion": "2026.07.10.2222",
+  "preferences": {
+    "kadrowka_my_work_favorite_pages": { "type": "string", "value": "[\"model-przywodztwa\"]" },
+    "kadrowka_my_work_page_notes": { "type": "string", "value": "{\"model-przywodztwa\":\"Przykładowy wniosek do planu.\"}" },
+    "kadrowka_my_work_page_note_types": { "type": "string", "value": "{\"model-przywodztwa\":\"Wniosek do planu\"}" },
+    "kadrowka_my_work_meetings": { "type": "string", "value": "[{\"id\":\"test-meeting\",\"title\":\"Odprawa testowa\",\"date\":\"11.07.2026\",\"decisions\":\"Decyzja testowa\",\"taskRows\":[{\"task\":\"Zadanie\",\"person\":\"Osoba\",\"due\":\"20.07.2026\"}]}]" },
+    "kadrowka_planning_v2_draft_index": { "type": "string", "value": "[{\"id\":\"default\",\"name\":\"Plan testowy\",\"profile\":\"druzyna\"}]" },
+    "kadrowka_planning_v2_draft": { "type": "string", "value": "{\"name\":\"Plan testowy\",\"profile\":\"druzyna\",\"stepIndex\":1,\"answers\":{\"cel\":\"Cel testowy\"}}" },
+    "kadrowka_ssi_requirement_checks_v1": { "type": "stringList", "value": ["ssi-przewodnik:0"] }
+  }
+}

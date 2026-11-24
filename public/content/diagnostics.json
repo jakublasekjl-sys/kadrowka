@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-11-24T22:08:05.413Z",
+  "packageVersion": "2026.07.10.2224",
+  "status": "ok",
+  "errors": [],
+  "warnings": [],
+  "notes": [
+    "Eksporter źródłowy zachował informację o jednym brakującym zasobie, ale żadna publikowana strona ani narzędzie nie odwołuje się do niego.",
+    "1 plik w ZIP ma zdublowaną nazwę po normalizacji Unicode; publikacja wybiera jedną kopię tej ścieżki.",
+    "1 obraz z paczki zrodlowej ma poprawiona nazwe zgodna z formatem PNG."
+  ],
+  "counts": {
+    "pages": 72,
+    "modules": 12,
+    "searchItems": 343,
+    "assets": 674,
+    "archiveAssets": 736,
+    "excludedSourceSnapshots": 61,
+    "quarantinedAssets": 0,
+    "repairedImages": 1,
+    "referencedAssets": 340,
+    "richTextBlocks": 714,
+    "imageBlocks": 992,
+    "imageActions": 22,
+    "tools": 67,
+    "totalAssetBytes": 843641450
+  }
+}

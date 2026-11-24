@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Kadrówka</string>
+    <string name="title_activity_main">Kadrówka</string>
+    <string name="package_name">pl.zhp.kadrowka</string>
+    <string name="custom_url_scheme">pl.zhp.kadrowka</string>
+</resources>

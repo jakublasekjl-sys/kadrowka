@@ -1,0 +1,254 @@
+[
+  {
+    "id": "q01_rada_druzyny",
+    "number": 1,
+    "question": "Jak najczęściej są podejmowane decyzje w drużynie?",
+    "area": "rada_druzyny",
+    "variants": [
+      "Drużynowy decyduje",
+      "Drużynowy z przybocznymi",
+      "Drużynowy konsultuje z radą drużyny",
+      "Decyduje rada drużyny",
+      "Decyduje określony organ drużyny"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q02_rada_druzyny",
+    "number": 2,
+    "question": "Jak często spotyka się rada drużyny lub inny organ demokratyczny?",
+    "area": "rada_druzyny",
+    "variants": [
+      "Nie ma takiego organu",
+      "Raz na kwartał",
+      "Raz w miesiącu",
+      "Co zbiórkę",
+      "Co zbiórkę i pomiędzy nimi"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q03_male_grupy",
+    "number": 3,
+    "question": "Jak wygląda w drużynie system małych grup?",
+    "area": "male_grupy",
+    "variants": [
+      "Nie ma systemu małych grup",
+      "Stały podział, ale często używany inny",
+      "Podział odzwierciedla relacje",
+      "Podział opiera się o przyjaźń",
+      "Małe grupy wzmacniają potrzeby członków"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q04_sluzba",
+    "number": 4,
+    "question": "Jaką formę służby najczęściej podejmuje się w drużynie?",
+    "area": "sluzba",
+    "variants": [
+      "Nie podejmuje się służby",
+      "Sporadyczne pożyteczne prace",
+      "Prace dobrane do potrzeb harcerzy i otoczenia",
+      "Częsta służba małych grup",
+      "Służba odpowiadająca potrzebom otoczenia"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q05_plan_pracy",
+    "number": 5,
+    "question": "O co opierany jest plan pracy drużyny?",
+    "area": "plan_pracy",
+    "variants": [
+      "Nie ma planu pracy",
+      "Pomysły kadry lub gotowe propozycje",
+      "Potrzeby podopiecznych",
+      "Instrumenty metodyczne",
+      "Małe grupy planują w oparciu o instrumenty"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q06_prawo_przyrzeczenie",
+    "number": 6,
+    "question": "Jaką rolę pełni w drużynie Prawo i Przyrzeczenie Harcerskie?",
+    "area": "prawo_przyrzeczenie",
+    "variants": [
+      "Nie pełnią roli",
+      "Tylko na zaplanowanych zbiórkach",
+      "W sytuacjach zaplanowanych i spontanicznych",
+      "Przyjęty system wartości",
+      "Własny system wartości stale wzmacniany"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q07_sim",
+    "number": 7,
+    "question": "Z jakimi instrumentami metodycznymi pracuje się w drużynie?",
+    "area": "sim",
+    "variants": [
+      "Nie pracuje się z SIM",
+      "SIM sprzed 2022 lub autorski",
+      "Aktualny SIM bez wyzwań i tropów",
+      "Aktualny SIM bez wyzwań",
+      "Aktualny SIM z tropami i wyzwaniami"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q08_stopnie",
+    "number": 8,
+    "question": "Jaki procent członków drużyny realizuje obecnie próbę na stopień?",
+    "area": "stopnie",
+    "variants": [
+      "Nikt",
+      "25%",
+      "50%",
+      "75%",
+      "Wszyscy"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q09_pierwsza_proba",
+    "number": 9,
+    "question": "W jakim czasie nowa osoba kończy swoją pierwszą próbę?",
+    "area": "pierwsza_proba",
+    "variants": [
+      "Dłużej niż półtora roku",
+      "Półtora roku",
+      "Rok",
+      "Pół roku",
+      "Kwartał"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q10_braterstwo",
+    "number": 10,
+    "question": "Jak wygląda praca z braterstwem w drużynie?",
+    "area": "braterstwo",
+    "variants": [
+      "Tolerancja",
+      "Akceptacja",
+      "Współdziałanie pomimo różnic",
+      "Empatia",
+      "Współpraca oparta na predyspozycjach"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q11_natura",
+    "number": 11,
+    "question": "Jak pracuje się z naturą w drużynie?",
+    "area": "natura",
+    "variants": [
+      "Prawie wszystko w pomieszczeniach",
+      "Większość w pomieszczeniach",
+      "Połowa w pomieszczeniach",
+      "Większość na zewnątrz",
+      "Większość w zróżnicowanym terenie"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q12_przyklad",
+    "number": 12,
+    "question": "Jak kadra drużyny pracuje z osobistym przykładem instruktorskim?",
+    "area": "przyklad",
+    "variants": [
+      "Brak uważności",
+      "Wizerunek na potrzeby harcerstwa",
+      "Spójność słów i czynów",
+      "Dzielenie się doświadczeniem",
+      "Pociąganie ku ideałom"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q13_obrzedowosc",
+    "number": 13,
+    "question": "Jak drużyna pracuje z obrzędowością i symboliką?",
+    "area": "obrzedowosc",
+    "variants": [
+      "Niezmienna tradycja",
+      "Aktualizowana przez kadrę",
+      "Tożsamość drużyny",
+      "Tożsamość drużyny i małych grup",
+      "Świadome budowanie wspólnej tożsamości"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  },
+  {
+    "id": "q14_oboz",
+    "number": 14,
+    "question": "W jakiej formie drużyna spędza ze sobą najczęściej wakacje?",
+    "area": "oboz",
+    "variants": [
+      "Nie spotyka się",
+      "Półkolonia lub zbiórki",
+      "Krótka forma do 7 dni",
+      "Obóz na bazie",
+      "Samodzielnie zorganizowany obóz"
+    ],
+    "fields": [
+      "currentVariant",
+      "desiredVariant",
+      "comment"
+    ]
+  }
+]

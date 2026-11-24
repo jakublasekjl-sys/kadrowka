@@ -1,0 +1,42 @@
+{
+  "title": "Kadrówka",
+  "subtitle": "Platforma wiedzy i narzędzi dla kadry ZHP",
+  "description": "Materiały, poradniki, Narzędzia i strony wokół Systemu Pracy z Kadrą w ZHP.",
+  "sections": [
+    {
+      "id": "glowne-moduly",
+      "title": "Główne moduły",
+      "type": "modules",
+      "moduleIds": [
+        "model-przywodztwa",
+        "proces-pracy-z-kadra",
+        "praca-z-kadra-w-zespole",
+        "ewaluacja"
+      ]
+    },
+    {
+      "id": "dokumenty-spzk",
+      "title": "Dokumenty i Materiały SPzK",
+      "type": "documents",
+      "documentIds": [
+        "dokument-system-pracy-z-kadra",
+        "broszura-system-pracy-z-kadra",
+        "wdrazanie-systemu-pracy-z-kadra",
+        "plakaty-o-spzk",
+        "mapa-strony"
+      ]
+    },
+    {
+      "id": "systemy",
+      "title": "Systemy i Materiały wspierające",
+      "type": "modules",
+      "moduleIds": [
+        "wdrazanie-spzk",
+        "funkcje-w-zhp",
+        "system-ksztalcenia-w-zhp",
+        "system-stopni-instruktorskich-w-zhp",
+        "artykuly-z-czuwaj"
+      ]
+    }
+  ]
+}

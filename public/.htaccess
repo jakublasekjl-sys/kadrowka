@@ -1,0 +1,67 @@
+Options -Indexes -MultiViews
+RewriteEngine On
+
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# Project sources and configuration files are never public resources.
+RewriteRule (^|/)\. - [R=404,L]
+RewriteRule ^(?:src|scripts|test|docs|android|node_modules)(?:/|$) - [R=404,L,NC]
+RewriteRule ^(?:package(?:-lock)?\.json|pnpm-lock\.yaml|pnpm-workspace\.yaml|tsconfig[^/]*\.json|vite\.config\.(?:js|ts))$ - [R=404,L,NC]
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Brakujący materiał ma zwracać 404, a nie stronę aplikacji React.
+# Missing static files must not be replaced with the application document.
+RewriteCond %{REQUEST_URI} \.[A-Za-z0-9]{1,10}$
+RewriteRule ^ - [R=404,L]
+
+RewriteRule ^content/files/ - [L]
+
+RewriteRule ^ index.html [L]
+
+AddType application/manifest+json .webmanifest
+AddType application/pdf .pdf
+AddType application/vnd.openxmlformats-officedocument.wordprocessingml.document .docx
+AddType application/vnd.openxmlformats-officedocument.spreadsheetml.sheet .xlsx
+AddType application/vnd.openxmlformats-officedocument.presentationml.presentation .pptx
+AddType application/vnd.openxmlformats-officedocument.presentationml.slideshow .ppsx
+
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000"
+  Header always set Content-Security-Policy "default-src 'self'; base-uri 'none'; object-src 'none'; frame-ancestors 'none'; form-action 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' https://login.microsoftonline.com; worker-src 'self' blob:; manifest-src 'self'; media-src 'self' blob:; frame-src 'none'; upgrade-insecure-requests"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "DENY"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=(), serial=(), bluetooth=()"
+  Header always set Cross-Origin-Opener-Policy "same-origin-allow-popups"
+  Header always set Cross-Origin-Resource-Policy "same-origin"
+  Header always set X-XSS-Protection "0"
+  Header always unset X-Powered-By
+
+  <FilesMatch "\.(js|css)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  <FilesMatch "^(index\.html|sw\.js|manifest\.webmanifest)$">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+  </FilesMatch>
+
+  <FilesMatch "\.json$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+
+  <Files "runtime-config.json">
+    Header set Cache-Control "no-store, max-age=0"
+  </Files>
+
+  <FilesMatch "\.(pdf|docx|xlsx|pptx|ppsx|png|jpe?g|webp|gif|svg)$">
+    Header set Cache-Control "public, max-age=86400, must-revalidate"
+  </FilesMatch>
+
+  <Files "sw.js">
+    Header set Service-Worker-Allowed "/"
+  </Files>
+</IfModule>

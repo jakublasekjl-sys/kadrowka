@@ -1,0 +1,402 @@
+[
+  {
+    "id": "swot",
+    "title": "SWOT",
+    "type": "analysis",
+    "description": "Porządkuje mocne strony, słabe strony, szanse i zagrożenia.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "zespol_kadry",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "strengths",
+        "label": "Mocne strony"
+      },
+      {
+        "key": "weaknesses",
+        "label": "Słabe strony"
+      },
+      {
+        "key": "opportunities",
+        "label": "Szanse"
+      },
+      {
+        "key": "threats",
+        "label": "Zagrożenia"
+      },
+      {
+        "key": "conclusions",
+        "label": "Wnioski do planu"
+      }
+    ]
+  },
+  {
+    "id": "luka",
+    "title": "LUKA",
+    "type": "analysis",
+    "description": "Pomaga przejść od stanu obecnego do stanu pożądanego.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "zespol_kadry",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "current",
+        "label": "Stan obecny"
+      },
+      {
+        "key": "desired",
+        "label": "Stan pożądany"
+      },
+      {
+        "key": "gap",
+        "label": "Najważniejsza luka"
+      },
+      {
+        "key": "actions",
+        "label": "Działania zmniejszające lukę"
+      }
+    ]
+  },
+  {
+    "id": "4x_jak",
+    "title": "4 × JAK",
+    "type": "analysis",
+    "description": "Prowadzi od opisu obecnej sytuacji do obrazu zmiany.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "zespol_kadry",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "now",
+        "label": "Jak jest teraz?"
+      },
+      {
+        "key": "way",
+        "label": "Jak dojść do zmiany?"
+      },
+      {
+        "key": "year",
+        "label": "Jak ma być za rok?"
+      },
+      {
+        "key": "ideal",
+        "label": "Jak wyglądałby stan idealny?"
+      }
+    ]
+  },
+  {
+    "id": "metaplan",
+    "title": "METAPLAN",
+    "type": "analysis",
+    "description": "Porównuje stan faktyczny i pożądany oraz szuka przyczyn.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "zespol_kadry",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "facts",
+        "label": "Jak jest?"
+      },
+      {
+        "key": "desired",
+        "label": "Jak powinno być?"
+      },
+      {
+        "key": "causes",
+        "label": "Dlaczego nie jest tak, jak powinno?"
+      },
+      {
+        "key": "conclusions",
+        "label": "Jakie wnioski wdrażamy?"
+      }
+    ]
+  },
+  {
+    "id": "5x_dlaczego",
+    "title": "5 × Dlaczego",
+    "type": "analysis",
+    "description": "Pomaga dotrzeć do źródła powtarzającego się problemu.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "zespol_kadry",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "problem",
+        "label": "Jaki problem analizujemy?"
+      },
+      {
+        "key": "why1",
+        "label": "Dlaczego? 1"
+      },
+      {
+        "key": "why2",
+        "label": "Dlaczego? 2"
+      },
+      {
+        "key": "why3",
+        "label": "Dlaczego? 3"
+      },
+      {
+        "key": "why4",
+        "label": "Dlaczego? 4"
+      },
+      {
+        "key": "why5",
+        "label": "Dlaczego? 5"
+      },
+      {
+        "key": "root",
+        "label": "Źródło problemu i działanie"
+      }
+    ]
+  },
+  {
+    "id": "analiza_zasobow",
+    "title": "Analiza zasobów",
+    "type": "analysis",
+    "description": "Pomaga zobaczyć ludzi, kompetencje, czas, materiały i wsparcie.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "zespol_kadry",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "people",
+        "label": "Ludzie i role"
+      },
+      {
+        "key": "skills",
+        "label": "Kompetencje"
+      },
+      {
+        "key": "time",
+        "label": "Czas i rytm pracy"
+      },
+      {
+        "key": "materials",
+        "label": "Materiały i narzędzia"
+      },
+      {
+        "key": "support",
+        "label": "Wsparcie, którego potrzebujemy"
+      }
+    ]
+  },
+  {
+    "id": "analiza_organizacyjna",
+    "title": "Analiza organizacyjna",
+    "type": "analysis",
+    "description": "Pomaga opisać uwarunkowania organizacyjne pracy.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "zespol_kadry",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "structure",
+        "label": "Struktura i odpowiedzialności"
+      },
+      {
+        "key": "decisions",
+        "label": "Sposób podejmowania decyzji"
+      },
+      {
+        "key": "communication",
+        "label": "Przepływ informacji"
+      },
+      {
+        "key": "risks",
+        "label": "Ryzyka organizacyjne"
+      },
+      {
+        "key": "changes",
+        "label": "Zmiany do wprowadzenia"
+      }
+    ]
+  },
+  {
+    "id": "analiza_potrzeb",
+    "title": "Analiza potrzeb wychowawczych",
+    "type": "analysis",
+    "description": "Pomaga przełożyć potrzeby wychowawcze grupy na cele, program i mierzalne zmiany.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "group",
+        "label": "Dla kogo planujemy?"
+      },
+      {
+        "key": "needs",
+        "label": "Najważniejsze potrzeby wychowawcze"
+      },
+      {
+        "key": "signals",
+        "label": "Po czym widzimy te potrzeby?"
+      },
+      {
+        "key": "response",
+        "label": "Jak program ma na nie odpowiedzieć?"
+      },
+      {
+        "key": "measure",
+        "label": "Po czym poznamy zmianę?"
+      }
+    ]
+  },
+  {
+    "id": "mapa_interesariuszy",
+    "title": "Mapa interesariuszy",
+    "type": "analysis",
+    "description": "Porządkuje osoby, grupy i partnerów, którzy wpływają na powodzenie planu.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "zespol_kadry",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "inside",
+        "label": "Osoby i grupy wewnątrz środowiska"
+      },
+      {
+        "key": "outside",
+        "label": "Sojusznicy i partnerzy zewnętrzni"
+      },
+      {
+        "key": "expectations",
+        "label": "Ich potrzeby, oczekiwania i obawy"
+      },
+      {
+        "key": "influence",
+        "label": "Kto ma wpływ na powodzenie planu?"
+      },
+      {
+        "key": "communication",
+        "label": "Jak i kiedy z nimi rozmawiamy?"
+      }
+    ]
+  },
+  {
+    "id": "macierz_priorytetow",
+    "title": "Macierz priorytetów",
+    "type": "analysis",
+    "description": "Pomaga wybrać działania o największym wpływie i rozsądnym nakładzie pracy.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "zespol_kadry",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "ideas",
+        "label": "Pomysły, zadania lub problemy do oceny"
+      },
+      {
+        "key": "impact",
+        "label": "Co ma największy wpływ na cele?"
+      },
+      {
+        "key": "effort",
+        "label": "Co wymaga najwięcej czasu lub energii?"
+      },
+      {
+        "key": "quick_wins",
+        "label": "Szybkie zwycięstwa"
+      },
+      {
+        "key": "priority",
+        "label": "Priorytety do planu"
+      }
+    ]
+  },
+  {
+    "id": "start_stop_continue",
+    "title": "Start / Stop / Continue",
+    "type": "analysis",
+    "description": "Szybka metoda podsumowania: co zaczynamy, co kończymy i co kontynuujemy.",
+    "profiles": [
+      "gromada",
+      "druzyna",
+      "zespol_kadry",
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "start",
+        "label": "Co zaczynamy robić?"
+      },
+      {
+        "key": "stop",
+        "label": "Co przestajemy robić?"
+      },
+      {
+        "key": "continue",
+        "label": "Co kontynuujemy?"
+      },
+      {
+        "key": "owner",
+        "label": "Kto pilnuje wdrożenia?"
+      },
+      {
+        "key": "check",
+        "label": "Kiedy sprawdzamy efekt?"
+      }
+    ]
+  },
+  {
+    "id": "ryzyka_haliz",
+    "title": "Analiza ryzyk HALiZ",
+    "type": "analysis",
+    "description": "Porządkuje ryzyka programu, bezpieczeństwa, kadry, bazy i pogody oraz przypisuje działania zapobiegawcze.",
+    "profiles": [
+      "haliz"
+    ],
+    "prompts": [
+      {
+        "key": "areas",
+        "label": "Obszary wymagające zabezpieczenia"
+      },
+      {
+        "key": "risks",
+        "label": "Ryzyka dla programu i bezpieczeństwa"
+      },
+      {
+        "key": "prevention",
+        "label": "Działania zapobiegawcze"
+      },
+      {
+        "key": "responsible",
+        "label": "Osoby odpowiedzialne"
+      },
+      {
+        "key": "backup",
+        "label": "Plan awaryjny"
+      }
+    ]
+  }
+]
