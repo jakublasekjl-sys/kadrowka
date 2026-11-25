@@ -1,11 +1,13 @@
 # Warunki uruchomienia produkcyjnej Kadrówki
 
-**Stan na 24.11.2026:** przygotowana jest kontrolowana paczka publicznej PWA, ale nie ma dowodów na poprawną konfigurację docelowego Azure, uprawnienia ani decyzję właściciela o jawności wszystkich materiałów. Nie deklarować pełnego zabezpieczenia produkcyjnego przed wykonaniem poniższych kroków.
+**Stan na 25.11.2026:** przygotowana jest kontrolowana paczka publicznej PWA i kod podziału na Static Web Apps + Blob, ale nie ma dowodów na poprawną konfigurację docelowego Azure, uprawnienia ani zatwierdzenie jawności wszystkich materiałów dla konkretnego wydania. Nie deklarować pełnego zabezpieczenia produkcyjnego przed wykonaniem poniższych kroków.
 
 ## Co wymusza kod
 
 - `pnpm deploy:prepare` zatrzymuje wydanie, jeśli materiał nie przejdzie weryfikacji sygnatury, przekroczy 128 MB, koliduje nazwą po normalizacji lub źródło zawiera dowiązanie symboliczne. Nie usuwa poprzedniej paczki przed kontrolą źródła. Obraz PNG nazwany w źródle `.jpeg` jest naprawiany tylko po sprawdzeniu przypiętego SHA-256; nie ma już wyjątków pozwalających pominąć uszkodzony plik.
 - CSP w paczce zezwala tylko na lokalne zasoby i, jeśli Azure jest włączony, **konkretne** konto Blob z `runtime-config.json`. Nie ma `*.blob.core.windows.net`.
+- `pnpm azure:stage` oddziela aplikację od 560 unikalnych plików Blob, sprawdza SHA-256 źródeł i przypina katalog wersji do konfiguracji aplikacji. `pnpm test:azure:stage` sprawdza ścieżki, kompletność i brak plików w SWA. Po zdalnym uploadzie `pnpm test:azure:blob files` pobiera pliki przez publiczny adres i porównuje pełny SHA-256, MIME, rozmiar i CORS przed publikacją katalogu. Nie jest to dowód bezpiecznej konfiguracji samego konta Azure.
+- Workflow GitHub jest nieaktywny bez `KADROWKA_DEPLOY_ENABLED=true`; produkcja wymaga uruchomienia ręcznego z `main` i potwierdzenia jawności. Możliwość niezależnej ochrony środowiska w prywatnym repozytorium zależy od planu GitHub; sprawdzić ją przed włączeniem. Nie wpisywać potwierdzenia na stałe do repozytorium. Pełna procedura: [GITHUB_HANDOFF.md](GITHUB_HANDOFF.md).
 - `pnpm release:production` uruchamia budowę, testy, audyt zależności produkcyjnych, kontrolę kompletności 674 plików i lokalny test HTTP. Wymaga `KADROWKA_PRODUCTION_ORIGIN` oraz ręcznego potwierdzenia `KADROWKA_PUBLIC_MATERIALS_APPROVED=1`. Wartość środowiskowa to zapis decyzji, nie techniczny dowód klasyfikacji.
 - Obecny panel zapisuje bezpośrednio do Blob. Wydanie produkcyjne **blokuje jego włączenie**, bo walidacja w przeglądarce nie stanowi granicy bezpieczeństwa. Panel można nadal testować na odrębnym środowisku. Włączenie go produkcyjnie wymaga serwerowej kontroli uploadu/publikacji albo osobnej, udokumentowanej akceptacji zmienionego modelu ryzyka i nowego procesu odbioru.
 
@@ -40,7 +42,7 @@ Na Azure SWA ustawić `KADROWKA_EXPECT_AZURE_ADMIN_ROUTE=1` dla testu niezalogow
 
 ## Status
 
-**Wynik lokalny 24.11.2026:** `pnpm deploy:prepare`, `pnpm test:security`, `pnpm test:deployment:local` i regresja 18 widoków przeszły; lokalny test HTTP sprawdził wszystkie 674 materiały. Negatywny test bez potwierdzenia jawności poprawnie zatrzymał wydanie. Pozytywny test bramki z *symulowanym* potwierdzeniem przeszedł, ale nie stanowi zgody właściciela treści. `pnpm audit --prod`: 0 znanych podatności. Pełny `pnpm audit`: 3 umiarkowane ostrzeżenia w zależnościach narzędziowych `uuid`, `glob` i `minimatch` (Capacitor CLI/Workbox), 0 wysokich/krytycznych. Nie podmieniono ich wymuszoną aktualizacją głównej wersji, bo wymagałoby to sprawdzenia zgodności narzędzi. Środowisko CI musi być izolowane i bez podwyższonych uprawnień. Całe `pnpm release:production` trzeba wykonać po rzeczywistej decyzji właściciela treści.
+**Wynik lokalny 25.11.2026:** `pnpm deploy:prepare`, `pnpm test:azure:runtime`, `pnpm test:azure:stage` i `pnpm test:deployment:local` przeszły. Paczka aplikacji ma 7,78 MB, Blob obejmuje 560 unikalnych plików (763,19 MiB), a test lokalny sprawdził wszystkie 674 ścieżki. `pnpm audit --prod` nie zakończył się, ponieważ środowisko nie rozwiązywało `registry.npmjs.org`; workflow wymaga powtórzenia audytu. Nie wykonano testu na żywym Azure ani `pnpm release:production` po decyzji właściciela treści.
 
 | Obszar | Status |
 |---|---|

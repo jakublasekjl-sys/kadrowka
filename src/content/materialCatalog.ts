@@ -74,6 +74,7 @@ interface ResolverState {
 }
 
 let resolver: ResolverState | null = null
+const azureCatalogCacheKey = 'kadrowka_azure_catalog_v1'
 
 function pathKey(path: string) {
   return path.normalize('NFC').toLocaleLowerCase('pl')
@@ -150,34 +151,60 @@ export function resolveMaterialUrl(path?: string) {
   const activeResolver = resolver
   if (!activeResolver) return contentPathUrl(safePath)
   const material = activeResolver.byLegacyPath.get(pathKey(safePath))
-  if (!material || activeResolver.source === 'local') return contentPathUrl(safePath)
+  if (!material) return activeResolver.source === 'local' ? contentPathUrl(safePath) : ''
+  if (activeResolver.source === 'local') return contentPathUrl(safePath)
   const storagePath = safeStoragePath(material.storagePath)
   const baseUrl = safeExternalUrl(activeResolver.publicBaseUrl)
   if (!storagePath || !baseUrl) return ''
   return `${baseUrl.replace(/\/$/, '')}/${encodePath(storagePath)}`
 }
 
+function assertPinnedCatalogMatches(catalog: MaterialCatalog, localCatalog: MaterialCatalog, releaseId?: string) {
+  if (!releaseId) return
+  if (catalog.materials.length !== localCatalog.materials.length) throw new Error('Katalog Azure ma niepełną listę materiałów.')
+  for (let index = 0; index < localCatalog.materials.length; index += 1) {
+    const { storagePath: remotePath, ...remoteRecord } = catalog.materials[index]
+    const { storagePath: localPath, ...localRecord } = localCatalog.materials[index]
+    if (remotePath !== `releases/${releaseId}/${localPath}` || JSON.stringify(remoteRecord) !== JSON.stringify(localRecord)) {
+      throw new Error(`Katalog Azure różni się od zatwierdzonego materiału: ${localRecord.id}.`)
+    }
+  }
+}
+
 export async function loadActiveMaterialCatalog(localCatalog: MaterialCatalog, config: RuntimeConfig) {
   if (!config.azure.enabled) return { catalog: localCatalog, source: 'local' as const }
   if (!isAzureRuntimeReady(config)) {
-    return {
-      catalog: localCatalog,
-      source: 'local' as const,
-      warning: 'Integracja Azure jest włączona, ale konfiguracja nie jest jeszcze kompletna. Użyto lokalnej paczki materiałów.',
-    }
+    throw new Error('Konfiguracja Azure jest niekompletna. Materiały nie mogą zostać wczytane.')
   }
+  const baseUrl = config.azure.publicBaseUrl.replace(/\/+$/, '')
   try {
-    const baseUrl = config.azure.publicBaseUrl.replace(/\/+$/, '')
-    const pointer = parseMaterialCatalogPointer(await fetchJson(`${baseUrl}/catalog/current.json`))
-    const catalog = parseMaterialCatalog(await fetchJson(`${baseUrl}/${encodePath(pointer.catalogPath)}`))
-    if (catalog.releaseId !== pointer.releaseId) throw new Error('Wskaźnik i katalog dotyczą różnych wydań.')
+    const pinnedReleaseId = config.azure.catalogReleaseId
+    const pointer = pinnedReleaseId ? null : parseMaterialCatalogPointer(await fetchJson(`${baseUrl}/catalog/current.json`))
+    const releaseId = pinnedReleaseId ?? pointer!.releaseId
+    const catalogPath = pointer?.catalogPath ?? `catalog/${releaseId}.json`
+    const catalog = parseMaterialCatalog(await fetchJson(`${baseUrl}/${encodePath(catalogPath)}`))
+    if (catalog.releaseId !== releaseId) throw new Error('Konfiguracja i katalog dotyczą różnych wydań.')
+    if (catalog.contentVersion !== localCatalog.contentVersion) throw new Error('Katalog Azure nie odpowiada wersji treści aplikacji.')
+    assertPinnedCatalogMatches(catalog, localCatalog, pinnedReleaseId)
+    try { localStorage.setItem(azureCatalogCacheKey, JSON.stringify({ baseUrl, releaseId, catalog })) } catch { /* Offline cache is optional. */ }
     return { catalog, source: 'azure' as const }
   } catch (error) {
-    return {
-      catalog: localCatalog,
-      source: 'local' as const,
-      warning: `Nie udało się pobrać aktywnego katalogu Azure. Użyto lokalnej paczki. ${error instanceof Error ? error.message : String(error)}`,
+    if (error instanceof TypeError) {
+      try {
+        const cached = localStorage.getItem(azureCatalogCacheKey)
+        if (cached) {
+          const saved = JSON.parse(cached) as { baseUrl?: unknown; releaseId?: unknown; catalog?: unknown }
+          if (saved.baseUrl === baseUrl && (!config.azure.catalogReleaseId || saved.releaseId === config.azure.catalogReleaseId)) {
+            const catalog = parseMaterialCatalog(saved.catalog)
+            if (catalog.contentVersion === localCatalog.contentVersion) {
+              assertPinnedCatalogMatches(catalog, localCatalog, config.azure.catalogReleaseId)
+              return { catalog, source: 'azure' as const, warning: 'Nie ma połączenia z katalogiem Azure. Użyto ostatnio sprawdzonego katalogu materiałów.' }
+            }
+          }
+        }
+      } catch { /* An invalid cache cannot replace the current catalog. */ }
     }
+    throw new Error(`Nie udało się wczytać materiałów z Azure. ${error instanceof Error ? error.message : String(error)}`)
   }
 }
 

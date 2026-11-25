@@ -17,7 +17,7 @@ import { PageHeader } from '../components/PageHeader'
 import { ErrorState, LoadingState } from '../components/PageState'
 import { useContent } from '../content/ContentContext'
 import { formatBytes } from '../content/offlineMaterials'
-import { isAdminPanelAvailable, isAzureRuntimeReady } from '../config/runtimeConfig'
+import { isAdminPanelAvailable, isAzureAdminReady } from '../config/runtimeConfig'
 import { AzureContentAdmin, type PublishProgress } from '../admin/azureContentAdmin'
 import {
   analyzeMaterialFiles,
@@ -70,7 +70,7 @@ export function AdminPage() {
   const [currentPointer, setCurrentPointer] = useState<MaterialCatalogPointer | null>(null)
   const [notice, setNotice] = useState<{ text: string; warning?: boolean } | null>(null)
 
-  const azureReady = Boolean(content && isAzureRuntimeReady(content.runtimeConfig))
+  const azureReady = Boolean(content && isAzureAdminReady(content.runtimeConfig))
   const azure = useMemo(() => content && azureReady ? new AzureContentAdmin(content.runtimeConfig.azure) : null, [content, azureReady])
 
   useEffect(() => {

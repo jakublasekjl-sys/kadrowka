@@ -1,0 +1,172 @@
+name: Kadrowka - Azure
+
+on:
+  push:
+    branches: [dev]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      target:
+        description: Srodowisko wdrozenia
+        type: choice
+        options: [development, production]
+        required: true
+      public_materials_confirmed:
+        description: Potwierdzam prawo do publicznej publikacji wszystkich materialow tego wydania
+        type: boolean
+        default: false
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  code-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '24'
+      - name: Install pnpm
+        run: npm install --global pnpm@11.25.0
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Lint and TypeScript
+        run: |
+          pnpm lint
+          pnpm exec tsc -b --pretty false
+          pnpm test:azure:runtime
+
+  deploy:
+    needs: code-check
+    if: >-
+      ${{ vars.KADROWKA_DEPLOY_ENABLED == 'true' && (
+      (github.event_name == 'push' && github.ref == 'refs/heads/dev') ||
+      (github.event_name == 'workflow_dispatch' && inputs.target == 'development' && github.ref == 'refs/heads/dev') ||
+      (github.event_name == 'workflow_dispatch' && inputs.target == 'production' && github.ref == 'refs/heads/main' && inputs.public_materials_confirmed)
+      ) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    environment:
+      name: ${{ github.ref == 'refs/heads/main' && 'production' || 'development' }}
+    concurrency:
+      group: kadrowka-${{ github.ref == 'refs/heads/main' && 'production' || 'development' }}
+      cancel-in-progress: false
+    permissions:
+      contents: read
+      id-token: write
+    env:
+      AZURE_SOURCE_STORAGE_ACCOUNT: ${{ vars.AZURE_SOURCE_STORAGE_ACCOUNT }}
+      AZURE_SOURCE_CONTAINER: ${{ vars.AZURE_SOURCE_CONTAINER }}
+      AZURE_SOURCE_BLOB: ${{ vars.AZURE_SOURCE_BLOB }}
+      KADROWKA_AZURE_STORAGE_ACCOUNT: ${{ vars.AZURE_CONTENT_STORAGE_ACCOUNT }}
+      KADROWKA_AZURE_CONTAINER: ${{ vars.AZURE_CONTENT_CONTAINER }}
+      KADROWKA_AZURE_ENVIRONMENT: ${{ github.ref == 'refs/heads/main' && 'production' || 'development' }}
+      KADROWKA_APP_ORIGIN: ${{ vars.KADROWKA_APP_ORIGIN }}
+      SWA_PRODUCTION_BRANCH: ${{ vars.SWA_PRODUCTION_BRANCH }}
+      SWA_PREVIEW_ENVIRONMENT: ${{ vars.SWA_PREVIEW_ENVIRONMENT }}
+      KADROWKA_PRODUCTION_ORIGIN: ${{ vars.KADROWKA_APP_ORIGIN }}
+      KADROWKA_PUBLIC_MATERIALS_APPROVED: ${{ inputs.public_materials_confirmed && '1' || '0' }}
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '24'
+      - name: Install pnpm
+        run: npm install --global pnpm@11.25.0
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Validate deployment configuration
+        shell: bash
+        run: |
+          set -euo pipefail
+          [[ "$AZURE_SOURCE_STORAGE_ACCOUNT" =~ ^[a-z0-9]{3,24}$ ]]
+          [[ "$KADROWKA_AZURE_STORAGE_ACCOUNT" =~ ^[a-z0-9]{3,24}$ ]]
+          [[ "$AZURE_SOURCE_CONTAINER" =~ ^[a-z0-9][a-z0-9-]{1,61}[a-z0-9]$ ]]
+          [[ "$KADROWKA_AZURE_CONTAINER" =~ ^[a-z0-9][a-z0-9-]{1,61}[a-z0-9]$ ]]
+          [[ "$AZURE_SOURCE_BLOB" =~ ^[a-zA-Z0-9._/-]+$ ]]
+          [[ "$AZURE_SOURCE_BLOB" != *..* ]]
+          [[ "$KADROWKA_APP_ORIGIN" == https://* ]]
+          if [[ "$KADROWKA_AZURE_ENVIRONMENT" == production ]]; then
+            [[ "$SWA_PRODUCTION_BRANCH" == main && -z "$SWA_PREVIEW_ENVIRONMENT" ]]
+          else
+            [[ "$SWA_PRODUCTION_BRANCH" == dev || ( "$SWA_PRODUCTION_BRANCH" == main && -n "$SWA_PREVIEW_ENVIRONMENT" ) ]]
+          fi
+      - name: Azure login (OIDC)
+        uses: azure/login@a457da9ea143d694b1b9c7c869ebb04ebe844ef5 # v2.3.0
+        with:
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+      - name: Download private source package
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p source
+          az storage blob download \
+            --account-name "$AZURE_SOURCE_STORAGE_ACCOUNT" \
+            --container-name "$AZURE_SOURCE_CONTAINER" \
+            --name "$AZURE_SOURCE_BLOB" \
+            --file source/content-package.zip \
+            --auth-mode login --only-show-errors --output none
+          pnpm source:check
+      - name: Build and test full release
+        run: |
+          pnpm deploy:prepare
+          pnpm test:deployment:local
+          pnpm audit --prod
+      - name: Production gate
+        if: env.KADROWKA_AZURE_ENVIRONMENT == 'production'
+        run: node scripts/production-release-check.mjs
+      - name: Stage Azure release
+        run: |
+          pnpm azure:stage
+          pnpm test:azure:stage
+      - name: Upload immutable material files
+        shell: bash
+        run: |
+          set -euo pipefail
+          RELEASE_ID=$(node -p "require('./release/kadrowka-azure-manifest.json').releaseId")
+          az storage blob upload-batch \
+            --account-name "$KADROWKA_AZURE_STORAGE_ACCOUNT" \
+            --destination "$KADROWKA_AZURE_CONTAINER" \
+            --destination-path "releases/$RELEASE_ID/files" \
+            --source "release/kadrowka-azure-content/releases/$RELEASE_ID/files" \
+            --auth-mode login --overwrite false --only-show-errors --output none
+      - name: Verify every published file
+        run: pnpm test:azure:blob files
+      - name: Publish immutable catalog
+        shell: bash
+        run: |
+          set -euo pipefail
+          RELEASE_ID=$(node -p "require('./release/kadrowka-azure-manifest.json').releaseId")
+          az storage blob upload \
+            --account-name "$KADROWKA_AZURE_STORAGE_ACCOUNT" \
+            --container-name "$KADROWKA_AZURE_CONTAINER" \
+            --name "catalog/$RELEASE_ID.json" \
+            --file "release/kadrowka-azure-content/catalog/$RELEASE_ID.json" \
+            --content-type application/json \
+            --auth-mode login --overwrite false --only-show-errors --output none
+          pnpm test:azure:blob catalog
+      - name: Deploy app-only artifact to Static Web Apps
+        uses: Azure/static-web-apps-deploy@4d27395796ac319302594769cfe812bd207490b1 # v1 branch commit
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.SWA_DEPLOYMENT_TOKEN }}
+          action: upload
+          app_location: release/kadrowka-azure-app
+          output_location: ''
+          skip_app_build: true
+          production_branch: ${{ vars.SWA_PRODUCTION_BRANCH }}
+          deployment_environment: ${{ vars.SWA_PREVIEW_ENVIRONMENT }}
+      - name: Verify live deployment
+        shell: bash
+        run: |
+          set -euo pipefail
+          pnpm test:deployment "$KADROWKA_APP_ORIGIN"
+          pnpm test:materials:deployment "$KADROWKA_APP_ORIGIN"

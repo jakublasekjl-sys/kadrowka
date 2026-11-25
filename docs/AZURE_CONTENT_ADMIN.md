@@ -1,5 +1,7 @@
 # Panel materiałów i Azure Blob Storage
 
+**Aktualny tryb wdrożenia:** automatyczny build z GitHub publikuje materiały do Blob i aplikację do Static Web Apps. Panel `/admin` jest w tej paczce wyłączony. Poniższy opis panelu dotyczy prototypu bezpośredniego uploadu, a nie uruchamianego procesu produkcyjnego. Do pierwszego wdrożenia i listy ustawień użyj [GITHUB_HANDOFF.md](GITHUB_HANDOFF.md); nie włączaj `adminPanelEnabled` w wydaniu Azure.
+
 ## Zakres przygotowanej integracji
 
 Kadrówka może nadal działać z lokalną paczką `/content/files`, ale potrafi również pobrać aktywny katalog materiałów z Azure Blob Storage. Przełączenie odbywa się wyłącznie przez `runtime-config.json`; kod aplikacji i treści modułów nie wymagają ręcznego przepinania ścieżek.
@@ -23,7 +25,7 @@ Panel nie przechowuje klucza konta Storage, connection stringa ani sekretu aplik
 
 ## Zasoby do utworzenia przez administratora Azure
 
-1. Azure Static Web Apps dla aplikacji React/PWA, z domeną produkcyjną `kadrowka.zhp.pl`. Środowisko testowe może być osobnym zasobem albo środowiskiem podglądowym z brancha/PR.
+1. Azure Static Web Apps dla aplikacji React/PWA, z domeną produkcyjną `kadrowka.zhp.pl`. Dla `kadrowka-dev.zhp.pl` potrzeba drugiego zasobu; podgląd jednego zasobu może używać adresu Azure.
 2. Konto StorageV2 i jeden kontener Blob o nazwie `content`.
 3. Włączone wersjonowanie obiektów oraz soft delete, np. na 30 dni.
 4. Publiczny odczyt **pojedynczych blobów** (poziom `Blob`, bez listowania kontenera) tylko po pisemnym potwierdzeniu, że wszystkie materiały i katalog mogą być jawne. Katalog ujawnia nazwy i adresy materiałów. Zapis nadal wymaga konta Entra i uprawnienia Azure RBAC.
@@ -70,7 +72,7 @@ Tenant ID, client ID, nazwa konta Storage i publiczny adres kontenera są identy
 
 Do lokalnego sprawdzenia formularza bez Azure można tymczasowo ustawić `environment: "local"` oraz `adminPanelEnabled: true`. **Nie publikować** takiej konfiguracji. W paczce wdrożeniowej panel ma być wyłączony, dopóki nie zostaną skonfigurowane Entra, RBAC i rola SWA.
 
-## Pierwsza migracja
+## Pierwsza migracja przez panel (odłożona)
 
 1. Zbuduj i opublikuj aplikację z uzupełnionym `runtime-config.json`.
 2. Otwórz `/admin` i zaloguj się kontem administratora.

@@ -1,5 +1,7 @@
 # Wdrożenie testowej Kadrówki PWA
 
+**Azure:** dla Static Web Apps nie publikuj pełnej paczki opisanej poniżej. Użyj podziału `pnpm azure:stage`, procedury i workflow z [GITHUB_HANDOFF.md](GITHUB_HANDOFF.md). Pełna paczka jest nadal przydatna do testu lokalnego i wdrożenia na własnym serwerze z odpowiednią przestrzenią.
+
 Wydanie produkcyjne ma odrębną bramkę `pnpm release:production` i wymaga potwierdzenia jawności materiałów oraz testów na docelowej domenie. Patrz [PRODUCTION_READINESS.md](PRODUCTION_READINESS.md).
 
 ## Wymagania serwera

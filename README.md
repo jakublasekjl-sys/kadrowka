@@ -37,7 +37,7 @@ pnpm test:materials:deployment https://adres-testowej-kadrowki.pl
 
 ## Web/PWA
 
-Build z katalogu `dist` należy opublikować pod HTTPS. Serwer musi dodatkowo udostępniać katalog `content/files` pod tym samym adresem co aplikacja. Materiały otwierają się od razu online i są zapamiętywane przy pierwszym użyciu; przed wyjazdem użytkownik może opcjonalnie pobrać wybrany moduł.
+Build z katalogu `dist` wymaga kompletnego zestawu materiałów. Dla zwykłego hostingu pełny katalog `release/kadrowka-web` udostępnia `content/files` pod tym samym adresem. Dla Azure Static Web Apps użyj `pnpm azure:stage`: aplikacja trafia do SWA, a pliki do Azure Blob; katalog materiałów jest przypięty do konkretnej wersji aplikacji. Materiały otwierają się od razu online i są zapamiętywane przy pierwszym użyciu; przed wyjazdem użytkownik może opcjonalnie pobrać wybrany moduł.
 
 Do testowego wdrożenia użyj `pnpm deploy:prepare`. Polecenie tworzy gotowy katalog `release/kadrowka-web` zawierający build i 674 zweryfikowane materiały (około 805 MB). Pomija 61 surowych kopii stron SharePoint `.aspx`. Jeden obraz źródłowy zapisany jako PNG pod nazwą `.jpeg` jest weryfikowany skrótem i publikowany pod poprawną nazwą `.png`. Na serwer należy wysłać **zawartość tego katalogu**, nie katalog `package/content-package/files`.
 

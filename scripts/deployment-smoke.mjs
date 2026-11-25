@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict'
+import { loadDeploymentMaterials } from './deployment-materials.mjs'
 
 const input = process.argv[2] ?? process.env.KADROWKA_URL
 if (!input) {
@@ -41,6 +42,7 @@ await request('/pracazkadra.webp', /image\/webp/i)
 const runtimeResponse = await request('/runtime-config.json', /application\/json/i)
 assert.match(runtimeResponse.headers.get('cache-control') ?? '', /no-store/, 'Konfiguracja panelu nie może być cache\'owana.')
 const runtimeConfig = await runtimeResponse.json()
+const materials = await loadDeploymentMaterials(base)
 if (runtimeConfig.adminPanelEnabled) {
   assert.equal(runtimeConfig.azure?.enabled, true, 'Panel administratora nie może być włączony bez Azure.')
   assert.equal(runtimeConfig.azure?.publicBaseUrl,
@@ -56,10 +58,17 @@ assert.ok(assets.length >= 600, `Indeks materiałów jest zbyt mały: ${assets.l
 const material = assets.find((asset) => /[A-ZĄĆĘŁŃÓŚŹŻ]/.test(asset.path) && /\.(pdf|docx|xlsx|png|jpe?g|webp)$/i.test(asset.path))
   ?? assets.find((asset) => /\.(pdf|docx|xlsx|png|jpe?g|webp)$/i.test(asset.path))
 assert.ok(material?.path, 'Nie znaleziono materiału do kontroli wielkości liter i ścieżki.')
-const materialResponse = await request(`/content/${material.path.split('/').map(encodeURIComponent).join('/')}`)
+const materialUrl = materials.materialUrl(material.path)
+assert.ok(materialUrl, `Nie znaleziono adresu materiału: ${material.path}`)
+const materialResponse = await request(materialUrl)
 const materialType = materialResponse.headers.get('content-type') ?? ''
 assert.doesNotMatch(materialType, /text\/html/i, `Materiał ${material.path} został zastąpiony stroną HTML. Sprawdź wielkość liter i kompletność plików na serwerze.`)
 assert.ok((await materialResponse.arrayBuffer()).byteLength > 0, `Materiał ${material.path} jest pusty.`)
+if (runtimeConfig.azure?.enabled) {
+  const missingBlobUrl = `${runtimeConfig.azure.publicBaseUrl}/releases/${materials.catalog.releaseId}/files/__kadrowka-test-brakujacego-materialu__.pdf`
+  const missingBlobResponse = await fetch(missingBlobUrl, { method: 'HEAD', redirect: 'manual' })
+  assert.equal(missingBlobResponse.status, 404, 'Brakujący materiał Blob musi zwracać HTTP 404.')
+}
 
 const missingMaterialUrl = new URL('/content/files/__kadrowka-test-brakujacego-materialu__.pdf', base)
 const missingMaterialResponse = await fetch(missingMaterialUrl, { redirect: 'manual' })

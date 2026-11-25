@@ -105,6 +105,7 @@ export interface AzureRuntimeConfig {
   storageAccountName: string
   containerName: string
   publicBaseUrl: string
+  catalogReleaseId?: string
 }
 
 export interface RuntimeConfig {
