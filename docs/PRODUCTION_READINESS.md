@@ -42,7 +42,7 @@ Na Azure SWA ustawić `KADROWKA_EXPECT_AZURE_ADMIN_ROUTE=1` dla testu niezalogow
 
 ## Status
 
-**Wynik lokalny 25.11.2026:** `pnpm deploy:prepare`, `pnpm test:azure:runtime`, `pnpm test:azure:stage` i `pnpm test:deployment:local` przeszły. Paczka aplikacji ma 7,78 MB, Blob obejmuje 560 unikalnych plików (763,19 MiB), a test lokalny sprawdził wszystkie 674 ścieżki. `pnpm audit --prod` nie zakończył się, ponieważ środowisko nie rozwiązywało `registry.npmjs.org`; workflow wymaga powtórzenia audytu. Nie wykonano testu na żywym Azure ani `pnpm release:production` po decyzji właściciela treści.
+**Wynik lokalny 25.11.2026:** `pnpm deploy:prepare`, `pnpm test:azure:runtime`, `pnpm test:azure:stage` i `pnpm test:deployment:local` przeszły. Paczka aplikacji ma 7,78 MB, Blob obejmuje 560 unikalnych plików (763,19 MiB), a test lokalny sprawdził wszystkie 674 ścieżki. `pnpm audit --prod` nie wykazał znanych podatności. Nie wykonano testu na żywym Azure ani `pnpm release:production` po decyzji właściciela treści.
 
 | Obszar | Status |
 |---|---|
